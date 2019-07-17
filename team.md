@@ -1,7 +1,7 @@
 ---
 title: "Team"
 layout: about
-image: /images/headers/reef.jpg
+image: /images/headers/E5_header_logo.png
 ---
 
 ## Investigators

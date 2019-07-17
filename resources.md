@@ -1,7 +1,7 @@
 ---
 title: "Resources"
 layout: about
-image: /images/headers/resource_header.jpg
+image: /images/headers/E5_header_logo.png
 ---
 
 Putnam Lab - University of Rhode Island
