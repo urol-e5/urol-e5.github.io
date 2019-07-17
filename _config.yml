@@ -16,7 +16,7 @@
 lang: en-US
 title: E5
 email: hputnam@uri.edu
-description: E5 uROL Epigentics Project
+description: E5 uROL Epigenetics Project
 baseurl:  # the optional subpath of your site, e.g. "/blog"
 url: https://urol-e5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
