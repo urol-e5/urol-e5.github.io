@@ -20,11 +20,11 @@ description: E5 uROL Epigentics Project
 baseurl:  # the optional subpath of your site, e.g. "/blog"
 url: https://urol-e5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
-  name: Hollie Putnam
-  twitter: hollieputnam
+  name: E5
+  twitter: https://twitter.com/coROL_Epigen
   picture: 
-twitter_username: hollieputnam
-github_username: hputnam
+twitter_username: coROL_Epigen
+github_username: urol-e5
 logo: /images/E5_logo_v2.png # path of site logo, e.g. "/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
