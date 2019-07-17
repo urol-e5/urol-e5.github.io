@@ -4,29 +4,27 @@ layout: about
 image: /images/headers/reef.jpg
 ---
 
-Putnam Lab - University of Rhode Island
-
-## Principal Investigator   
-### Hollie Putnam  
-![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/profile.jpg?raw=true){:height="300px" width="200px"}
-
-
-## Lab Manager  
+## Investigators
  
-### Maggie Schedl  
+### Hollie Putnam  
+![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/HP_profile.jpg?raw=true){:height="300px" width="200px"}
 
-## Graduate Students  
+### Steven Roberts
+![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/SR_profile.jpg?raw=true){:height="300px" width="200px"}  
+ 
+### Jose Eirin-Lopez 
+![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/JEL_profile.jpg?raw=true){:height="300px" width="200px"}
 
-### Kevin Wong  
+### Holly Moeller  
+![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/HM_profile.jpg?raw=true){:height="300px" width="200px"}
 
-### Emma Strand  
+### Roger Nisbet  
+![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/RN_profile.jpg?raw=true){:height="300px" width="200px"}
 
-### Sam Gurr  
+### Ross Cunning  
+![Putnam](https://github.com/Putnam-Lab/putnam-lab.github.io/blob/master/images/RC_profile.jpg?raw=true){:height="300px" width="200px"}
+
+## Postdocs 
 
 ## Undergraduate Students  
 
-### Maddie Sherman  
-
-### Erin Chille  
-
-### Kiran Reed
