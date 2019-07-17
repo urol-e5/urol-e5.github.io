@@ -7,7 +7,7 @@ image: /images/headers/reef.jpg
 ## Investigators
  
 ### Hollie Putnam  
-![Putnam](https://github.com/urol-e5/urol-e5.github.io/blob/master/images/HP_profile.jpg?raw=true)
+![Putnam](https://github.com/urol-e5/urol-e5.github.io/blob/master/images/HP_profile.jpg?raw=true){:height="300px" width="200px"}
 
 ### Steven Roberts
 ![Roberts](https://github.com/urol-e5/urol-e5.github.io/blob/master/images/SR_profile.jpg?raw=true){:height="300px" width="200px"}  
