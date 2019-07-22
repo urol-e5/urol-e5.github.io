@@ -15,15 +15,15 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: E5
-email: hputnam@uri.edu
+email: coROL.Epigen@gmail.com
 description: E5 uROL Epigenetics Project
 baseurl:  # the optional subpath of your site, e.g. "/blog"
 url: https://urol-e5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: E5
-  twitter: https://twitter.com/coROL_Epigen
+  twitter: https://twitter.com/coRoLEpigen
   picture: 
-twitter_username: coROL_Epigen
+twitter_username: coRoLepigen
 github_username: urol-e5
 logo: /images/E5_logo_v2.png # path of site logo, e.g. "/images/logo.png"
 search: true # true, false (default)
@@ -35,7 +35,7 @@ algolia:
   search_only_api_key:  # YOUR_SEARCH_ONLY_API_KEY
   powered_by: # true (default), false
 disqus:
-  shortname: hputnam
+  shortname: 
 # Build settings
 markdown: kramdown
 plugins: # previsously gems
