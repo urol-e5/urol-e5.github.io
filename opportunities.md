@@ -4,8 +4,7 @@ layout: about
 image: /images/headers/E5_header_logo.png
 ---
 
-## Opportunities
- 
+
 Interested in diving, coding, molecular biology, epigentics, and energetics? Postdoc and grad student opportunities coming soon... Check back for updates! 
 
 
