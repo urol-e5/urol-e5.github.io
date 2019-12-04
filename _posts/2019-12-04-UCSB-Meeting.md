@@ -36,5 +36,5 @@ Overview Eco - Evo Model whiteboarding session: host-symbiont transmission modes
 
 We were even able to get outside a bit.
 
-[bluff](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_2019-12-04_14-55-47.png)
+![bluff](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_2019-12-04_14-55-47.png)
 
