@@ -7,6 +7,12 @@ categories: News
 
 This week we had our Inaugural IRL PI Meeting after several months of virtual meetings. The venue was the beautiful UCSB campus. Below is our agenda.
 
+
+<video controls="controls" width="800" height="600" 
+       name="PI Chat" src="http://gannet.fish.washington.edu/seashell/snaps/IMG_2624.MOV"></video>
+
+
+
 ---
 **Tuesday**     
 Morning Block    
