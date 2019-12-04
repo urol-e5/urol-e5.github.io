@@ -8,7 +8,7 @@ categories: News
 This week we had our Inaugural IRL PI Meeting after several months of virtual meetings. The venue was the beautiful UCSB campus. Below is our agenda.
 
 ---
-**Tuesday** 
+**Tuesday**     
 Morning Block    
 Overview Mito-nuclear communication & relevance to physiological performance -- tutorial for modelers     
 Detail on markers, How tightly linked to physiological performance, Empirical Mechanisms of Epigenetics and Mito-nuclear communication     
@@ -23,7 +23,7 @@ Linking empirical to mode
 Existing Coral Model Overview    
 Dynamical Models for Switching Metabolic States   
 
-**Wednesday**
+**Wednesday**     
 Discussion of Core DEB and Eco parameters vs empirical measurements    
 Epigenetic Metrics   
 How to maintain “living” large datasets    
