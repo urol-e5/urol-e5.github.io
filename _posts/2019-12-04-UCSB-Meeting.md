@@ -9,7 +9,7 @@ This week we had our Inaugural IRL PI Meeting after several months of virtual me
 
 
 <video controls="controls" width="800" height="600" 
-       name="PI Chat" src="https://github.com/urol-e5/urol-e5.github.io/blob/master/images/ucsb_pi.mov"></video>
+       name="PI Chat" src="http://gannet.fish.washington.edu/seashell/snaps/ucsb_pi.mov"></video>
 
 
 
