@@ -9,28 +9,29 @@ This week we had our Inaugural IRL PI Meeting after several months of virtual me
 
 ---
 **Tuesday** 
-Morning Block
-Overview Mito-nuclear communication & relevance to physiological performance -- tutorial for modelers
-Detail on markers, How tightly linked to physiological performance, Empirical 
-Mechanisms of Epigenetics and Mito-nuclear communication
-Consequences for gene expression and genome function 
-Physiological consequences 
-What makes epigenetics different from other types of phenotypic plasticity? 
+Morning Block    
+Overview Mito-nuclear communication & relevance to physiological performance -- tutorial for modelers     
+Detail on markers, How tightly linked to physiological performance, Empirical Mechanisms of Epigenetics and Mito-nuclear communication     
+Consequences for gene expression and genome function     
+Physiological consequences      
+What makes epigenetics different from other types of phenotypic plasticity?      
 
-Afternoon Block
-Overview of Modeling Approaches
-DEB overview
-Linking empirical to mode
-Existing Coral Model Overview
-Dynamical Models for Switching Metabolic States
+Afternoon Block    
+Overview of Modeling Approaches     
+DEB overview    
+Linking empirical to mode    
+Existing Coral Model Overview    
+Dynamical Models for Switching Metabolic States   
 
 **Wednesday**
-Discussion of Core DEB and Eco parameters vs empirical measurements
-Epigenetic Metrics
-How to maintain “living” large datasets 
-Discuss the role/involvement of the advisory committee
-Broader Impacts
-Overview Eco - Evo Model whiteboarding session: host-symbiont transmission modes, exchange, stress response 
+Discussion of Core DEB and Eco parameters vs empirical measurements    
+Epigenetic Metrics   
+How to maintain “living” large datasets    
+Discuss the role/involvement of the advisory committee   
+Broader Impacts    
+Overview Eco - Evo Model whiteboarding session: host-symbiont transmission modes, exchange, stress response    
+
+
 ---
 
 We were even able to get outside a bit.
