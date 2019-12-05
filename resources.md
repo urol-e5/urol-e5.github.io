@@ -4,6 +4,15 @@ layout: about
 image: /images/headers/E5_header_logo.png
 ---
 
+# Us Elsewhere
+
+- [twitter](https://twitter.com/coRoLEpigen)
+
+- [insta](https://www.instagram.com/corolepigen/)
+
+- [youtube](https://www.youtube.com/channel/UC_jpWDLsqfSX50lPTN3diiw)
+
+---
 
 # Open for Science
 
@@ -20,12 +29,3 @@ Check back here for new updates at the project develops.
 
 
 ---
-
-
-# Us Elsewhere
-
-- [twitter](https://twitter.com/coRoLEpigen)
-
-- [insta](https://www.instagram.com/corolepigen/)
-
-- [youtube](https://www.youtube.com/channel/UC_jpWDLsqfSX50lPTN3diiw)
