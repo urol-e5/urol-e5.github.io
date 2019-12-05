@@ -5,18 +5,18 @@ image: /images/headers/E5_header_logo.png
 ---
 
 
-# OpenForScience
+# Open for Science
 
 We believe the scientific endeavor is best served by transparent and reproducible work. We participate in open science and share not only outcomes but process.
 
 
 Check back here for new updates at the project develops.
 
-## Lab Notebooks
+### Lab Notebooks
 
-## Data Sets
+### Data Sets
 
-## Model Code
+### Model Code
 
 
 # Us Elsewhere
