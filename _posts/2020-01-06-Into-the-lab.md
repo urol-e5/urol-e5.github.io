@@ -16,7 +16,6 @@ With samples in hand lab analysis has commenced.
 
 ![chema](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_2020-01-06_14-59-11.png)
 
-![ross](http://gannet.fish.washington.edu/seashell/snaps/Monosnap_2020-01-06_15-00-52.png)
 
 ![rossgif](http://gannet.fish.washington.edu/seashell/snaps/rgif.gif)
 
