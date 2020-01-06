@@ -3,7 +3,7 @@ layout: post
 title: Day One 2020, Day one in Moorea!
 date: '2020-01-02'
 categories: Fieldwork
-tags: twitter, lab, Moorea
+tags: [twitter, lab, Moorea]
 ---
 
 As the new year starts, there is a lot of new activity in Moorea. Here are some updates from the twitter!
