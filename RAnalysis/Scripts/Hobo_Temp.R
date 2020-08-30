@@ -17,19 +17,75 @@ library(FSA)
 
 setwd("~/MyProjects/Coral_Hospital/RAnalysis/")
 
-date <- "20190527"
+##### Acclimation #####
+Tankempty.Acc <- rep("NA", 351)
+Tank3.Acc <- read.csv("Data/Hobo_Loggers/20190510/20190510_Tank_3.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank3.Acc <- na.omit(Tank3.Acc)
+Tank4.Acc <- read.csv("Data/Hobo_Loggers/20190510/20190510_Tank_4.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank4.Acc <- na.omit(Tank4.Acc)
+Tank5.Acc <- read.csv("Data/Hobo_Loggers/20190510/20190510_Tank_5.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank5.Acc <- na.omit(Tank5.Acc)
+data.acc <- data.frame(Tank3.Acc$V2, as.numeric(Tankempty.Acc), as.numeric(Tankempty.Acc), Tank3.Acc$V3, Tank4.Acc$V3, Tank5.Acc$V3, as.numeric(Tankempty.Acc))
+colnames(data.acc) <- c("Date.Time", "Tank1", "Tank2","Tank3", "Tank4","Tank5", "Tank6")
+data.acc$Date.Time <- parse_date_time(data.acc$Date.Time, "%m/%d/%y %I:%M:%S %p" , tz="HST")
+data.acc <- data.acc [100:(nrow(data.acc)),]
 
-##### Empty tank Heater test #####
-Tank1 <- read.csv("Data/Hobo_Loggers/20190602/20190602_Tank_1.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
-Tank2 <- read.csv("Data/Hobo_Loggers/20190602/20190602_Tank_2.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+tmp.col <- c("blue","red", "darkblue")
+tnks <- c("Tank 3 Acc", "Tank 4 Acc","Tank 5 Acc")
+
+#pdf("~/MyProjects/Coral_Hospital/RAnalysis/Output/Acclimation_Temps.pdf")
+par(mar=c(6,6,2,2)) #sets the bottom, left, top and right
+plot(data.acc$Date.Time, data.acc$Tank3.Acc, cex=0.2, col="blue", ylim=c(24,31), ylab="Temperature °C", xlab="Date and Time", las=2)
+points(data.acc$Date.Time, data.acc$Tank4.Acc, cex=0.2, col="red")
+points(data.acc$Date.Time, data.acc$Tank5.Acc, cex=0.2, col="black")
+legend(data.acc$Date.Time[5], 31, legend=tnks, col=tmp.col, cex=0.6, lty=1, box.lty=0)
+#dev.off()
+
+##### Early Days #####
+Tank1.e <- read.csv("Data/Hobo_Loggers/20190514/20190514_Tank_1.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank2.e <- read.csv("Data/Hobo_Loggers/20190514/20190514_Tank_2.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank2.e <- Tank2.e[1:nrow(Tank1.e),]
+Tank3.e <- read.csv("Data/Hobo_Loggers/20190514/20190514_Tank_3.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank3.e <- Tank3.e[1:nrow(Tank1.e),]
+Tank4.e <- read.csv("Data/Hobo_Loggers/20190514/20190514_Tank_4.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank4.e <- Tank4.e[1:nrow(Tank1.e),]
+Tank5.e <- read.csv("Data/Hobo_Loggers/20190514/20190514_Tank_5.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank5.e <- Tank5.e[1:nrow(Tank1.e),]
+Tank6.e <- read.csv("Data/Hobo_Loggers/20190514/20190514_Tank_6.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank6.e <- Tank6.e[1:nrow(Tank1.e),]
+
+data.e <- cbind(Tank1.e, Tank2.e$V3, Tank3.e$V3, Tank4.e$V3, Tank5.e$V3, Tank6.e$V3)
+colnames(data.e) <- c("Date.Time", "Tank1","Tank2", "Tank3", "Tank4", "Tank5", "Tank6")
+data.e <- data.e [1:(nrow(data.e)-100),]
+data.e$Date.Time <- parse_date_time(data.e$Date.Time, "%m/%d/%y %H:%M" , tz="HST")
+
+tmp.col <- c("lightblue", "pink", "coral","blue","red", "darkblue")
+tnks <- c("Tank 1", "Tank 2","Tank 3", "Tank 4","Tank 5", "Tank 6")
+
+#pdf("~/MyProjects/Coral_Hospital/RAnalysis/Output/EarlyDaysTemps.pdf")
+#par(mfrow=c(1,3))
+par(mar=c(6,6,2,2)) #sets the bottom, left, top and right
+plot(data.e$Date.Time, data.e$Tank1, cex=0.2, col="lightblue", ylim=c(24,31), ylab="Temperature °C", xlab="Date and Time", las=2)
+points(data.e$Date.Time, data.e$Tank2, cex=0.2, col="pink")
+points(data.e$Date.Time, data.e$Tank3, cex=0.2, col="coral")
+points(data.e$Date.Time, data.e$Tank4, cex=0.2, col="blue")
+points(data.e$Date.Time, data.e$Tank5, cex=0.2, col="red")
+points(data.e$Date.Time, data.e$Tank6, cex=0.2, col="darkblue")
+legend(data.e$Date.Time[5], 31, legend=tnks, col=tmp.col, cex=0.6, lty=1, box.lty=0)
+#dev.off()
+
+
+##### Experimental Conditions #####
+Tank1 <- read.csv("Data/Hobo_Loggers/20190607/20190607_Tank_1.1.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank2 <- read.csv("Data/Hobo_Loggers/20190607/20190607_Tank_2.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
 Tank2 <- Tank2[1:nrow(Tank1),]
-Tank3 <- read.csv("Data/Hobo_Loggers/20190602/20190602_Tank_3.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank3 <- read.csv("Data/Hobo_Loggers/20190607/20190607_Tank_3.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
 Tank3 <- Tank3[1:nrow(Tank1),]
-Tank4 <- read.csv("Data/Hobo_Loggers/20190602/20190602_Tank_4.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank4 <- read.csv("Data/Hobo_Loggers/20190607/20190607_Tank_4.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
 Tank4 <- Tank4[1:nrow(Tank1),]
-Tank5 <- read.csv("Data/Hobo_Loggers/20190602/20190602_Tank_5.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank5 <- read.csv("Data/Hobo_Loggers/20190607/20190607_Tank_5.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
 Tank5 <- Tank5[1:nrow(Tank1),]
-Tank6 <- read.csv("Data/Hobo_Loggers/20190602/20190602_Tank_6.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
+Tank6 <- read.csv("Data/Hobo_Loggers/20190607/20190607_Tank_6.csv", sep=",", skip=c(2), header=FALSE, na.strings = "NA")[ ,2:3]
 Tank6 <- Tank6[1:nrow(Tank1),]
 
 data <- cbind(Tank1, Tank2$V3, Tank3$V3, Tank4$V3, Tank5$V3, Tank6$V3)
@@ -110,7 +166,7 @@ data$Date.Time <- parse_date_time(data$Date.Time, "%m/%d/%y %I:%M:%S %p" , tz="H
 tmp.col <- c("lightblue", "pink", "coral","blue","red", "darkblue")
 tnks <- c("Tank 1", "Tank 2","Tank 3", "Tank 4","Tank 5", "Tank 6")
 
-pdf("~/MyProjects/Coral_Hospital/RAnalysis/Output/Temps.pdf")
+#pdf("~/MyProjects/Coral_Hospital/RAnalysis/Output/Temps.pdf")
 #par(mfrow=c(1,3))
 par(mar=c(6,6,2,2)) #sets the bottom, left, top and right
 plot(data$Date.Time, data$Tank1, cex=0.2, col="lightblue", ylim=c(26,31), ylab="Temperature °C", xlab="Date and Time", las=2)
@@ -120,7 +176,7 @@ points(data$Date.Time, data$Tank4, cex=0.2, col="blue")
 points(data$Date.Time, data$Tank5, cex=0.2, col="red")
 points(data$Date.Time, data$Tank6, cex=0.2, col="darkblue")
 legend(data$Date.Time[5], 31, legend=tnks, col=tmp.col, cex=0.6, lty=1, box.lty=0)
-dev.off()
+#dev.off()
 
 x <- gather(data, "Date.Time")
 #x <- x[ grep("Date.Time", x$key, invert = TRUE) , ] 
@@ -162,3 +218,57 @@ pdf("~/MyProjects/Coral_Hospital/RAnalysis/Output/Trt_Temps.pdf")
         panel.border=element_rect(size=1.25, fill = NA), #set outer border
         plot.title=element_text(hjust=0)) #Justify the title to the top left
 dev.off()
+
+
+##### All Data #####
+
+Data <- rbind(data.acc, data.e, data)
+
+tmp.col <- c("lightblue", "pink", "coral","blue","red", "darkblue")
+tnks <- c("Tank 1", "Tank 2","Tank 3", "Tank 4","Tank 5", "Tank 6")
+
+pdf("~/MyProjects/Coral_Hospital/RAnalysis/Output/AllTemps.pdf")
+#par(mfrow=c(1,3))
+par(mar=c(6,6,2,2)) #sets the bottom, left, top and right
+plot(Data$Date.Time, Data$Tank1, cex=0.2, col="lightblue", ylim=c(24,31), ylab="Temperature °C", xlab="Date and Time", las=2)
+points(Data$Date.Time, Data$Tank2, cex=0.2, col="pink")
+points(Data$Date.Time, Data$Tank3, cex=0.2, col="coral")
+points(Data$Date.Time, Data$Tank4, cex=0.2, col="blue")
+points(Data$Date.Time, Data$Tank5, cex=0.2, col="red")
+points(Data$Date.Time, Data$Tank6, cex=0.2, col="darkblue")
+legend(Data$Date.Time[5], 31, legend=tnks, col=tmp.col, cex=0.6, lty=1, box.lty=0)
+dev.off()
+
+
+x <- gather(Data, "Date.Time")
+colnames(x) <- c( "Tank.Name", "value")
+x$Date.Time <- rep(Data$Date.Time, 6)
+x$Date.Time <- as.character(x$Date.Time)
+Info <- read.csv("Data/Tank_to_Treatment.csv", header=TRUE, sep=",")
+Info$Tank.Name <- as.character(Info$Tank.Name)
+Info$Treatment <- as.character(Info$Treatment)
+
+x <- merge(x, Info, by="Tank.Name")
+x$Date <- sapply(strsplit(x$Date , " "), head, 1)
+colnames(x) <- c("Tank.Name", "value", "Date.Time", "Tank", "Treatment", "Date")
+means <- aggregate(value~Tank.Name*Date, data=x, FUN=mean)
+ses <- aggregate(value~Tank.Name*Date, data=x, FUN=std.error)
+means$se <- ses$value
+colnames(means) <- c( "Treatment", "Date.Time", "mean", "se")
+means$Date.Time <- parse_date(means$Date.Time, "%Y-%m-%d")
+
+pdf("~/MyProjects/Coral_Hospital/RAnalysis/Output/AllTemps_DailyMeans.pdf")
+ggplot(means, aes(x=Date.Time, y=mean, colour=Treatment, group=Treatment)) + 
+  geom_line(position=position_dodge(0.1)) +
+  geom_point(position=position_dodge(0.1), size=1)+
+  scale_color_manual(values=c("lightblue", "pink", "coral","blue","red", "darkblue"))+
+  geom_errorbar(aes(ymin=mean-se, ymax=mean+se), colour="black", width=.1, position=position_dodge(0.1)) +
+  ylab("Temperature °C")+
+  theme_bw()+
+  theme(panel.grid.major = element_blank(), panel.grid.minor = element_blank())
+dev.off()
+
+
+tmps <- Summarize(value~ Treatment,data=x)
+tmps$se <-  tmps$sd/sqrt(tmps$n)
+

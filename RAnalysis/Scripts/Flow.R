@@ -2,7 +2,7 @@
 #Project: NSF BSF
 #Author: HM Putnam 
 #Edited by: HM Putnam
-#Date Last Modified: 20190515
+#Date Last Modified: 20190606
 #See Readme file for details
 
 rm(list=ls()) #clears workspace 
@@ -11,7 +11,7 @@ rm(list=ls()) #clears workspace
 ##### Include Versions of libraries
 
 # Set Working Directory:
-setwd("~/MyProjects/Coral_Hospital//RAnalysis/") #set working
+setwd("~/MyProjects/Coral_Hospital/RAnalysis/") #set working
 
 # load data 
 Tank.Info <-read.csv('Data/Tank_to_Treatment.csv', header=T, sep=",")
