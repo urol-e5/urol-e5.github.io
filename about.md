@@ -1,7 +1,7 @@
 ---
 title: "Research"
 layout: about
-image: /images/headers/E5_header_logo.png
+image: images/headers/E5logo_header_wide.png
 ---
 
 ## Understanding Rules of Life Epigenetics
