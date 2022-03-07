@@ -15,15 +15,17 @@
 # in the templates via {{ site.myvariable }}.
 lang: en-US
 title: E5
-email: coROL.Epigen@gmail.com
+email: hputnam@uri.edu
 description: E5 uROL Epigenetics Project
 baseurl:  # the optional subpath of your site, e.g. "/blog"
 url: https://urol-e5.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 author:
   name: E5
-  twitter: https://twitter.com/coRoLEpigen
-  picture: 
-twitter_username: coRoLepigen
+  twitter: https://twitter.com/E5coral
+  picture:
+  instagram: https://www.instagram.com/e5coral/
+twitter_username: E5coral
+instagram_username: e5coral
 github_username: urol-e5
 logo: images/BRAND PACK/LOGO/WHITE/HORIZONTAL/LOGO_E5_HORIZONTAL_W_Mesa de trabajo 1.png # path of site logo, e.g. "/images/logo.png"
 search: true # true, false (default)
