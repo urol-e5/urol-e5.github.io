@@ -29,6 +29,8 @@ tags: [twitter, Moorea, video, wyze]
 ---
 ```
 
-Save the file and success! You have made your post!  
+Save the file and success! You have made your post! 
+
+Finally, push your new post to Git.   
 
 View the website at [E5 Coral GitHub.io](https://urol-e5.github.io/).  
