@@ -21,7 +21,7 @@ We are conducting a field trip to Moorea in March and April 2022 with the goal t
 We arrived early in the morning to Moorea and took the ferry to Gump. Upon arrival, we organized all our personal belongings, lab spaces, and equipment in the molecular and LTER front lab. We began finding tubing to fill our seawater tables and noticed an impressive experiment with a lot of tanks and tables being conduted that looked like something that could be plausible to condut our marine heatwave exposure. 
 
 
-
+![tank.table.photo]()
 
 
 In the afternoon, fresh on jetlag, we filled a large cooler with ice and drove to CRIOBE to met Alexandre Fellous and pick up our frozen January 2022 (n = 37) and February 2022 (n = 36) physiological samples collected and frozen by Alex. We brought multiple samples; molecular RNA/DNA shield biopsies (n = 73; ~0.5 - 1 cm),  snap frozen in LN2 biopsies (n = 73; ~0.5 - 1 cm); and frozen physiological fragments (n = 73; ~3 inches) back to Gump and stored the molecular samples in the biocode -40 C freezer and the physiological fragments in the molecular lab -40 C freezer. The histological samples (n = 2 per colony) preserved in 10% formalin are still in a CRIOBE 4 C fridge and will be picked up next week. All December 2021 samples except for histoloigcal fragments were brought back to URI with Hollie and Ariana in December 2021. 
@@ -36,110 +36,62 @@ In the afternoon, fresh on jetlag, we filled a large cooler with ice and drove t
 
 ### *Airbrushing*    
 
-### *Tank Brainstorming Meeting*  
+### *Tank brainstorming meeting*  
+
+### *Boating updates*  
+
+### *Boat training/updates for MCR LTER boat use* 
+
+### *Equipmint checks and calibrations*  
+
+### *Apex aqabus connection and energy bar units*  
+
+### *Preliminary tank setup - XL tanks - ambient and hot - diel cycle*  
+
+### *Logger deployment in XL tanks*  
 
 
-### *Boating Updates*  
+### *pH calibration*  
 
 
-### *Tank Fill Training*  
+### *Tank fill Training*  
 
 
 
-### *Freezing samples*  
-
-Counted pools of 50 larvae per tube into n=18 tubes, which can be used for cell density, ash free dry weight, DNA, or others. Water removed with pipettes and flash frozen at 1900.  
-
-### *Environmental monitoring*  
-
-Collected light measurements in squaricals and adult larval collection tables in outdoor facility.   
-
-Light averge across all tanks was ~250 PAR at 1100.   
-
-Programmed apex for squaricals:  
-- Ambient = 27.3-28.8°C daily (not programmed, natural profile)  
-- High = 29.3-30.8°C daily  
-
-### *Parental exposure*  
-
-Added parental colonies to high temperature bins to allow for larval developmental pre exposure to elevated temperature. Added in the evening (~1800).  
 
 ## 4 March 2022  
 
-### *Respirometry*  
+### *Airbrushing*   
 
-Measured light fields in incubator across respirometry plate. At 10%, lights were an average of ~120 PAR. At 20%, light intensity was average ~215 PAR. However, P signals were weak at these light levels, so lights were increased to 30% as in Hawaii work and temperature was modulated with incubator controls as necessary. Average intensity at 30% was ~300-325 PAR at the level of the incubator plate. Plates were put on the bottom of the incubator.  
+### *Hollie and Ariana meeting*
 
-### *Environmental measurements*  
+### *Diel temperature cycle continued*
 
-Measured light in outdoor bins at 1145 with Apogee light sensor. Average light = 550 PAR.  
 
-### *Larval exposures*  
 
-Placed 800 larvae in individual plastic containers with mesh sides in one ambient and one high squarical. However, we did not get enough larvae in future samplings to use these exposures for experimental purposes, so these larvae were a trial for keeping in squaricals.  
+## 5 March 2022 
 
-### *Respirometry*  
+### *Odyssey logger read out and field deployment*
 
-We ran 1 plate of P and R at 27 and 30°C at 1200-1300 with 5 larvae per well
+### *Field day sampling for PI curves*
 
-### *Isotopes*  
+### *Diel temperature cycle continued*
 
-We conducted stable isotope incubations for stable isotope metabolomics using the same [protocol as detailed for Hawaii 2021 work](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/Mcapitata-Sampling-and-Data-Collection-June-2021/). Ran at 27 and 31°C.  
+### *PI curves*
 
-Made 4mM solutions of the following:
-
-C13 bicarbonate in seawater = 280mL of 1um FSW + 108 mg C13 bicarbonate 
-
-C12 bicarbonate in seawater (serves as chemistry control) = 240 mL 1uM FSW + 100 mg C12 bicarbonate 
-
-1um FSW with no label as seawater controls that can be used for other molecular assays
-
-Set up vials with incubation treatments for each temperature treatment (27C, 31C). In each temperature treatment:
-
-n=3 C12
-n=3 C13
-n=1 dark C13
-n=3 no added bicarbonate
-
-Counted 50 larvae into each vial. Used 20 total vials (n=10 per temperature) with 20 mL volume. Tops not sealed, vials swirled about every hour. Checked pH of solutions with pH indicator strips.  
-
-Incubated for 5 hours.  
-
-After incubation, froze samples by rinsing 3x in filtered seawater and removing water from tube in a pipette before flash freezing. 
-
-![Isotope incubation](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2021/isotope_incubation.jpeg)   
-
-## 5 March 2022   
-
-### *Respiration*  
-
-Ran 2 rounds of P and R plates with newly collected larvae from 0800-1200 at 27 and 31°C.  
-
-### *Isotopes*  
-
-Ran another round of isotope incubations as described for 5 December 2021 and incubated for 5 hours at 27 and 31°C.  
 
 ## 6 March 2022 
 
-### *Respiration*  
+### *Aliquoting*
 
-Ran 2 rounds of P and R at 27 and 34°C to obtain a higher temperature.  
+### *Surface area*
 
-### *Isotopes*  
+### *Burkepile container*
 
-Conducted another round of isotope incubations at 27 and 34°C. Sample size was as follows:  
+### *Hollie meeting*
 
-At 27°C: 
-n=2 C12
-n=2 C13
-n=2 no added bicarbonate
-n=1 dark C13
+### *Preliminary heatwave tank test - Large tanks - six*
 
-At 34°C: 
-n=4 C12
-n=4 C13
-n=4 no added bicarbonate
-n=1 dark C13
+### *Apex setup*
 
-Ran for 5 hours and sampled as previously described.  
 
