@@ -3,7 +3,7 @@ layout: post
 title: Putnam Lab Gametogenesis and Heatwave Research
 date: '2022-03-01'
 categories: Gametogenesis_Heatwave_Experiment_March_April_2022
-tags: Gametogenesis Sampling ExperimentalDesign Heatwave Respirometry
+tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave Respirometry
 ---
 This post details all activities in Moorea in March and April 2022 for the Gametogenesis and Heatwave projects for the study species *Acropora pulchra* and *Pocillopora sp.*.  
 
