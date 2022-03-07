@@ -42,7 +42,7 @@ In the afternoon, fresh on jetlag, we filled a large cooler with ice and drove t
 
 ### *Equipment checks and calibrations*  
 
-### *Apex aqabus connection and energy bar units*  
+### *Apex aquacontroller and energy bar units*  
 
 ### *Preliminary tank setup - XL tanks - ambient and hot - diel cycle*  
 
@@ -50,7 +50,7 @@ In the afternoon, fresh on jetlag, we filled a large cooler with ice and drove t
 
 
 ### *pH calibration*  
-
+Tris pH standard curve generation [general protocol](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/CBLS_Wetlab_Protocols/20201110_CBLS_WaterQuality_Checklist.Md#pH_Tris_Calibration)
 
 ### *Tank fill Training*  
 
@@ -68,234 +68,38 @@ Discussed tank setup for heating and [chilling](https://raw.githubusercontent.co
 Testing a fluctuating temperature profile on the Neptune Apex Aquacontroller
 For example
 
-# Log in to Apex Fusion
-
-# Navigate to Main Page
-
-Main Page ![](https://github.com/Putnam-Lab/Lab_Management/blob/master/Equip_Images/1_Apex_dashboard.jpg?raw=true)
-
-
-
-# Navigate to Outputs
-
-# Choose the "Gears" icon to expand settings options
-
-# Choose the "Output" icon
-
-Outputs  ![](https://github.com/Putnam-Lab/Lab_Management/blob/master/Equip_Images/2_Dashboard_Options.jpg?raw=true)
-
-
-
-# Add Virtual Outlets
-
-# First, choose the "Output" icon
-
-# Second Choose "Add a Virtual Output"
-
-Virtual Output  ![](https://github.com/Putnam-Lab/Lab_Management/blob/master/Equip_Images/3_Add_Virtual_Outlet.jpg?raw=true)
-
-# Add a name to the Virtual Output
-
-Naming  ![](https://github.com/Putnam-Lab/Lab_Management/blob/master/Equip_Images/4_Name_Virtual_Outlet.jpg?raw=true)
-
-# Set new Configuration
-
-Configuration  ![](https://github.com/Putnam-Lab/Lab_Management/blob/master/Equip_Images/5_Send_Config_Outlet.jpg?raw=true)
-
-
-# Navigate back to Outputs
-
-# Click on name of new virtual outlet
-
-Virtual Output  ![](https://github.com/Putnam-Lab/Lab_Management/blob/master/Equip_Images/6_Virtual_Outlets.jpg?raw=true)
-
-# Set control parameters and Send configuration to apex unit
-
-Send info to device  ![](https://github.com/Putnam-Lab/Lab_Management/blob/master/Equip_Images/8_Settings.jpg?raw=true)
-
-# Link the real outputs to the virtual outputs
-
-# Navigate back to Outputs
-
-# Click on name of real outlet
-
-Output List  ![](https://github.com/Putnam-Lab/Lab_Management/blob/master/Equip_Images/9_real_outlet.jpg?raw=true)
-
-
-# Add statements linking to virtual output names
-
-# Send configuration info to apex
-
-Real to Virtual Link  ![](https://github.com/Putnam-Lab/Lab_Management/blob/master/Equip_Images/10_real_to_virtual.jpg?raw=true)
-
-
-# Example code for setting a diurnal temperature flucation using a heater and a chiller
-
-### Real Outlet Chill1
-Set OFF
-
-If Output Time1-Chill = ON Then ON
-
-If Output Time2-Chill = ON Then ON
-
-If Output Time3-Chill = ON Then ON
-
-If Output Time4-Chill = ON Then ON
-
-If Output Time5-Chill = ON Then ON
-
-###  Real Outlet Heat1
-Set OFF
-
-If Output Time1-Heat = ON Then ON
-
-If Output Time2-Heat = ON Then ON
-
-If Output Time3-Heat = ON Then ON
-
-If Output Time4-Heat = ON Then ON
-
-If Output Time5-Heat = ON Then ON
-
-
-### Virtual Outlets
-
-
-### Time1-Chill
-Set OFF
-
-If Tmp < 16.0 Then OFF
-
-If Tmp > 16.0 Then ON
-
-If Time 08:15 to 20:14 Then OFF
-
-### Time1-Heat
-Set OFF
-
-If Tmp > 16.0 Then OFF
-
-If Tmp < 16.0 Then ON
-
-If Time 08:15 to 20:14 Then OFF
-
-### Time2-Chill
-Set OFF
-
-If Tmp < 16.4 Then OFF
-
-If Tmp > 16.4 Then ON
-
-If Time 00:00 to 08:14 Then OFF
-
-If Time 09:45 to 18:44 Then OFF
-
-If Time 20:15 to 23:59 Then OFF
-
-### Time2-Heat
-Set OFF
-
-If Tmp > 16.4 Then OFF
-
-If Tmp < 16.4 Then ON
-
-If Time 00:00 to 08:14 Then OFF
-
-If Time 09:45 to 18:44 Then OFF
-
-If Time 20:15 to 23:59 Then OFF
-
-### Time3-Chill
-Set OFF
-
-If Tmp < 16.8 Then OFF
-
-If Tmp > 16.8 Then ON
-
-If Time 00:00 to 09:44 Then OFF
-
-If Time 11:15 to 17:14 Then OFF
-
-If Time 18:45 to 23:59 Then OFF
-
-### Time3-Heat
-Set OFF
-If Tmp > 16.8 Then OFF
-
-If Tmp < 16.8 Then ON
-
-If Time 00:00 to 09:44 Then OFF
-
-If Time 11:15 to 17:14 Then OFF
-
-If Time 18:45 to 23:59 Then OFF
-
-### Time4-Chill
-Set OFF
-
-If Tmp < 17.0 Then OFF
-
-If Tmp > 17.0 Then ON
-
-If Time 00:00 to 11:14 Then OFF
-
-If Time 13:15 to 15:14 Then OFF
-
-If Time 17:15 to 23:59 Then OFF
-
-### Time4-Heat
-Set OFF
-
-If Tmp > 17.0 Then OFF
-
-If Tmp < 17.0 Then ON
-
-If Time 00:00 to 11:14 Then OFF
-
-If Time 13:15 to 15:14 Then OFF
-
-If Time 17:15 to 23:59 Then OFF
-
-### Time5-Chill
-Set OFF
-
-If Tmp < 17.2 Then OFF
-
-If Tmp > 17.2 Then ON
-
-If Time 00:00 to 13:14 Then OFF
-
-If Time 15:15 to 23:59 Then OFF
-
-### Time5-Heat
-Set OFF
-
-If Tmp < 17.2 Then ON
-
-If Tmp > 17.2 Then OFF
-
-If Time 00:00 to 13:14 Then OFF
-
-If Time 15:15 to 23:59 Then OFF
-
 
 ## 5 March 2022 
 
 ### *Odyssey logger read out and field deployment*
+[Odyssey PAR logger](http://odysseydatarecording.com/index.php?route=product/product&path=64&product_id=98)
 
 ### *Field day sampling for PI curves*
+
 
 ### *Diel temperature cycle continued*
 
 ### *PI curves*
-
+[PI curve Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-PI-Curve-Protocol.md)
 
 
 ## 6 March 2022 
 
 ### *Aliquoting*
+	- Label four 1.5-mL microcentrifgue tubes for each sample. 
+	- Add 1 mL homogenized tissue blastate to two of the 1.5-mL tubes.
+	- Centrifuge both 1.5-mL tubes at 13,000g for 3 min. 
+	- From one tube, pipet off supernatant (~1mL) and discard.
+		- *This is the chlorophyll assay tube:* The day before you run the chlorophyll assays, add 1mL acetone to resuspend the symbiont pellet, and place in 4°C fridge in LTER lab. See [chlorophyll assay](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Chlorophyll-Protocol.md) for more detail.
+	- From second tube, pipet off supernatant and transfer to a new labeled 1.5-mL tube. *This supernatant is the host protein assay tube:* Immediately place in -40°C until ready to proceed with the [protein assay](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Total-Protein-Protocol.md)
+	- To the second symbiont pellet, add 1mL 1xPBS to resuspend pellet. Vortex thoroughly and pipet up and down to fully break up pellet. 
+	- Once mixed, transfer 500 µL to a new labeled 1.5-mL tube. *This is the symbiont protein assay tube:* Immediately place in -40°C until ready to proceed with the protein (see links above).
+	- The remaining 500 µL of resuspended symbionts in PBS is *the symbiont density assay tube:* Store at 4°C fridge in LTER lab until ready to count cells following the [symbiont density protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md).
+		
+	- Freeze the remainder of the homogenate for Ash-free dry weight: 5 mL into a pre-burned aluminum drying pan (if ready to proceed straight away, otherwise falcon tube of homogenate can be stored at -40°C until ready). [Ash-free dry weight protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Ash-Free-Dry-Weight-Protocol.md)
 
 ### *Surface area*
+[Surface area protocol](https://github.com/urol-e5/protocols/blob/master/2021-02-17-Surface_Area_Protocol.md)
 
 ### *Equipment list from the Container*
 
