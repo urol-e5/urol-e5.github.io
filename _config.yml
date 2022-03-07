@@ -25,7 +25,7 @@ author:
   picture: 
 twitter_username: coRoLepigen
 github_username: urol-e5
-logo: images/BRAND PACK/LOGO/BLUE/HORIZONTAL/LOGO_E5_SIMPLE_Mesa de trabajo 1.jpg # path of site logo, e.g. "/images/logo.png"
+logo: images/BRAND PACK/LOGO/WHITE/HORIZONTAL/LOGO_E5_HORIZONTAL_W_Mesa de trabajo 1.png # path of site logo, e.g. "/images/logo.png"
 search: true # true, false (default)
 search_full_content: true # true, false (default)
 search_provider: lunr # lunr (default), algolia
