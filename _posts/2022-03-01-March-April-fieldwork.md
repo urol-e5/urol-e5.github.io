@@ -28,15 +28,11 @@ We arrived early in the morning to Moorea and took the ferry to Gump. Upon arriv
 
 In the afternoon, fresh on jetlag, we filled a large cooler with ice and drove to CRIOBE to met Alexandre Fellous and pick up our frozen January 2022 (n = 37) and February 2022 (n = 36) physiological samples collected and frozen by Alex. We brought multiple samples; molecular RNA/DNA shield biopsies (n = 73; ~0.5 - 1 cm),  snap frozen in LN2 biopsies (n = 73; ~0.5 - 1 cm); and frozen physiological fragments (n = 73; ~3 inches) back to Gump and stored the molecular samples in the biocode -40 C freezer and the physiological fragments in the molecular lab -40 C freezer. The histological samples (n = 2 per colony) preserved in 10% formalin are still in a CRIOBE 4 C fridge and will be picked up next week. All December 2021 samples except for histoloigcal fragments were transported to URI in December 2021. 
 
-
-
-
-
-
  
 ## 3 March 2022 
 
-### *Airbrushing*    
+### *Airbrushing*
+[Airbrushed](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Airbrushing.md) the corals collected monthly to determine physiological status [phys protocols](https://github.com/urol-e5/protocols)
 
 ### *Tank brainstorming meeting*  
 
@@ -44,7 +40,7 @@ In the afternoon, fresh on jetlag, we filled a large cooler with ice and drove t
 
 ### *Boat training/updates for MCR LTER boat use* 
 
-### *Equipmint checks and calibrations*  
+### *Equipment checks and calibrations*  
 
 ### *Apex aqabus connection and energy bar units*  
 
@@ -60,12 +56,13 @@ In the afternoon, fresh on jetlag, we filled a large cooler with ice and drove t
 
 
 
-
 ## 4 March 2022  
 
 ### *Airbrushing*   
+[Airbrushed](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Airbrushing.md) the corals collected monthly to determine physiological status [phys protocols](https://github.com/urol-e5/protocols)
 
 ### *Hollie and Ariana meeting*
+Discussed tank setup for heating and chilling
 
 ### *Diel temperature cycle continued*
 
@@ -82,13 +79,14 @@ In the afternoon, fresh on jetlag, we filled a large cooler with ice and drove t
 ### *PI curves*
 
 
+
 ## 6 March 2022 
 
 ### *Aliquoting*
 
 ### *Surface area*
 
-### *Burkepile container*
+### *Equipment list from the Container*
 
 ### *Hollie meeting*
 
