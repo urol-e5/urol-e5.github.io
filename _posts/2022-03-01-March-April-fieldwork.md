@@ -21,7 +21,7 @@ We are conducting a field trip to Moorea in March and April 2022 with the goal t
 We arrived early in the morning to Moorea and took the ferry to Gump. Upon arrival, we organized all our personal belongings, lab spaces, and equipment in the molecular and LTER front lab. We began finding tubing to fill our seawater tables and noticed an impressive experiment with a lot of tanks and tables being conduted that looked like something that could be plausible to condut our marine heatwave exposure. 
 
 
-![tank.table.photo]()
+![tank.table.photo](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3465.jpg)
 
 
 In the afternoon, fresh on jetlag, we filled a large cooler with ice and drove to CRIOBE to met Alexandre Fellous and pick up our frozen January 2022 (n = 37) and February 2022 (n = 36) physiological samples collected and frozen by Alex. We brought multiple samples; molecular RNA/DNA shield biopsies (n = 73; ~0.5 - 1 cm),  snap frozen in LN2 biopsies (n = 73; ~0.5 - 1 cm); and frozen physiological fragments (n = 73; ~3 inches) back to Gump and stored the molecular samples in the biocode -40 C freezer and the physiological fragments in the molecular lab -40 C freezer. The histological samples (n = 2 per colony) preserved in 10% formalin are still in a CRIOBE 4 C fridge and will be picked up next week. All December 2021 samples except for histoloigcal fragments were brought back to URI with Hollie and Ariana in December 2021. 
