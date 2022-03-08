@@ -46,18 +46,16 @@ In the afternoon, fresh on jetlag, we filled a large cooler with ice and drove t
 
 ### *Preliminary tank setup*  
 
-To test if the light and ambient temperature conditions would be favorable for our tank system, HOBO light and temperature loggers, temp probes, heaters, Apex units, and pumps were set up in two XL tanks. One tank was ambient and the other was set to run a diel temperature fluctuation with a max temperature of 30 C. We also wanted to check that the Odyssey light loggers we had calibrated using a LICOR and following the [LICOR calibration protocol](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/Equipment_Protocols/LICOR_logger_calibration.md) worked properly so two Odyssey light loggers were deployed in each tank as well.
+To test if the light and ambient temperature conditions would be favorable for our tank system, HOBO light and temperature loggers, temp probes, heaters, Apex units, and pumps were set up in two XL tanks. One tank was ambient and the other was set to run a diel temperature fluctuation with a max temperature of 30 C. We also wanted to check that the Odyssey light loggers we had calibrated using a LICOR and following the [LICOR calibration protocol](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/Equipment_Protocols/LICOR_logger_calibration.md) worked properly so two Odyssey light loggers were deployed in each tank as well. Odyssey light loggers were deployed following the [Odyssey quick start guide](http://odysseydatarecording.com/download/odyssey_quick_start_guide.pdf) set to run at 1 minute intervals starting 20220303 at 10:00am till battery exhaustion which would be on October 10th 2022. The HOBO light and temperature loggers were deployed using the [HOBOmobile](https://www.onsetcomp.com/products/software/hobomobile/) app following the [HOBO® Pendant® MX Temp/Light (MX2202) Logger Manual](https://assets.omega.com/manuals/HOBO%20MX2201%20and%20MX2202%20Manual.pdf) set to log every 1 minute starting on 20220303 at 10:00am until I stopped them in a few days.
 
 
-![hot tank]()
+![hot tank](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3493.jpeg)
 
-![ambient]()
+![ambient](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3494.jpeg)
 
-![apex]()
+![apex](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3492.jpeg)
 
-
-
-### *Logger deployment in XL tanks*  
+![full set up](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3491.jpeg)
 
 
 ### *pH calibration*  
