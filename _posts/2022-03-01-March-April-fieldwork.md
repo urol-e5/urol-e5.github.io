@@ -44,7 +44,18 @@ In the afternoon, fresh on jetlag, we filled a large cooler with ice and drove t
 
 ### *Apex aquacontroller and energy bar units*  
 
-### *Preliminary tank setup - XL tanks - ambient and hot - diel cycle*  
+### *Preliminary tank setup*  
+
+To test if the light and ambient temperature conditions would be favorable for our tank system, HOBO light and temperature loggers, temp probes, heaters, Apex units, and pumps were set up in two XL tanks. One tank was ambient and the other was set to run a diel temperature fluctuation with a max temperature of 30 C. We also wanted to check that the Odyssey light loggers we had calibrated using a LICOR and following the [LICOR calibration protocol](https://github.com/Putnam-Lab/Lab_Management/blob/master/Lab_Resources/Equipment_Protocols/LICOR_logger_calibration.md) worked properly so two Odyssey light loggers were deployed in each tank as well.
+
+
+![hot tank]()
+
+![ambient]()
+
+![apex]()
+
+
 
 ### *Logger deployment in XL tanks*  
 
