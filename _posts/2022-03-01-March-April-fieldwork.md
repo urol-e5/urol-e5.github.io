@@ -82,6 +82,10 @@ For example
 ### *PI curves*
 Following the [PI curve Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-PI-Curve-Protocol.md), PI curves were conducted on five *Acropora pulchra* coral fragments that had been collected from the Mahana site from various patches used in our monthly sampling. We conduct PI curves to calculate various paramaters like Am (max photosynthetic rate), AQY (alpha), Rd (respiration), and Ik (saturating irradiance). Photosynthesis to irradiance curves (P-I curve) are constructed from oxygen-respirometry techniques to assess the irradiance level at which photosynthesis becomes saturated (saturating irradiance, denoted as Ik) for corals at our sites. Irradiance levels that are higher or lower than Ik can reduce the organism’s efficiency to capture and utilize incoming light energy, so being able to identify what level is most conducive for the corals is important for future photosynthetic measurements.
 
+![resp set up](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3529.jpeg)
+
+![pi set up](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3530.jpeg)
+
 ## 6 March 2022
 
 ### *Aliquoting*
@@ -97,7 +101,30 @@ Surface area for all of the corals used in the PI curves (n = 5) and our samples
 
 ### *Preliminary heatwave tank test - large tanks - six*
 
+To test that our Apex energy bar and Apex aquabus unit could facilitate six consecutive heaters and outlets over our planned heatwave scenario, six large tanks were set up with one temp probe, one heater, and one pump per tank to run diel temperature cycles over the next week.
+
+![tank1](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3561.jpeg)
+
+![tank2](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3562.jpeg)
+
+![tank3](https://github.com/urol-e5/urol-e5.github.io/blob/master/images/March2022_Moorea/IMG_3563.jpeg)
+
+![tank4](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3564.jpeg)
+
+![tank5](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3565.jpeg)
+
+![tank6](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3566.jpeg)
+
+![inside tank](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3567.jpeg)
+
+![full set up](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3568.jpeg)
+
+
 ### *Apex setup*
+
+![EB set up](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3571.jpeg)
+
+![aquabus](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3572.jpeg)
 
 
 ## 7 March 2022
