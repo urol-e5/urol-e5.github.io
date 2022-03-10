@@ -1,4 +1,3 @@
-technician---
 layout: post
 title: Gametogenesis and Heatwave Research
 date: '2022-03-07'
