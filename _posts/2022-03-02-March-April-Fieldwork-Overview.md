@@ -5,7 +5,7 @@ date: '2022-03-02'
 categories: Gametogenesis_Heatwave_Experiment_March_April_2022
 tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave Respirometry
 ---
-This post details all activities in Moorea in March and April 2022 for the Gametogenesis and Heatwave projects for the study species *Acropora pulchra* and *Pocillopora sp.*.  
+This post details all activities in Moorea in March and April 2022 for the Gametogenesis and Heatwave projects for the study species *Acropora pulchra* and *Pocillopora sp.* conduted in Mo'orea, French Polynesia at the [Richard B. Gump South Pacific Research Station](https://www.moorea.berkeley.edu/user-guide/rates-and-fees).  
 
 # Overview  
 
@@ -17,6 +17,7 @@ We are conducting a field trip to Moorea in March and April 2022 with the goal t
 1. Danielle Becker-Polinski (Putnam Lab)
 2. Lauren Zane (Putnam Lab)
 3. Alexandre Fellous (Putnam Lab / CRIOBE)
+
 
 ## 2 March 2022
 
