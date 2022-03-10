@@ -1,4 +1,4 @@
----
+technician---
 layout: post
 title: Gametogenesis and Heatwave Research
 date: '2022-03-01'
@@ -36,13 +36,15 @@ In the afternoon, fresh on jetlag, we filled a large cooler with ice and drove t
 
 ### *Tank brainstorming meeting*  
 
+Discussed how to set up 12 marine heatwave treatment tanks and 12 ambient tanks with one genotype per treatment and with timepoint fragments (n = 6) with five timepoints and one extra fragment for mortality. Also discussed troubleshooting for temperature of ambient tanks and need for chillers, etc.  
+
 ### *Boating updates*  
 
-### *Boat training/updates for MCR LTER boat use*
+To drive the boats at Gump or through the LTER, station guests need to complete a California boat training, 6 check out passenger trips and 6 captain trips before a final checkout with a lab technician or staff to be approved to drive the boats. Danielle is checked out for both the Gump and MCR LTER 509s and 389s per confirmation from Andy. She also has received and printed a hard copy of her California boating card and MCR LTER boating card.
 
-### *Equipment checks and calibrations*  
+### *Apex aqua-controller and energy bar units*  
 
-### *Apex aquacontroller and energy bar units*  
+We brought two [APEX aquabus bas units](https://www.neptunesystems.com/getstarted/apexng/) and [APEX 832 energy bars](https://www.neptunesystems.com/products/expansion-modules/energy-bars/) and 10 [APEX PM1 units](https://www.neoquarium.fr/fr/gestion-electronique-aquarium/138-neptune-system-pm1-module.html) to be able to control temperature profiles, heaters, and chillers for our tank set up. In order to use and set specific temperature fluctuations and diel cycles, you need to connect your APEX units to the online APEX fusion interface to be able to control all online functions and APEX controllers. In order to get up and running you can follow the comprehensive [APEX reference manual](https://usermanual.wiki/Document/ApexComprehensiveReferenceManual.1042767863/view) and [APEX getting started guide](https://www.manualslib.com/manual/1533740/Neptune-Systems-Apexel.html).
 
 ### *Preliminary tank setup*  
 
@@ -63,7 +65,7 @@ Calibrated our Orion pH/conductivity meter using a tris pH standard curve genera
 
 ### *Tank fill Training*  
 
-
+Kathryn taught Danielle and Lauren how to fill scuba tanks using the compressor available for use at Gump station. They have a video if anyone may need one in the future.
 
 ## 4 March 2022  
 
@@ -71,17 +73,110 @@ Calibrated our Orion pH/conductivity meter using a tris pH standard curve genera
 [Airbrushed](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Airbrushing.md) the corals collected monthly to determine physiological status [phys protocols](https://github.com/urol-e5/protocols)
 
 ### *Hollie and Ariana meeting*
-Discussed tank setup for heating and [chilling](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/chiller%20setup1.jpg)
+Discussed tank setup for heating and [chilling](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/chiller%20setup1.jpg) and need for testing and troubleshooting to make sure we can have a consistent diel temperature cycle with the flow and available set up.
 
 ### *Diel temperature cycle continued*
 Testing a fluctuating temperature profile on the Neptune Apex Aquacontroller
-For example
+
+For example:
+
+AMBIENT: 28.7-29.4 (0.7C daily variability)
+
+RAMP DAY 1 EXAMPLE
+
+28.7C - 29.4C  
+
+Stage 1 = 28.7
+Stage 2 = 28.8
+Stage 3 = 28.9
+Stage 4 = 29.0
+Stage 5 = 29.1
+Stage 6 = 29.2
+Stage 7 = 29.3
+Stage 8 = 29.4
+
+Outlet1
+Set OFF
+If Outlet 1_Stage1=ON Then ON
+If Outlet 1_Stage2 = ON Then ON
+If Outlet 1_Stage3 = ON Then ON
+If Outlet 1_Stage4 = ON Then ON
+If Outlet 1_Stage5 = ON Then ON
+If Outlet 1_Stage6 = ON Then ON
+If Outlet 1_Stage7 = ON Then ON
+If Outlet 1_Stage8 = ON Then ON
+
+1_Stage1
+Set OFF
+If TMP_1 < 28.7 Then ON
+If TMP_1 > 28.7 Then OFF
+If Time 01:00 to 04:30 Then OFF
+If Time 06:45 to 00:59 Then OFF
+
+1_Stage2
+Set OFF
+If TMP_1 < 28.8 Then ON
+If TMP_1 > 28.8 Then OFF
+If Time 01:00 to 03:00 Then OFF
+If Time 04:30 to 06:45 Then OFF
+If Time 08:15 to 00:59 Then OFF
+
+1_Stage3
+Set OFF
+If TMP_1 < 28.9 Then ON
+If TMP_1 > 28.9 Then OFF
+If Time 01:00 to 02:00 Then OFF
+If Time 03:00 to 08:15 Then OFF
+If Time 09:45 to 00:59 Then OFF
+
+1_Stage4
+Set OFF
+If TMP_1 < 29.0 Then ON
+If TMP_1 > 29.0 Then OFF
+If Time 02:00 to 09:45 Then OFF
+If Time 11:15 to 00:30 Then OFF
+
+1_Stage5
+Set OFF
+If TMP_1 < 29.1 Then ON
+If TMP_1 > 29.1 Then OFF
+If Time 01:00 to 11:15 Then OFF
+If Time 12:15 to 23:00 Then OFF
+If Time 00:30 to 00:59 Then OFF
+
+1_Stage6
+Set OFF
+If TMP_1 < 29.2 Then ON
+If TMP_1 > 29.2 Then OFF
+If Time 01:00 to 12:15 Then OFF
+If Time 13:30 to 19:45 Then OFF
+If Time 23:00 to 00:59 Then OFF
+
+1_Stage7
+Set OFF
+If TMP_1 < 29.3 Then ON
+If TMP_1 > 29.3 Then OFF
+If Time 01:00 to 13:30 Then OFF
+If Time 15:00 to 17:15 Then OFF
+If Time 19:45 to 00:59 Then OFF
+
+1_Stage8
+Set OFF
+If TMP_1 < 29.4 Then ON
+If TMP_1 > 29.4 Then OFF
+If Time 01:00 to 15:00 Then OFF
+If Time 17:15 to 00:59 Then OFF
+
 
 
 ## 5 March 2022
 
 ### *Odyssey logger read out and field deployment*
 [Odyssey PAR logger](http://odysseydatarecording.com/index.php?route=product/product&path=64&product_id=98)
+
+Odyssey light loggers were taken out of the experimental tanks and read out following the instructions in the [Odyssey quick start guide](http://odysseydatarecording.com/download/odyssey_quick_start_guide.pdf).
+
+![odyssey plot]()
 
 ### *Field day sampling for PI curves*
 
@@ -105,8 +200,14 @@ After airburshing and freezing the samples in a -40 C freezer, samples were aliq
 Surface area for all of the corals used in the PI curves (n = 5) and our samples from January and February (n = 73) were completed following the [surface area protocol](https://github.com/urol-e5/protocols/blob/master/2021-02-17-Surface_Area_Protocol.md).
 
 ### *Equipment list from the Container*
+Borrowing equipment from Burkepile container:
+- 1 chiller - ARCTICA titanium chiller DBE 200
+- 2 pumps - PONDMASTER fountain-mag - 190 GPH
+- 4 extension cords -Belkin
+- 9 150 Watt heaters - EHEIM JAGER
 
 ### *Hollie meeting*
+Discussed setting up a chiller with a float valve to ensure the water does not ever go below the chiller or pumps. Having a chiller reservoir tote to supply a slow flow of chilled water to the tanks will be essential for the hotter days coming in April. Will use drawdown pvc fittings to facilitate a flow from chiller into every tank (n = 24).
 
 ### *Preliminary heatwave tank test - large tanks - six*
 
@@ -140,4 +241,6 @@ To test that our Apex energy bar and Apex aquabus unit could facilitate six cons
 
 ### *Symbiont counts*
 
-[Symbiont density protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md)
+Lauren and I started symbiont counts following the [Symbiont density protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md) for 73 corals collected in January and February 2022.
+
+### *PI curve calculations*
