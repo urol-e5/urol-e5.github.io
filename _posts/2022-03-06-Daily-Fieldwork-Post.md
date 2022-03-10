@@ -25,6 +25,10 @@ Borrowing equipment from Burkepile container:
 ### *Hollie meeting*
 Discussed setting up a chiller with a float valve to ensure the water does not ever go below the chiller or pumps. Having a chiller reservoir tote to supply a slow flow of chilled water to the tanks will be essential for the hotter days coming in April. Will use drawdown pvc fittings to facilitate a flow from chiller into every tank (n = 24).
 
+Example:
+
+![float valve](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3264.jpg)
+
 ### *Preliminary heatwave tank test - large tanks - six*
 
 To test that our Apex energy bar and Apex aquabus unit could facilitate six consecutive heaters and outlets over our planned heatwave scenario, six large tanks were set up with one temp probe, one heater, and one pump per tank to run diel temperature cycles over the next week.
