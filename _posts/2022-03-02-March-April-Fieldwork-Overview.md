@@ -1,7 +1,6 @@
-technician---
 layout: post
 title: Gametogenesis and Heatwave Research
-date: '2022-03-01'
+date: '2022-03-02'
 categories: Gametogenesis_Heatwave_Experiment_March_April_2022
 tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave Respirometry
 ---
@@ -67,10 +66,8 @@ Calibrated our Orion pH/conductivity meter using a tris pH standard curve genera
 
 Kathryn taught Danielle and Lauren how to fill scuba tanks using the compressor available for use at Gump station. They have a video if anyone may need one in the future.
 
-## 4 March 2022  
+## 4 March 2022     
 
-### *Airbrushing*   
-[Airbrushed](https://github.com/urol-e5/protocols/blob/master/2020-01-01-Airbrushing.md) the corals collected monthly to determine physiological status [phys protocols](https://github.com/urol-e5/protocols)
 
 ### *Hollie and Ariana meeting*
 Discussed tank setup for heating and [chilling](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/chiller%20setup1.jpg) and need for testing and troubleshooting to make sure we can have a consistent diel temperature cycle with the flow and available set up.
@@ -176,15 +173,28 @@ If Time 17:15 to 00:59 Then OFF
 
 Odyssey light loggers were taken out of the experimental tanks and read out following the instructions in the [Odyssey quick start guide](http://odysseydatarecording.com/download/odyssey_quick_start_guide.pdf).
 
-![odyssey plot]()
+![odyssey plot](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/15640_001_hot_tank.JPG)
+
+Following the instructions in the [Odyssey quick start guide](http://odysseydatarecording.com/download/odyssey_quick_start_guide.pdf) two light loggers were set to:
+
+| Serial Number | Delay Start    | Site   | End Date                      | Location                              |
+|---------------|----------------|--------|-------------------------------|---------------------------------------|
+| 15641         | 20220305 09:00 | Mahana | Last until: October 19th 2022 | Patch 04, next to HOBO 01 and Tag 457 |
+| 15640         | 20220305 09:00 | Mahana | Last until: October 19th 2022 | Patch 04, next to HOBO 01 and Tag 457 |
+|               |                |        |                               |                                       |
+
+To reduce biofouling, the loggers were wrapped in copper tape at the top and wrapped with electrical tape and labeled.
+
+![field logger](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3517.jpg)
+
+![field logger1](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3519.jpg)
 
 ### *Field day sampling for PI curves*
 
-
-### *Diel temperature cycle continued*
+Lauren and I went to explore our Mahana site (17°29'12.5"S 149°53'16.1"W) to find our patches and tags. After some searching we found them! We put out the light loggers next to patch 04 and collected five ~5 inch *Acropora pulchra* from the five patches to calculate our photosynthesis to irradiance curves (P-I curve). They are constructed from oxygen-respirometry techniques to assess the irradiance level at which photosynthesis becomes saturated (saturating irradiance, denoted as Ik) for corals at our sites. Irradiance levels that are higher or lower than Ik can reduce the organism’s efficiency to capture and utilize incoming light energy, so being able to identify what level is most conducive for the corals is important for future photosynthetic measurements.
 
 ### *PI curves*
-Following the [PI curve Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-PI-Curve-Protocol.md), PI curves were conducted on five *Acropora pulchra* coral fragments that had been collected from the Mahana site from various patches used in our monthly sampling. We conduct PI curves to calculate various paramaters like Am (max photosynthetic rate), AQY (alpha), Rd (respiration), and Ik (saturating irradiance). Photosynthesis to irradiance curves (P-I curve) are constructed from oxygen-respirometry techniques to assess the irradiance level at which photosynthesis becomes saturated (saturating irradiance, denoted as Ik) for corals at our sites. Irradiance levels that are higher or lower than Ik can reduce the organism’s efficiency to capture and utilize incoming light energy, so being able to identify what level is most conducive for the corals is important for future photosynthetic measurements.
+Following the [PI curve Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-PI-Curve-Protocol.md), PI curves were conducted on five *Acropora pulchra* coral fragments that had been collected from the Mahana site from various patches used in our monthly sampling. We conduct PI curves to calculate various paramaters like Am (max photosynthetic rate), AQY (alpha), Rd (respiration), and Ik (saturating irradiance).
 
 ![resp set up](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3529.jpeg)
 
@@ -235,12 +245,3 @@ To test that our Apex energy bar and Apex aquabus unit could facilitate six cons
 ![EB set up](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3571.jpeg)
 
 ![aquabus](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3572.jpeg)
-
-
-## 7 March 2022
-
-### *Symbiont counts*
-
-Lauren and I started symbiont counts following the [Symbiont density protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md) for 73 corals collected in January and February 2022.
-
-### *PI curve calculations*
