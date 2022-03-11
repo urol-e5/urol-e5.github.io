@@ -13,9 +13,9 @@ tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave Respirometry
 Discussed tank setup for heating and [chilling](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/chiller%20setup1.jpg) and need for testing and troubleshooting to make sure we can have a consistent diel temperature cycle with the flow and available set up.
 
 ### *Diel temperature cycle continued*
-Testing a fluctuating temperature profile on the Neptune Apex Aquacontroller
+Testing a fluctuating temperature profile on the Neptune Apex Aquacontroller base unit. Ariana helped with how to set a diel cycle through APEX fusion online interface using the [APEX aquabus and APEX Energy Bar](https://www.bulkreefsupply.com/apex-controller-with-extra-energy-bar-832-neptune-systems-bundle.html). Follow this [quick start guide](https://www.youtube.com/watch?v=S_oexUvMi00) to program an APEX for diel cycle and control the enery bar outlets.
 
-For example:
+See example below to program APEX energy bar controllers outlets to control heaters:
 
 AMBIENT: 28.7-29.4 (0.7C daily variability)
 
