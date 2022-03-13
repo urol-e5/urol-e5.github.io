@@ -15,6 +15,8 @@ Odyssey light loggers were taken out of the experimental tanks and read out foll
 
 ![odyssey plot](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/15640_001_hot_tank.JPG)
 
+All data were uploaded to the [Gametogenesis Project Google Drive folder](https://drive.google.com/drive/u/0/folders/1KSkMOiGlpIDJ80WWa3U5HESVHea4GNIu) and the [Gametogenesis Timeseries GitHub](https://github.com/daniellembecker/Gametogenesis/tree/main/gametogenesis_timeseries). 
+
 Following the instructions in the [Odyssey quick start guide](http://odysseydatarecording.com/download/odyssey_quick_start_guide.pdf) two light loggers were set to:
 
 | Serial Number | Delay Start    | Site   | End Date                      | Location                              |
@@ -34,7 +36,7 @@ To reduce biofouling, the loggers were wrapped in copper tape at the top and wra
 Lauren and I went to explore our Mahana site (17°29'12.5"S 149°53'16.1"W) to find our patches and tags. After some searching we found them! We put out the light loggers next to patch 04 and collected five ~5 inch *Acropora pulchra* from the five patches to calculate our photosynthesis to irradiance curves (P-I curve). They are constructed from oxygen-respirometry techniques to assess the irradiance level at which photosynthesis becomes saturated (saturating irradiance, denoted as Ik) for corals at our sites. Irradiance levels that are higher or lower than Ik can reduce the organism’s efficiency to capture and utilize incoming light energy, so being able to identify what level is most conducive for the corals is important for future photosynthetic measurements.
 
 ### *PI curves*
-Following the [PI curve Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-PI-Curve-Protocol.md), PI curves were conducted on five *Acropora pulchra* coral fragments that had been collected from the Mahana site from various patches used in our monthly sampling. We conduct PI curves to calculate various paramaters like Am (max photosynthetic rate), AQY (alpha), Rd (respiration), and Ik (saturating irradiance).
+Following the [PI curve Protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-01-PI-Curve-Protocol.md), PI curves were conducted on five *Acropora pulchra* coral fragments that had been collected from the Mahana site from various patches used in our monthly sampling. We conduct PI curves to calculate various paramaters like Am (max photosynthetic rate), AQY (alpha), Rd (respiration), and Ik (saturating irradiance). All data and statistics were uploaded to the [Gametogenesis Project Google Drive folder](https://drive.google.com/drive/u/0/folders/1KSkMOiGlpIDJ80WWa3U5HESVHea4GNIu) and the [Gametogenesis Timeseries GitHub](https://github.com/daniellembecker/Gametogenesis/tree/main/gametogenesis_timeseries). 
 
 ![resp set up](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/IMG_3529.jpeg)
 

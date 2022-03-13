@@ -10,11 +10,11 @@ tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave Respirometry
 
 ### *Symbiont counts*
 
-Lauren and I started symbiont counts following the [Symbiont density protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md) for 73 corals collected in January and February 2022.
+Lauren and I started symbiont counts following the [Symbiont density protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md) for 73 corals collected in January and February 2022. All data and statistics were uploaded to the [Gametogenesis Project Google Drive folder](https://drive.google.com/drive/u/0/folders/1KSkMOiGlpIDJ80WWa3U5HESVHea4GNIu) and the [Gametogenesis Timeseries GitHub](https://github.com/daniellembecker/Gametogenesis/tree/main/gametogenesis_timeseries). 
 
 ### *PI curve calculations*
 
-Following the [PI curve scripts parts 1, 2, and 3](https://github.com/urol-e5/timeseries/tree/master/timepoint_1/scripts) created by Ariana Huffmyer, we calculated Am (max photosynthetic rate), AQY (alpha), Rd (respiration), and Ik (saturating irradiance) for all five of the fragments.
+Following the [PI curve scripts parts 1, 2, and 3](https://github.com/urol-e5/timeseries/tree/master/timepoint_1/scripts) created by Ariana Huffmyer, we calculated Am (max photosynthetic rate), AQY (alpha), Rd (respiration), and Ik (saturating irradiance) for all five of the fragments. All data and statistics were uploaded to the [Gametogenesis Project Google Drive folder](https://drive.google.com/drive/u/0/folders/1KSkMOiGlpIDJ80WWa3U5HESVHea4GNIu) and the [Gametogenesis Timeseries GitHub](https://github.com/daniellembecker/Gametogenesis/tree/main/gametogenesis_timeseries). 
 
 ![pi curves](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/PI_curves_plot.png) 
 

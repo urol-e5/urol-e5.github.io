@@ -13,7 +13,7 @@ After airburshing and freezing the samples in a -40 C freezer, samples were aliq
 
 
 ### *Surface area*
-Surface area for all of the corals used in the PI curves (n = 5) and our samples from January and February (n = 73) were completed following the [surface area protocol](https://github.com/urol-e5/protocols/blob/master/2021-02-17-Surface_Area_Protocol.md).
+Surface area for all of the corals used in the PI curves (n = 5) and our samples from January and February (n = 73) were completed following the [surface area protocol](https://github.com/urol-e5/protocols/blob/master/2021-02-17-Surface_Area_Protocol.md). All data and statistics were uploaded to the [Gametogenesis Project Google Drive folder](https://drive.google.com/drive/u/0/folders/1KSkMOiGlpIDJ80WWa3U5HESVHea4GNIu) and the [Gametogenesis Timeseries GitHub](https://github.com/daniellembecker/Gametogenesis/tree/main/gametogenesis_timeseries). 
 
 ### *Equipment list from the Container*
 Borrowing equipment from Burkepile container:

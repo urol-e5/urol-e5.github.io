@@ -10,7 +10,7 @@ tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave Respirometry
 
 ### *Symbiont counts*
 
-Lauren and I continued symbiont counts following the [Symbiont density protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md) for 73 corals collected in January and February 2022. 
+Lauren and I continued symbiont counts following the [Symbiont density protocol](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md) for 73 corals collected in January and February 2022. All data and statistics were uploaded to the [Gametogenesis Project Google Drive folder](https://drive.google.com/drive/u/0/folders/1KSkMOiGlpIDJ80WWa3U5HESVHea4GNIu) and the [Gametogenesis Timeseries GitHub](https://github.com/daniellembecker/Gametogenesis/tree/main/gametogenesis_timeseries). 
 
 ### *Tank preliminary testing notes*
 
