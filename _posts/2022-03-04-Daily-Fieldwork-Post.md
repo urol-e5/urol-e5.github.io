@@ -17,89 +17,89 @@ Testing a fluctuating temperature profile on the Neptune Apex Aquacontroller bas
 
 See example below to program APEX energy bar controllers outlets to control heaters:
 
-AMBIENT: 28.7-29.4 (0.7C daily variability)
+AMBIENT: 28.7-29.4 (0.7C daily variability)   
 
-RAMP DAY 1 EXAMPLE
+RAMP DAY 1 EXAMPLE   
 
-28.7C - 29.4C  
+28.7C - 29.4C     
 
-Stage 1 = 28.7
-Stage 2 = 28.8
-Stage 3 = 28.9
-Stage 4 = 29.0
-Stage 5 = 29.1
-Stage 6 = 29.2
-Stage 7 = 29.3
-Stage 8 = 29.4
+Stage 1 = 28.7   
+Stage 2 = 28.8   
+Stage 3 = 28.9   
+Stage 4 = 29.0   
+Stage 5 = 29.1   
+Stage 6 = 29.2   
+Stage 7 = 29.3   
+Stage 8 = 29.4   
 
-Outlet1
-Set OFF
-If Outlet 1_Stage1=ON Then ON
-If Outlet 1_Stage2 = ON Then ON
-If Outlet 1_Stage3 = ON Then ON
-If Outlet 1_Stage4 = ON Then ON
-If Outlet 1_Stage5 = ON Then ON
-If Outlet 1_Stage6 = ON Then ON
-If Outlet 1_Stage7 = ON Then ON
-If Outlet 1_Stage8 = ON Then ON
+Outlet1   
+Set OFF   
+If Outlet 1_Stage1=ON Then ON   
+If Outlet 1_Stage2 = ON Then ON   
+If Outlet 1_Stage3 = ON Then ON   
+If Outlet 1_Stage4 = ON Then ON   
+If Outlet 1_Stage5 = ON Then ON   
+If Outlet 1_Stage6 = ON Then ON   
+If Outlet 1_Stage7 = ON Then ON   
+If Outlet 1_Stage8 = ON Then ON   
 
-1_Stage1
-Set OFF
-If TMP_1 < 28.7 Then ON
-If TMP_1 > 28.7 Then OFF
-If Time 01:00 to 04:30 Then OFF
-If Time 06:45 to 00:59 Then OFF
+1_Stage1   
+Set OFF   
+If TMP_1 < 28.7 Then ON   
+If TMP_1 > 28.7 Then OFF   
+If Time 01:00 to 04:30 Then OFF   
+If Time 06:45 to 00:59 Then OFF   
 
-1_Stage2
-Set OFF
-If TMP_1 < 28.8 Then ON
-If TMP_1 > 28.8 Then OFF
-If Time 01:00 to 03:00 Then OFF
-If Time 04:30 to 06:45 Then OFF
-If Time 08:15 to 00:59 Then OFF
+1_Stage2   
+Set OFF   
+If TMP_1 < 28.8 Then ON   
+If TMP_1 > 28.8 Then OFF   
+If Time 01:00 to 03:00 Then OFF   
+If Time 04:30 to 06:45 Then OFF   
+If Time 08:15 to 00:59 Then OFF   
 
-1_Stage3
-Set OFF
-If TMP_1 < 28.9 Then ON
-If TMP_1 > 28.9 Then OFF
-If Time 01:00 to 02:00 Then OFF
-If Time 03:00 to 08:15 Then OFF
-If Time 09:45 to 00:59 Then OFF
+1_Stage3   
+Set OFF   
+If TMP_1 < 28.9 Then ON   
+If TMP_1 > 28.9 Then OFF   
+If Time 01:00 to 02:00 Then OFF   
+If Time 03:00 to 08:15 Then OFF   
+If Time 09:45 to 00:59 Then OFF   
 
-1_Stage4
-Set OFF
-If TMP_1 < 29.0 Then ON
-If TMP_1 > 29.0 Then OFF
-If Time 02:00 to 09:45 Then OFF
-If Time 11:15 to 00:30 Then OFF
+1_Stage4   
+Set OFF   
+If TMP_1 < 29.0 Then ON   
+If TMP_1 > 29.0 Then OFF   
+If Time 02:00 to 09:45 Then OFF   
+If Time 11:15 to 00:30 Then OFF   
 
-1_Stage5
-Set OFF
-If TMP_1 < 29.1 Then ON
-If TMP_1 > 29.1 Then OFF
-If Time 01:00 to 11:15 Then OFF
-If Time 12:15 to 23:00 Then OFF
-If Time 00:30 to 00:59 Then OFF
+1_Stage5   
+Set OFF   
+If TMP_1 < 29.1 Then ON   
+If TMP_1 > 29.1 Then OFF   
+If Time 01:00 to 11:15 Then OFF   
+If Time 12:15 to 23:00 Then OFF   
+If Time 00:30 to 00:59 Then OFF   
 
-1_Stage6
-Set OFF
-If TMP_1 < 29.2 Then ON
-If TMP_1 > 29.2 Then OFF
-If Time 01:00 to 12:15 Then OFF
-If Time 13:30 to 19:45 Then OFF
-If Time 23:00 to 00:59 Then OFF
+1_Stage6   
+Set OFF   
+If TMP_1 < 29.2 Then ON   
+If TMP_1 > 29.2 Then OFF   
+If Time 01:00 to 12:15 Then OFF   
+If Time 13:30 to 19:45 Then OFF   
+If Time 23:00 to 00:59 Then OFF   
 
-1_Stage7
-Set OFF
-If TMP_1 < 29.3 Then ON
-If TMP_1 > 29.3 Then OFF
-If Time 01:00 to 13:30 Then OFF
-If Time 15:00 to 17:15 Then OFF
-If Time 19:45 to 00:59 Then OFF
+1_Stage7   
+Set OFF   
+If TMP_1 < 29.3 Then ON   
+If TMP_1 > 29.3 Then OFF   
+If Time 01:00 to 13:30 Then OFF   
+If Time 15:00 to 17:15 Then OFF   
+If Time 19:45 to 00:59 Then OFF   
 
-1_Stage8
-Set OFF
-If TMP_1 < 29.4 Then ON
-If TMP_1 > 29.4 Then OFF
-If Time 01:00 to 15:00 Then OFF
-If Time 17:15 to 00:59 Then OFF
+1_Stage8   
+Set OFF   
+If TMP_1 < 29.4 Then ON   
+If TMP_1 > 29.4 Then OFF   
+If Time 01:00 to 15:00 Then OFF   
+If Time 17:15 to 00:59 Then OFF   
