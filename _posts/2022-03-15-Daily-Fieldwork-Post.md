@@ -10,7 +10,7 @@ tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave
 
 ### *March 2022 Field day sampling*
 
-Danielle, Alex, and I returned to the Mahana site (17°29'12.5"S 149°53'16.1"W) for monthly sampling. Following the [Field Samplign Protocol] (https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2021-12-26-Field-Sampling-Protocol.md), we collected 40 ~5 inch *Acropora pulchra* fragments from the five patches located on the site.  Additionally, 10 4-5 inch fragments of *Pocillopora* were collected and brought back to Gump Station as well for same day processing. For all sampling locations, a close up photo with the tag was taken. Additionally, a bleaching score photo was taken at each sampling location. If a tag was not found, we sampled from the same colony that the tag should have been located on.
+Danielle, Alex, and I returned to the Mahana site (17°29'12.5"S 149°53'16.1"W) for monthly sampling. Following the [Field Samplign Protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2021-12-26-Field-Sampling-Protocol.md), we collected 40 ~5 inch *Acropora pulchra* fragments from the five patches located on the site.  Additionally, 10 4-5 inch fragments of *Pocillopora* were collected and brought back to Gump Station as well for same day processing. For all sampling locations, a close up photo with the tag was taken. Additionally, a bleaching score photo was taken at each sampling location. If a tag was not found, we sampled from the same colony that the tag should have been located on.
 
 ### same day processing
 
