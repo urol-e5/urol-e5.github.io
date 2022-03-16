@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Gametogenesis and Heatwave Research
+title: 8 March 22 - Equipment List
 date: '2022-03-08'
 categories: Gametogenesis_Heatwave_Experiment_March_April_2022
 tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave Respirometry
