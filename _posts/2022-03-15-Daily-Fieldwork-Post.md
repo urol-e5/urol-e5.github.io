@@ -15,3 +15,6 @@ Danielle, Alex, and I returned to the Mahana site (17°29'12.5"S 149°53'16.1"W)
 ### Same day processing
 
 After collecting the samples, Danielle and I followed the [Same Day Sample Processing Protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2021-12-26-Sample_Same_Day_Processing_Protocol.md) to prepare samples for histological analysis, molecular and physiological downstream processing.
+
+### Bleaching Score Photos
+All bleaching score photos were downloaded off of the Putnam Lab [Canon G7X ](https://www.fnac.com/Compact-Canon-PowerShot-G7X-Mark-II/a9570061/w-4) camera number 2 and uploaded to [Pocillopora_Sampling_Colony_Photos](https://drive.google.com/drive/u/0/folders/1203vZyktuA_R3KwnG9uSV3JXkkiTA-um) and [Acropora_Sampling_Colony_Photos](https://drive.google.com/drive/u/0/folders/19YCW-KpNBIq2hraZCzva5vsIAdVH9cLC) for the March 2022 timepoint. 
