@@ -8,10 +8,10 @@ tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave
 
 ## *Respirometry*
 
-Danielle and I followed the [Respirometry Protocol] (https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2020-12-14-SDR-Respirometry-Protocol.md) and completed 3 runs with 8 fragments of *Acropora pulchra* from TP2.
+Danielle and I followed the [Respirometry Protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2020-12-14-SDR-Respirometry-Protocol.md) and completed 3 runs with 24 fragments of *Acropora pulchra* from TP2.
 
 ![repirometry set up](https://github.com/urol-e5/urol-e5.github.io/blob/master/images/March2022_Moorea/654AE9A0-8485-4E25-BC5D-BA5498BF31A3.JPG)
 
 ## *Addition of heaters*
 
-Danielle and I placed heaters in the 12 heated tanks in preparation for the heatwave starting Sunday, March 27th. 
+Danielle and I placed heaters in the 12 heated tanks in preparation for the heatwave ramp starting Sunday, March 27th. 

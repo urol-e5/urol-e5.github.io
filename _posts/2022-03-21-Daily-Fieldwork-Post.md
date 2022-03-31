@@ -9,7 +9,7 @@ tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave
 ## 21 March 2022
 
 
-## *airbrushing*
+## *Airbrushing*
 
 Lauren airbrushed 10 *Pocillopora* fragments collected in January, 10 *Pocillopora* fragments collected in Februrary and 24 *Acropora pulchra* fragments from TP 1 in preparation for physiological assays: symbiont density, chlorophyll content, and total soluble protein content.
 
