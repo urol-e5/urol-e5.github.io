@@ -22,4 +22,10 @@ After completing the symbiont counts, Lauren followed the [Surface Area Protocol
 
 ## *Chlorophyll preparation*
 
-To prepare for the chlorophyll assay, Lauren pipetted 1mL of acetone into all chlorophyll tubes, then vortexed each tube for 15 seconds.
+To prepare for the chlorophyll assay and [protocol](, Lauren pipetted 1mL of acetone into all chlorophyll tubes, then vortexed each tube for 15 seconds.
+
+## *Data tracking*
+
+All *Acropora pulchra* metadata and tracking were uploaded to the [gametogenesis timeseries GitHub](https://github.com/daniellembecker/Gametogenesis/tree/main/gametogenesis_timeseries) and the *Acropora* sampling [Google Drive](https://drive.google.com/drive/u/0/folders/1YSVr335RNhZXcJyI0TOSr_edmDsTy4zw).
+
+All *Pocillopora* spp. metadata and tracking were uploaded to the [Mo'orea_Pocillopora GitHub](https://github.com/hputnam/Moorea_Pocillopora) and the *Pocillopora* sampling [Google Drive](https://drive.google.com/drive/u/0/folders/1w3KdwBZaaAFh8UdbOXM3KZCofldOC53i).

@@ -73,10 +73,10 @@ tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave Respirometry
 
 ### *Tissue biomass*
 
-![scale1]()
+![scale1](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/Equipment_used/IMG_4383.jpeg)
 
-![muffle]()
+![muffle](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/Equipment_used/IMG_4381.jpeg)
 
-![oven]()
+![oven](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/March2022_Moorea/Equipment_used/IMG_4382.jpeg)
 
 
