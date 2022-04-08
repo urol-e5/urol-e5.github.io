@@ -13,4 +13,4 @@ Lauren followed the [Total Protein](https://github.com/daniellembecker/Gametogen
 
 ### Outdoor tank system
 
-Danielle set up pumps and second chiller system for ambient and hot system using two chillers. She also recorded bleaching score and survivorship for coral fragments. 
+Danielle set up pumps and second chiller system for ambient and hot system using two chillers. She also recorded bleaching score and survivorship for coral fragments. Lastly, she recorded daily measurements of temperature, light and salinity and cleaned the tanks.

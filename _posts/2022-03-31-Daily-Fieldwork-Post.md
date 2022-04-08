@@ -7,7 +7,7 @@ tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave
 ---
 
 ## *Heatwave*
-Danielle ketp the heatwave ramp period a second day to experience a diel fluctuation in the heated treatement of 28.9 °C to 29.6 °C. 
+Danielle kept the heatwave ramp period a second day to experience a diel fluctuation in the heated treatement of 28.9 °C to 29.6 °C.
 
 ## *Daily measurements*
 Danielle recorded bleaching score and survivorship for the fragments and colonies  and completed 2 daily measurements of light, temperature, salinity and pH. She also cleaned the tanks.
@@ -17,5 +17,3 @@ To measure photosynthesis and respiration for our initial timepoint 1 fragments 
 
 ## *Data tracking*
 All daily measurements, bleaching score, and survivorship tracking for the colonies and fragments can be found on the [Heatwave Google Drive](https://drive.google.com/drive/u/0/folders/1f0I4fi72gqcFtxoOj08j3n1DRL2GLVKw) and [Gametogenesis GitHub](https://github.com/daniellembecker/Gametogenesis).  All respirometry data was uploaded to the timepoint 3 heatwave google drive [folder](https://drive.google.com/drive/u/0/folders/1wykcZzbVBzUpN8p1ljBnmpcK7hfK2M_2) and the [Gametogenesis GitHub Repo](https://github.com/daniellembecker/Gametogenesis/tree/main/heatwave).
-
-
