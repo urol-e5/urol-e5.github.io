@@ -18,4 +18,4 @@ Danielle and I placed heaters in the 12 heated tanks in preparation for the heat
 
 ## *Data tracking*
 
-All repirometry metadata and tracking were uploaded to the [heatwave timeseries GitHub](https://github.com/daniellembecker/Gametogenesis/tree/main/heatwave).
+All respirometry metadata and tracking were uploaded to the [heatwave timeseries GitHub](https://github.com/daniellembecker/Gametogenesis/tree/main/heatwave).
