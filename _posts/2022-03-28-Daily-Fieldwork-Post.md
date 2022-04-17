@@ -6,6 +6,8 @@ categories: Gametogenesis_Heatwave_Experiment_March_April_2022
 tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave
 ---
 
+## 28 March 2022
+
 ## *Heatwave*
 Danielle kept the second day of the heatwave ramp period to experience a diel fluctuation in the heated treatement of 28.8 °C to 29.5 °C. She and Tony adjusted the arrangment of the electrical inputs and outputs to accomodate all the heaters and APEX needs. Too many amps were being used on the one transformer, so Tony increased the allotment of amps allowed for the breaker and the one APEX controller was moved to another transformer.
 

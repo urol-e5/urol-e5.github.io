@@ -6,6 +6,8 @@ categories: Gametogenesis_Heatwave_Experiment_March_April_2022
 tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave
 ---
 
+## 11 April 2022
+
 ## *Airbrushing*
 Lauren airbrushed all samples for TP4 as well as 10 *Pocillopora* samples from January 2022. Homogenate volumes will be recorded tomorrow after homogenizing the samples.
 
@@ -25,5 +27,4 @@ Danielle analyzed photosynthesis and respiration rates for the ambient and hot c
 
 ## *Data tracking*
 All daily measurements, bleaching score, and survivorship tracking for the colonies and fragments can be found on the [Heatwave Google Drive](https://drive.google.com/drive/u/0/folders/1f0I4fi72gqcFtxoOj08j3n1DRL2GLVKw) and [Gametogenesis GitHub](https://github.com/daniellembecker/Gametogenesis).
-
 
