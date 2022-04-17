@@ -20,7 +20,7 @@ Following Emma Strands [Bleaching Score Protocol](https://github.com/emmastrand/
 It appears that the bleaching score in the colonies experiencing the heat stress have continued to decline. We see a significant difference in the interaction between treatment and day.
 
 ## *Histological processing*
-Following the histological processing protocol [in progress] Danielle and Lauren began the decalcification process on one replicate sample takem from the coral gametogenesis monthly sampling from December (n=41), January (n=37), February (n=36), March (n=40), and April (n=40) (total n=193). 
+Following the [histological processing protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2022-04-16-Histological-Processing.md) Danielle and Lauren began the decalcification process on one replicate sample takem from the coral gametogenesis monthly sampling from December (n=41), January (n=37), February (n=36), March (n=40), and April (n=40) (total n=193). 
 
 ## *Data tracking*
 All daily measurements, bleaching score, and survivorship tracking for the colonies and fragments can be found on the [Heatwave Google Drive](https://drive.google.com/drive/u/0/folders/1f0I4fi72gqcFtxoOj08j3n1DRL2GLVKw) and [Gametogenesis GitHub](https://github.com/daniellembecker/Gametogenesis).
