@@ -7,16 +7,13 @@ tags: Fieldwork Gametogenesis Sampling ExperimentalDesign Heatwave
 ---
 ## 26 March 2022
 
-## *Respirometry*
-
+### *Respirometry*
 Danielle and I followed the [Respirometry Protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2020-12-14-SDR-Respirometry-Protocol.md) and completed 3 runs of photosynthesis and respiration with 24 fragments of *Acropora pulchra* from TP2.
 
 ![respirometry set up](https://github.com/urol-e5/urol-e5.github.io/blob/master/images/March2022_Moorea/654AE9A0-8485-4E25-BC5D-BA5498BF31A3.JPG?raw=true)
 
-## *Addition of heaters*
-
+### *Addition of heaters*
 Danielle and I placed heaters in the 12 heated tanks in preparation for the heatwave ramp starting Sunday, March 27th. 
 
-## *Data tracking*
-
+### *Data tracking*
 All respirometry metadata and tracking were uploaded to the [heatwave timeseries GitHub](https://github.com/daniellembecker/Gametogenesis/tree/main/heatwave).
