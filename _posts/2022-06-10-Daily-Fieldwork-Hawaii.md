@@ -22,9 +22,9 @@ We made a lot of progress today setting up tank systems for this summer's experi
 
 - Ariana assembled, cleaned, and ran all tank and squarical systems.  
 
-![Tanks](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/2022_Hawaii/tanks_running2.jpg)
+![Tanks](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/2022_Hawaii/tanks_running2.jpeg)
 
-![Tanks](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/2022_Hawaii/tanks_running.jpg)
+![Tanks](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/2022_Hawaii/tanks_running.jpeg)
 
 - Ariana & Jill deployed Hobo temperature/light loggers into the four blue tanks and one header tank at 21:45 HST.
 
