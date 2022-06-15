@@ -28,9 +28,7 @@ Tomorrow we will go to Reef 13 in Kaneohe Bay to collect live fragments from *Mo
 
 Ariana set up larval respiration equipment and did a one point calibration of the PreSens spots in Loligo plates. We have 3 spots that need to be replaced, but unfortunately the replacement spots are too large and could not be changed.   
 
-Therefore, these spots should not be used. The wells that wil not work are: 
-
-- list ehre 
+Therefore, these spots should not be used. The wells are marked with a black dot on each plate.  
 
 In order to perform a 1-point calibration, Ariana generated a 100% oxygen MilliQ water solution by bubbling air into MilliQ water for ~4 hours prior to calibration. Then fill each well in the plates with this water, allowing at least 10 minutes for the wells to hydrate/soak. After hydration, remove any bubbles with gentle pipetting up and down. 
 
