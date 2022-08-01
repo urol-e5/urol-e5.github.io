@@ -19,7 +19,6 @@ We will be processing the samples collected from our May and June expedition for
 1. Danielle Becker-Polinski (Putnam Lab)
 2. Janya Gambhir (Tufts University)
 
-
 ## 24 July 2022
 
 We arrived early in the morning to Moorea and took the ferry to Gump. Upon arrival, we organized all our personal belongings, lab spaces, and equipment in the molecular and LTER back lab. 
