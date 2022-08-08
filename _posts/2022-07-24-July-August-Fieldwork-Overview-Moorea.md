@@ -13,7 +13,14 @@ A major Aim of the [E5 project](https://e5coral.org/) is to examine the effects 
 
 We are conducting a field trip to Moorea in July and August 2022 with the goal to sample *Acropora pulchra* and *Pocillopora spp.* throughout gametogenesis on the northshore backreef and collect data on histology, physiology, and epigenomics. Original tagging and sampling of 40 *Acropora pulchra* colonies was completed by the Putnam Lab team (Hollie, Ariana, Pierrick, and Alex (CRIOBE)) in December 2021 and of *Pocillopora spp.* starting in January 2022. Monthly timepoint sampling will be carried out for this project until October 2022 for spawning in collaboration with CRIOBE. We will be processing physiological measurements (symbiont densities, chlorophyll content, total protein, surface area, and tissue biomass) for collected and preserved samples, measuring bleaching score on *in situ* colonies, decalcifying histological samples, and collecting molecular and histological samples during our two month trip.
 
-We will be processing the samples collected from our May and June expedition for all physiological measurements. We will also be sampling for two timepoints in July and August and process all of the samples for physiological measurements. We will also be decalcifying the samples from May, June, July, and August for histology.
+We will be processing the samples collected from our May and June expedition for all physiological measurements. We will also be sampling for two timepoints in July and August and process all of the samples for physiological measurements. We will also be decalcifying the samples from May, June, July, and August for histology. 
+
+This trip, we also have a very exciting collaboration to work with Dr. Lenore Cowen at Tufts University and an undergraduate student, Janya Gambhir for a unique experience in Mo’orea studying coral physiology, histology, and computer science.
+
+Tufts University offers the Global Research Assistant Program (GRAP) which provides the opportunity for Tufts faculty members to receive funding for one Tufts undergraduate student to work on international research and impact projects for a minimum of eight weeks during summer. 
+
+Janya will be assiting with all the field sampling, physiological measurements, and histology along with, taking photos for her own collaborative project with Tufts University on incorporating an imaging app that can guide citizen scientists in taking photos in the field for various projects. 
+
 
 ## Team
 1. Danielle Becker-Polinski (Putnam Lab)
