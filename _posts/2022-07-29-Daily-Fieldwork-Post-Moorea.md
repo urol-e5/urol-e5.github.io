@@ -15,7 +15,7 @@ Danielle and Jim Hayward dove at ~12 meters on the forereef of Mo'orea to a site
 After collecting the samples, Danielle followed the [Same Day Sample Processing Protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2021-12-26-Sample_Same_Day_Processing_Protocol.md) to prepare samples for histological analysis, molecular and physiological downstream processing.
 
 ### *Bleaching Score Photos*
-All bleaching score photos were downloaded off of the Canon camera and uploaded to [Pocillopora_Sampling_Colony_Photos](https://drive.google.com/drive/u/0/folders/1203vZyktuA_R3KwnG9uSV3JXkkiTA-um) for the July forereef 2022 timepoint (TP6). 
+All bleaching score photos were downloaded off of the Canon camera and uploaded to [Pocillopora_Sampling_Colony_Photos](https://drive.google.com/drive/u/0/folders/1203vZyktuA_R3KwnG9uSV3JXkkiTA-um) for the July forereef 2022 timepoint (TP7). 
 
 ### *Aliquoting*
 
