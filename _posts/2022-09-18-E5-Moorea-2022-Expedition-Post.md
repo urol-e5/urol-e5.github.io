@@ -164,9 +164,7 @@ SDR systems were assembled and set up and connected to the PreSens SDR software.
 4. Load half of wells with 0% solution and half with 100% oxygen solution in each plate. Record locations. Alternating wells with 0 and 100% water.  
 5. Start measurements and let record for 2-3 h until stabilized recording every 3 min.
 6. Measure temperature with probe and loggers throughout.  
-7. Export the data and calculate mean values. We will create a new calibration dataset from these measurements.  
-
-INSERT OTHER STEPS HERE WHEN WE DO IT
+7. Export the data and calculate mean values for 0 and 100% wells from the last 15 min of measurement. We will create a new calibration dataset from these measurements and upload to the SDR software.   
 
 # 17 September 2022  
 
@@ -247,8 +245,6 @@ Tanks are now set up and running! We will add temperature control in the next fe
 ### *Spawning*  
 
 Spawning equipment and workflows were set up. Danielle prepared supplies and equipment to measure eggs per bundle, take samples of sperm and eggs for molecular responses, measure fecundity on sample fragments, and fertilize by parent treatment history. See Danielle's [notebook](https://daniellembecker.github.io/DanielleBecker_Lab_Notebook/) and the [E5 public notebook](https://urol-e5.github.io/) for more information on her project.
-
-DANIELLE INSERT INFORMATION ON YOUR SPAWNING HERE  
 
 Ariana gathered supplies needed for wildtype spawning. The protocol for Ariana's spawning work will be as follows:  
 
