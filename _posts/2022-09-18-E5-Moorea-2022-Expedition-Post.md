@@ -45,7 +45,7 @@ We again checked for spawning by stopping the water and pumps in all tanks at 20
 
 Parent colonies were collected from the Mahana site on Moorea's north shore.  
 
-![field site](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/NotebookImages/Moorea2022/mahana.png) 
+![field site](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/mahana.png) 
 
 We first collected n=24 colonies for Danielle's project at 0800-0900 at the Mahana field site. We transported these colonies back to Gump station at 1000. 
 
@@ -55,7 +55,7 @@ We then collected n=25 colonies (approx. 15-30cm in diameter) from large patches
 
 Ariana and Danielle used a hammer and chisel to remove large fragments (15-30cm diameter) from these patches. Ariana Danielle and Pierrick transported them back to the boat where they were kept in coolers and buckets filled with seawater. Colonies were then transported back to Gump station at 1230 and placed in 2 flow through seawater tanks (n=12-13 colonies per tank). Tanks are equipped with 3 small recirculating pumps for water flow and had high water flow.   
 
-![parents tank](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/NotebookImages/Moorea2022/colonies_tank.jpeg) 
+![parents tank](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/colonies_tank.jpeg) 
 
 These colonies will be used to collect wildtype gametes to rear to larval stages for Ariana's project. Spawn will be collected from each of the 2 tanks with wildtype colonies.  
 
@@ -131,11 +131,11 @@ Today we continued setting up tanks and unpacking and organizing supplies. We co
 
 This is what our spawninig sytems look like and a full protocol is [available here](https://docs.google.com/spreadsheets/d/1IPcQGoKwVJidsff5xrbiKTevRrtkKmqbUoALj0bd230/edit#gid=0). These systems (pictured below) contain a cooler that acts as a header tank and can be controlled with heaters in combination with a Neptune Apex system. We will set this up in the comiing days. The water in the cooler is sourced from a seawater output. The water in the cooler is then pumped out to a PVC manifold that then delivers water to each larval tank. The larval tanks (i.e., conicals or "squaricals") each have a banjo filter to allow for low thorugh seawater with large surface area to prevent embryos being damaged or lost on the drain. We set up four of these systems this week.   
  
-![Tanks1](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/NotebookImages/Moorea2022/tanks.jpeg) 
+![Tanks1](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/tanks.jpeg) 
 
-![Tanks2](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/NotebookImages/Moorea2022/conicals.jpeg) 
+![Tanks2](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/conicals.jpeg) 
 
-![Filters](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/NotebookImages/Moorea2022/filters.jpeg) 
+![Filters](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/filters.jpeg) 
 
 We set up 4 portable spawning systems each with a cooler and 6 larval conicals in a blue tank. Two of these tanks are for Ariana (labelled A and B) and two are for Danielle (labelled C and D). This provides each of us with a high and ambient temperature system. Tanks A and C will be the high temperature tanks and tanks B and D will be ambient temperature.   
 
@@ -155,7 +155,7 @@ Ariana set up two units of Apex systems in preparation for temperature control i
 
 Apex units were connected to WiFi and created virtual outlets for each stage of temperature control. The Apex format looks like this:  
 
-![Filters](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/NotebookImages/Moorea2022/apex_example.png) 
+![Filters](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/apex_example.png) 
 
 We have the Apex systems named "AH Moorea Sq" and "DBP Moorea Sq".  
 
