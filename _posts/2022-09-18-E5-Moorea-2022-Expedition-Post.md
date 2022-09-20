@@ -60,6 +60,10 @@ Ariana will conduct an experiment in october using the same experimental plan as
 
 Pierrick will continue his project characterizing the haplotypes of *Pocillopora* spp. around Moorea. We will conduct additional sampling on transects at the Mahana and Hilton sites in September.
 
+### *Spawning*  
+
+We watched for spawning and no colonies spawned tonight. We will continue watching through Wednesday.  
+
 # 18 September 2022  
 
 ### *Setting up temperature control*  
@@ -205,6 +209,10 @@ SDR systems were assembled and set up and connected to the PreSens SDR software.
 
 It is not clear yet how we perform a calibration for each well. We will look into this and try to do a well specific calibration this week.  
 
+### *Spawning*  
+
+We watched for spawning and no colonies spawned tonight. We will continue watching through Wednesday.  
+
 # 17 September 2022  
 
 ### *September 2022 Field Day Sampling - Backreef Acropora and Pocillopora*
@@ -217,7 +225,7 @@ All bleaching score photos were downloaded off of the Putnam Lab [Canon G7X ](ht
 
 All timepoint and tracking data sheets for the September 2022 timepoint for both [*Pocillopora*](https://drive.google.com/drive/u/0/folders/1w3KdwBZaaAFh8UdbOXM3KZCofldOC53i) and [*Acropora*](https://drive.google.com/drive/u/0/folders/1YSVr335RNhZXcJyI0TOSr_edmDsTy4zw) were updated.  
 
-### *Sampling*  
+### *Spawning*  
 
 We again checked for spawning by stopping the water and pumps in all tanks at 2000 to watch for setting in collected colonies. We did not see setting by 2300. There was no spawning.
 
