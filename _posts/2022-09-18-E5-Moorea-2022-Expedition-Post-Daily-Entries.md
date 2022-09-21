@@ -8,7 +8,7 @@ tags: Fieldwork Gametogenesis Sampling Physiology Reproduction Spawning
 
 This post includes the daily entry notebook for Sept-Oct 2022 *Acropora* coral spawning and field expedition in Moorea, French Polynesia. These notebook posts are updated in order of most recent to oldest.  
 
-Notebook post detailing activities specific to the E5 adult stressor experiment (details below) [can be found here]().   
+Notebook post detailing activities specific to the E5 adult stressor experiment (details below) [can be found here](https://urol-e5.github.io/2022/09/20/E5-Moorea-Adult-Stressor-Experiment.html).   
 
 # Project Overview  
 
@@ -29,7 +29,7 @@ Danielle Becker-Polinski
 
 ### *Project planning*  
 
-Ariana developed a draft experimental design for the adult coral E5 repeat stressor experiment. [A separate notebook post has been created here with all details and daily entries for this project in the E5 notebook](). Ariana conducted planning and sourcing materials for this project today. 
+Ariana developed a draft experimental design for the adult coral E5 repeat stressor experiment. [A separate notebook post has been created here with all details and daily entries for this project in the E5 notebook](https://urol-e5.github.io/2022/09/20/E5-Moorea-Adult-Stressor-Experiment.html). Ariana conducted planning and sourcing materials for this project today. 
 
 Overall, this project will expose coral colonies to ambient (450-600 PAR) and reduced (100-200 PAR) light conditions. A draft design is included below. This experiment will run until December. Monthly, fragments will be sampled for molecular, metabolomic, and physiological metrics. In December, S. Matsuda and R. Cunning will measure thermal phenotypes using the CBASS system.  
 
