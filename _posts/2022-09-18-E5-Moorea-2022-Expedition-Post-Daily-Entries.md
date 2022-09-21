@@ -39,13 +39,25 @@ Overall, this project will expose coral colonies to ambient (450-600 PAR) and re
 
 Ariana cleaned all tanks and larval conicals and stored for use in the next spawning event.  
 
+### *Physiological prep*  
+
+Danielle sent all physiological protocols to Pierrick to prep for physiological processing of the September 2022 monthly sampling of *A. pulchra* starting this week. She also brought all the necessary equipment to the molecular lab for processing and got ziplock bags.
+
+### *A. pulchra high frequency sampling planning*  
+
+Danielle made a new folder for the *A. pulchra* [high frequency histological sampling](https://drive.google.com/drive/u/0/folders/1tctlpdmaiwTbQMSHiTRAfpGczguyVknT) metadata and [schedule](https://docs.google.com/spreadsheets/d/11_jiM5W2MzM6fEoCUPAIJ7kqFw5OB7RjWIYwiTruFec/edit#gid=1170797858) for the next month before spawning. We will be processing a subset of our monthly timepoint *A. pulchra* samples for molecular (snap frozen and DNA/RNA shield) and histology (n=2 ~1 inch pieces of fragment preserved in 4% formalin solution) every five days to categorize and track gametogenesis very close to release. Danielle selected n = 4 from each of her five patches that had intact tags and will be sampling from ~0.5 m above them for the high frequency sampling period. 
+
+### *Freezer organization*  
+
+Danielle moved all *A. pulchra* homogenate tubes to biocode -40 freezer and re-labeled a new shelf for Putnam lab. She updated all [Mo'orea freezer/fridge lists](https://docs.google.com/spreadsheets/d/12eTFEpc1uVlKmLpaCqcjT8z_yKTjBXQYZQB8u2bdMqU/edit#gid=1346456213) with new samples. Organized all freezer boxes and freed up space for new samples in molecular freezers. 
+
 ### *SDR calibration*  
 
 We revised our approach to calibrating the SDR because we need to conduct calibrations at the level of individual wells. We can do this with a user-defined one point adjustment as specified in the SDR user manual and [online resources](https://www.presens.de/support-services/faqs/question/what-is-the-difference-between-user-defined-calibration-and-one-point-adjustment-for-the-sdr-when-do-i-apply-which-one-545).  
 
 The protocl is as follows and **must be completed at the beginning of each measurement set (i.e., at the beginning of each day) at the temperature of measurement**. If the plate will measure multiple temperatures, the one point adjustment will need to be conducted at that temperature. As long as the software remains open, multiple runs can be conducted with one set of calibrations.  
 
-Proceedure:  
+Procedure:  
 
 1. Aerate filtered seawater to generate 100% air saturated seawater (21% oxygen). Allow to fully aerate for 10-15 minutes.  
 2. Set the incubators at the desired temperature. 
