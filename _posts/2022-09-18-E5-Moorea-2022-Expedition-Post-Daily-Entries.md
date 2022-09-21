@@ -1,12 +1,14 @@
 ---
 layout: post
-title: Moorea 2022 Coral Spawning and Field Expedition
+title: Moorea 2022 Coral Spawning and Field Expedition Daily Entries  
 date: '2022-09-18'
 categories: Moorea_Coral_Spawning_2022
 tags: Fieldwork Gametogenesis Sampling Physiology Reproduction Spawning
 ---
 
-This post includes the full notebook for Sept-Oct 2022 *Acropora* coral spawning and field expedition in Moorea, French Polynesia. These notebook posts are updated in order of most recent to oldest.
+This post includes the daily entry notebook for Sept-Oct 2022 *Acropora* coral spawning and field expedition in Moorea, French Polynesia. These notebook posts are updated in order of most recent to oldest.  
+
+Notebook post detailing activities specific to the adult stressor experiment (details below) [can be found here]().   
 
 # Project Overview  
 
@@ -22,6 +24,45 @@ We will also continue in situ monitoring of *Acropora* and *Pocillopora* colonie
 Ariana Huffmyer  
 Pierrick Harnay  
 Danielle Becker-Polinski  
+
+# 20 September 2022  
+
+### *Project planning*  
+
+Ariana developed a draft experimental design for the adult coral E5 repeat stressor experiment. [A separate notebook post has been created here with all details and daily entries for this project in the E5 notebook](). Ariana conducted planning and sourcing materials for this project today. 
+
+Overall, this project will expose coral colonies to ambient (450-600 PAR) and reduced (100-200 PAR) light conditions. A draft design is included below. This experiment will run until December. Monthly, fragments will be sampled for molecular, metabolomic, and physiological metrics. In December, S. Matsuda and R. Cunning will measure thermal phenotypes using the CBASS system.  
+
+![E5 project](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/E5project.png) 
+
+### *Tank cleaning*  
+
+Ariana cleaned all tanks and larval conicals and stored for use in the next spawning event.  
+
+### *SDR calibration*  
+
+We revised our approach to calibrating the SDR because we need to conduct calibrations at the level of individual wells. We can do this with a user-defined one point adjustment as specified in the SDR user manual and [online resources](https://www.presens.de/support-services/faqs/question/what-is-the-difference-between-user-defined-calibration-and-one-point-adjustment-for-the-sdr-when-do-i-apply-which-one-545).  
+
+The protocl is as follows and **must be completed at the beginning of each measurement set (i.e., at the beginning of each day) at the temperature of measurement**. If the plate will measure multiple temperatures, the one point adjustment will need to be conducted at that temperature. As long as the software remains open, multiple runs can be conducted with one set of calibrations.  
+
+Proceedure:  
+
+1. Aerate filtered seawater to generate 100% air saturated seawater (21% oxygen). Allow to fully aerate for 10-15 minutes.  
+2. Set the incubators at the desired temperature. 
+3. Load the SDR plate with the fully aerated seawater in each well ensuring there are no bubbles. Seal the wells with cover slips. 
+4. Place the plates on SDRs in each incubator. Allow to come to temperature for 10 min. 
+5. At this point, conduct the one point adjustment. 
+6. Enter the correct measurement temperature and batch number in the software (PtS6-1624) and salinity.  
+7. Select Calibration / One Point Adjustment
+8. The calibration will scan all wells. 
+9. Enter  pO2 (% Air Sat) = 100. 
+10. Press OK
+11. The adjustment has been performed. 
+12. Repeat at the start of each batch of measurements and at each respective temperature prior to measurement.  
+
+### *Loggers*  
+
+Ariana downloaded all Hobo loggers from the larval tanks to test that loggers are recording data at correct intervals. Tomorrow we will conduct a calibration and offsets for all loggers.  
 
 # 19 September 2022  
 
