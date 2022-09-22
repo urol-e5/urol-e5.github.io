@@ -22,6 +22,37 @@ Hollie Putnam, URI
 Shayle Matsuda, Shedd Aquarium   
 Ross Cunning, Shedd Aquarium   
 
+# 21 September 2022  
+
+### *Project planning*
+
+Ariana discussed experimental design with the E5 team and we have revised the experimental approach as pictured below.  
+
+![E5 project2](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/E5project2.png) 
+
+This revision includes these updates:  
+
+- Moving sampling time points from 3 (Oct, Nov, Dec) to two time points (Nov and Dec) to maximize the number of fragments per colony needed with available material.  
+- Added biopsy for ITS2 and 16S sequencing during sampling.  
+- Increase number of genotypes/colonies to n=10
+- We will now need n=3 fragments per colony per tank in order to sample one fragment per colony at each time point. We will try to obtain n=3-5 fragments per colony per tank in the case that we want to increase sampling for CBASS and having an extra fragment in case of mortality.  
+
+We will continue to talk with the E5 team to finalize the design prior to fragmenting and starting the experiment early next week.  
+
+### *Project set up*    
+
+Ariana, Pierrick, and Danielle sourced materials for the E5 adult project including buying tank bins, finding shade cloth, and cleaning water tables. We have black shade cloth with rebar on either side that fit on our tank systems. We purchased 6 plastic bins that will be used as tanks. We cleaned water tables to prepare space for these tanks. 
+
+Ariana measured light levels under ambient conditions (under covered tank area with no shade cloth) and under two low light conditions (1 layer of shade cloth and 2 layers of shade cloth). Light levels in the high light treatment will be 500-700 PAR peaking during the day. Under one layer of shade cloth, light was reduced by 65% to approx. 100-300 PAR. Under two layers of shade cloth, light was reduced 80% to <100 PAR. We will use one layer of shade cloth for this experiment to provide sufficient light for coral growth in both treatments.  
+
+We found recirculating pumps for each tank. We also prepared equipment for hanging the fragments. We will drill holes across the length of each tank to secure wire. We will then use paper clips to secure fragments tied to fishing line to hang fragments in the tank. This will help reduce algal growth and will be more efficient to set up and maintain.  
+
+Ariana will finish set up for this project this week and then move forward with fragging and starting the experiment once design is finalized.   
+
+### *Boating*  
+
+Danielle gave the team an orientation to driving the LTER boat (509) at Gump. Ariana took 4 trips as captain driving in the channels to learn navigation on the north shore. Ariana and Pierrick will work on obtaining their authorization for driving Gump boats.
+
 # 20 September 2022  
 
 ### *Project planning*  
