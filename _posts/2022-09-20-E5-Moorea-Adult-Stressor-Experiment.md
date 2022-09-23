@@ -22,6 +22,14 @@ Hollie Putnam, URI
 Shayle Matsuda, Shedd Aquarium   
 Ross Cunning, Shedd Aquarium   
 
+# 22 September 2022  
+
+### *Project set up*
+
+Ariana constructed tanks from the 6 plastic bins that were purchased yesterday for the experiment. Holes were drilled in the top edges of the bins for wires to be secured to hang coral fragments and a drain hole was added.  
+
+Tomorrow, Ariana will add water flow to these tanks and prepare materials for sampling and fragmentation over the weekend.  
+
 # 21 September 2022  
 
 ### *Project planning*
