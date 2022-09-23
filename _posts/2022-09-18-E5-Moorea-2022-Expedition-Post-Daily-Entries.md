@@ -1,4 +1,4 @@
----
+fragment---
 layout: post
 title: Moorea 2022 Coral Spawning and Field Expedition Daily Entries  
 date: '2022-09-18'
@@ -45,7 +45,10 @@ The team met with collaborators in the Padilla-Gamino lab from the University of
 
 Danielle trialed methods for dissecting gametes from live *A. pulchra* fragments. During our field expedition today, we noticed that gametes were visible in *A. pulchra* fragments and Danielle dissected and sampled these gametes.  
 
-DANIELLE INSERT INFORMATION HERE    
+Danielle first cut extra fragments that were taken from sampling with bon cutters into a ~0.5 inch piece and submerged in a microscope dish under a microscope light to identify if any gonads were present in the fragment piece. She then used fine tipped tweezers to hold the fragment piece and used a fine pointed dissecting tool to gently dislodge any of the gonads from the underlying tissues. She then used a glass pipette to apply pressure and suction to the gonad until it finally released from the tissue. She then preserved the 9 gonads she was able to collect from 5 separate fragments into 250 uL of DNA/RNA shield in a sterile o-ring micro-centrifuge tube. This process will be modified next sampling period to try a fragment saw and needle syringe to improve the number of gonads extracted from samples. The below images show clear gonads (small white circular material in the skeleton)located in the polyp pockets of the fragment pieces.
+
+![image1]()
+
 
 # 21 September 2022  
 
@@ -53,9 +56,38 @@ DANIELLE INSERT INFORMATION HERE
 
 Ariana, Pierrick, and Danielle sourced materials for the E5 adult project including buying tank bins, finding shade cloth, and cleaning water tables. Light levels in the high light treatment will be 500-700 PAR peaking during the day and the low light treatment will reduce by 65% to approx. 100-300 PAR. [See details on this project here](https://urol-e5.github.io/2022/09/20/E5-Moorea-Adult-Stressor-Experiment.html).  
 
-Ariana also discussed experimental design with the E5 team and we have revised the experimental approach to include two sampling time points with fragments sourced from 10 colonies/genotypes. 
+Ariana also discussed experimental design with the E5 team and we have revised the experimental approach to include two sampling time points with fragments sourced from 10 colonies/genotypes.
 
-Ariana will finish set up for this project this week and then move forward with fragging and starting the experiment once design is finalized.   
+Ariana will finish set up for this project this week and then move forward with fragging and starting the experiment once design is finalized.
+
+### *A. pulchra high frequency sampling preparation*  
+
+Danielle selected the bags and labeled tubes for the subset of coral colonies and tags that will be samples for the high frequency project. Bags and tubes for high frequency sampling will be labeled with HF colony ID (Ex: HF 416)
+
+Metadata:
+
+| Species    | Site   | OrderbyPatch | Original.Tag.Num | Patch | Latitude.S | Longitude.W | GPS.Point.Name | Timestamp |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|------------|--------|--------------|------------------|-------|------------|-------------|----------------|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A. pulchra | Mahana | P1.3         |              414 | P1    | 17°29.234' | 149°53.264' | P1             |  12:59 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.5         |              416 | P2    | 17°29.232' | 149°53.253' | P2             |   1:11 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.4         |              424 | P3    | 17°29.223' | 149°53.249' | P3             |   1:17 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.1         |              426 | P5    | 17°29.220' | 149°53.236' | P5             |   1:49 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.1         |              429 | P2    | 17°29.232' | 149°53.253' | P2             |   1:05 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.4         |              430 | P2    | 17°29.232' | 149°53.253' | P2             |   1:10 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.9         |              431 | P4    | 17°29.231' | 149°53.242' | P4             |   1:46 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P1.5         |              433 | P1    | 17°29.234' | 149°53.264' | P1             |   1:02 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P1.4         |              434 | P1    | 17°29.234' | 149°53.264' | P1             |   1:00 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.10        |              436 | P3    | 17°29.223' | 149°53.249' | P3             |   1:29 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.2         |              437 | P5    | 17°29.220' | 149°53.236' | P5             |   1:50 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.10        |              439 | P4    | 17°29.231' | 149°53.242' | P4             |   1:47 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.1         |              448 | P4    | 17°29.231' | 149°53.242' | P4             |   1:35 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.2         |              449 | P2    | 17°29.232' | 149°53.253' | P2             |   1:07 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.8         |              451 | P5    | 17°29.220' | 149°53.236' | P5             |   2:00 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.6         |              458 | P5    | 17°29.220' | 149°53.236' | P5             |   1:56 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.11        |              461 | P3    | 17°29.223' | 149°53.249' | P3             |   1:30 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P1.1         |              462 | P1    | 17°29.234' | 149°53.264' | P1             |  12:56 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.6         |              464 | P4    | 17°29.231' | 149°53.242' | P4             |   1:41 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.6         |              465 | P3    | 17°29.223' | 149°53.249' | P3             |   1:22 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 ### *Boating*  
 
@@ -65,11 +97,11 @@ Danielle gave the team an orientation to driving the LTER boat (509) at Gump. Ar
 
 ### *Project planning*  
 
-Ariana developed a draft experimental design for the adult coral E5 repeat stressor experiment. [A separate notebook post has been created here with all details and daily entries for this project in the E5 notebook](https://urol-e5.github.io/2022/09/20/E5-Moorea-Adult-Stressor-Experiment.html). Ariana conducted planning and sourcing materials for this project today. 
+Ariana developed a draft experimental design for the adult coral E5 repeat stressor experiment. [A separate notebook post has been created here with all details and daily entries for this project in the E5 notebook](https://urol-e5.github.io/2022/09/20/E5-Moorea-Adult-Stressor-Experiment.html). Ariana conducted planning and sourcing materials for this project today.
 
 Overall, this project will expose coral colonies to ambient (450-600 PAR) and reduced (100-200 PAR) light conditions. A draft design is included below. This experiment will run until December. Monthly, fragments will be sampled for molecular, metabolomic, and physiological metrics. In December, S. Matsuda and R. Cunning will measure thermal phenotypes using the CBASS system.  
 
-![E5 project](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/E5project.png) 
+![E5 project](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/E5project.png)
 
 ### *Tank cleaning*  
 
@@ -81,11 +113,11 @@ Danielle sent all physiological protocols to Pierrick to prep for physiological 
 
 ### *A. pulchra high frequency sampling planning*  
 
-Danielle made a new folder for the *A. pulchra* [high frequency histological sampling](https://drive.google.com/drive/u/0/folders/1tctlpdmaiwTbQMSHiTRAfpGczguyVknT) metadata and [schedule](https://docs.google.com/spreadsheets/d/11_jiM5W2MzM6fEoCUPAIJ7kqFw5OB7RjWIYwiTruFec/edit#gid=1170797858) for the next month before spawning. We will be processing a subset of our monthly timepoint *A. pulchra* samples for molecular (snap frozen and DNA/RNA shield) and histology (n=2 ~1 inch pieces of fragment preserved in 4% formalin solution) every five days to categorize and track gametogenesis very close to release. Danielle selected n = 4 from each of her five patches that had intact tags and will be sampling from ~0.5 m above them for the high frequency sampling period. 
+Danielle made a new folder for the *A. pulchra* [high frequency histological sampling](https://drive.google.com/drive/u/0/folders/1tctlpdmaiwTbQMSHiTRAfpGczguyVknT) metadata and [schedule](https://docs.google.com/spreadsheets/d/11_jiM5W2MzM6fEoCUPAIJ7kqFw5OB7RjWIYwiTruFec/edit#gid=1170797858) for the next month before spawning. We will be processing a subset of our monthly timepoint *A. pulchra* samples for molecular (snap frozen and DNA/RNA shield) and histology (n=2 ~1 inch pieces of fragment preserved in 4% formalin solution) every five days to categorize and track gametogenesis very close to release. Danielle selected n = 4 from each of her five patches that had intact tags and will be sampling from ~0.5 m above them for the high frequency sampling period.
 
 ### *Freezer organization*  
 
-Danielle moved all *A. pulchra* homogenate tubes to biocode -40 freezer and re-labeled a new shelf for Putnam lab. She updated all [Mo'orea freezer/fridge lists](https://docs.google.com/spreadsheets/d/12eTFEpc1uVlKmLpaCqcjT8z_yKTjBXQYZQB8u2bdMqU/edit#gid=1346456213) with new samples. Organized all freezer boxes and freed up space for new samples in molecular freezers. 
+Danielle moved all *A. pulchra* homogenate tubes to biocode -40 freezer and re-labeled a new shelf for Putnam lab. She updated all [Mo'orea freezer/fridge lists](https://docs.google.com/spreadsheets/d/12eTFEpc1uVlKmLpaCqcjT8z_yKTjBXQYZQB8u2bdMqU/edit#gid=1346456213) with new samples. Organized all freezer boxes and freed up space for new samples in molecular freezers.
 
 ### *SDR calibration*  
 
@@ -96,16 +128,16 @@ The protocl is as follows and **must be completed at the beginning of each measu
 Procedure:  
 
 1. Aerate filtered seawater to generate 100% air saturated seawater (21% oxygen). Allow to fully aerate for 10-15 minutes.  
-2. Set the incubators at the desired temperature. 
-3. Load the SDR plate with the fully aerated seawater in each well ensuring there are no bubbles. Seal the wells with cover slips. 
-4. Place the plates on SDRs in each incubator. Allow to come to temperature for 10 min. 
-5. At this point, conduct the one point adjustment. 
+2. Set the incubators at the desired temperature.
+3. Load the SDR plate with the fully aerated seawater in each well ensuring there are no bubbles. Seal the wells with cover slips.
+4. Place the plates on SDRs in each incubator. Allow to come to temperature for 10 min.
+5. At this point, conduct the one point adjustment.
 6. Enter the correct measurement temperature and batch number in the software (PtS6-1624) and salinity.  
 7. Select Calibration / One Point Adjustment
-8. The calibration will scan all wells. 
-9. Enter  pO2 (% Air Sat) = 100. 
+8. The calibration will scan all wells.
+9. Enter  pO2 (% Air Sat) = 100.
 10. Press OK
-11. The adjustment has been performed. 
+11. The adjustment has been performed.
 12. Repeat at the start of each batch of measurements and at each respective temperature prior to measurement.  
 
 ### *Loggers*  
@@ -143,7 +175,7 @@ Throughout the adult exposure, we will characterize physiology, metabolism, and 
 
 4. **October larval symbiont integration experiment**  
 
-Ariana will conduct an experiment in october using the same experimental plan as described for September. Briefly, we will rear *A. hyacinthus* embryos to the larval stage, allow larvae to acquire symbionts, and expose the larvae to either ambient or elevated temperature conditions. Ariana will measure metabolism, survival, and nutritional exchange. 
+Ariana will conduct an experiment in october using the same experimental plan as described for September. Briefly, we will rear *A. hyacinthus* embryos to the larval stage, allow larvae to acquire symbionts, and expose the larvae to either ambient or elevated temperature conditions. Ariana will measure metabolism, survival, and nutritional exchange.
 
 5. **Pocillopora population characterization**  
 
