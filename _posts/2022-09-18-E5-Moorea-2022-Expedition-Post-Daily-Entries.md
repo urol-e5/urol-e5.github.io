@@ -47,7 +47,11 @@ Danielle trialed methods for dissecting gametes from live *A. pulchra* fragments
 
 Danielle first cut extra fragments that were taken from sampling with bon cutters into a ~0.5 inch piece and submerged in a microscope dish under a microscope light to identify if any gonads were present in the fragment piece. She then used fine tipped tweezers to hold the fragment piece and used a fine pointed dissecting tool to gently dislodge any of the gonads from the underlying tissues. She then used a glass pipette to apply pressure and suction to the gonad until it finally released from the tissue. She then preserved the 9 gonads she was able to collect from 5 separate fragments into 250 uL of DNA/RNA shield in a sterile o-ring micro-centrifuge tube. This process will be modified next sampling period to try a fragment saw and needle syringe to improve the number of gonads extracted from samples. The below images show clear gonads (small white circular material in the skeleton)located in the polyp pockets of the fragment pieces.
 
-![image1]()
+![image1](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/gonad_dissection.jpeg)
+
+![dissectingimage](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/gonad_dissection2.jpeg)
+
+![fragment piece](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/gonad_piece.jpeg)
 
 
 # 21 September 2022  
