@@ -5,7 +5,7 @@ date: '2022-09-20'
 categories: Moorea_Adult_Stressor_2022
 tags: Fieldwork Gametogenesis Sampling Physiology Apulchra Light 
 ---
-
+  
 This post includes the full notebook for Sept-Dec 2022 *Acropora pulchra* adult coral experiment Moorea, French Polynesia. These notebook posts are updated in order of most recent to oldest.
 
 # Project Overview  
