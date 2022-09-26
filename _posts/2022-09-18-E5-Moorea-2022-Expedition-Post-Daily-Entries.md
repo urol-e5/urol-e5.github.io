@@ -1,4 +1,4 @@
----
+airbrushedairbrushed---
 layout: post
 title: Moorea 2022 Coral Spawning and Field Expedition Daily Entries  
 date: '2022-09-18'
@@ -40,6 +40,10 @@ Ariana set up the E5 tanks to have hanging wires for each fragment when fragment
 ![tanks 2](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/e5_tank2.jpeg)
 
 # 24 September 2022  
+
+### *Airbrushing gametogenesis project - September 2022*
+
+Danielle taught Pierrick the [airbrushing protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2020-01-01-Airbrushing.md) for Mo'orea and also airbrushed 40 of the September 2022 monthly sampling *A. pulchra* fragments following the protocol and stored the tissue homogenate in the Molecular -40 freezer in a mesh bag. 
 
 ### *Logger calibration*  
 
@@ -114,7 +118,7 @@ Ariana started a [GitHub repo for this project here](https://github.com/urol-e5/
 
 ### *Logger offload and calibration*  
 
-Loggers were read off for the wildtype parent tanks and Danielle's parent tanks. Files were labeled with SSN and date and saved in the Apulchra_metabolism E5  GitHub repository. Loggers read off were: 
+Loggers were read off for the wildtype parent tanks and Danielle's parent tanks. Files were labeled with SSN and date and saved in the Apulchra_metabolism E5  GitHub repository. Loggers read off were:
 
 20719656 (Wildtype Tank 2)  
 20946644 (Danielle Tank 1)    
