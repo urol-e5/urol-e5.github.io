@@ -10,7 +10,11 @@ This post includes the full notebook for Sept-Dec 2022 *Acropora pulchra* adult 
 
 # Project Overview  
 
-The goal of this project is to expose adult *Acropora pulchra* corals to conditions that elicit changes in symbiotic and metabolic condition and test how these changes influence response to a repeat stressor. Here, we are manipulating light conditions to elicit metabolic and symbiotic responses and testing stress response at the end of the experiment using the thermal stress CBASS system. The team will expose adult corals to ambient and low light conditions in Sept - Dec with thermal stress phenotype measurement in Dec with S. Matsuda and R. Cunning.  
+The goal of this project is to expose adult *Acropora pulchra* corals to conditions that elicit changes in symbiotic and metabolic condition and test how these changes influence response to a repeat stressor. Here, we are manipulating light and feeding conditions to elicit metabolic and symbiotic responses and testing stress response at the end of the experiment using the thermal stress CBASS system. The team will expose adult corals to light with added food, light with no added food, and shade with added food in Sept - Dec with thermal stress phenotype measurement in Dec with S. Matsuda and R. Cunning.  
+
+The experimental design overview can be seen here:  
+
+![e5design](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/e5design4.png)
 
 This post details activities and notebooks for this project.   
 
@@ -21,6 +25,46 @@ Danielle Becker-Polinski, URI
 Hollie Putnam, URI  
 Shayle Matsuda, Shedd Aquarium   
 Ross Cunning, Shedd Aquarium   
+
+# 27 September 2022  
+
+### *Fragmentation*  
+
+Ariana fragmented two more genotypes for use in the E5 adult experiment as described on 26 September 2022. Genotypes fragmented today were labeled D1-D35 and E1-E35. Fragments from colony A were showing mortality. These were removed from the tanks and will be replaced with a different genotype tomorrow. Fragmentation was completed from 0700-0900. Ariana and Danielle created labels in preparation for the final fragmentation tomorrow.  
+
+Fragments were then allocated to tanks with tank number recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/metadata/fragments.csv). 
+
+Fragments from yesterday appear to be healthy and the tank system is working well. In about a week we will need to change the paperclips to plastic coated paperclips to avoid rusting.  
+
+Once fragmentation is completed, Ariana will start daily measurements of environmental conditions, regular tank cleaning, and final treatment preparations.  
+
+The experimental design has been finalized for this project as is as follows:  
+
+![e5design](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/e5design4.png)
+
+This updated design includes a final processing for all fragments that includes the following responses: 
+ 
+1. All fragments (5 per colony/genotype per tank) undergo CBASS testing at 5 temperatures including 27C, 29C, 31C, 32C, 33C (or something similar). 
+2. We will take molecular samples from all fragments after CBASS. 
+3. The fragment at the control temperature will then be used for molecular, metabolomic, and physiology responses.  
+
+#### *Feeding treatments*  
+
+For this experimental design, we need to plan for the type and amount of food to feed for Hollie to bring when she arrives in Moorea. Ariana looked in the literature for information on the effect of artificial foods (freeze dried plankton, rotifers, etc.) on coral growth.  
+
+[Conlan et al. 2018](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC6261599/): This paper compared coral growth with different types of food in *A. millepora* and *P. acuta*. They found no significant effect of feeding artificial foods on growth when compared to raw seawater. The dosage used was 0.05 g per tank in 49 L tanks. This equals about 1 mg per litre water.  
+
+[Forsman et al. 2012](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/abs/coral-farming-effects-of-light-water-motion-and-artificial-foods/BC8845A6BF25F08A37D398A0137C4AEF): This paper examined the effects of different aritifical foods and dosage of foods on growth in *M. capitata*, *P. acuta*, and *P. compressa*. They tested 1X, 3X, and 10X of manufacturer's dosage of Reef Roids, Reef Chili, and several other brands of food. Specifically, in *M. capitata* (in the Acroporidae family) has positive growth responses to artificial foods. They found that dosage of 1X of manufacturer's instructions of Reef Roids or Reef Chili were best for this species. It is important not to overfeed, as this can reduce growth and cause tank algal overgrowth.  
+
+For feeding in this experiment, Ariana suggests that we purchase either Reef Roids or Reef Chili. We can feed corals 3X per week in treatment tanks. Water can be turned off for 1 h during feeding. Ariana will look into the amount of food that will be required for this feeding. If the amount is too high, we can look into building a feeding tank for all corals to be fed as a group and thereby reduce the amount of food needed. 
+
+#### *Remaining to-do items for experiment set up*  
+
+- Prepare a tank for 3x week feedings  
+- Remake paper clips to plastic clips 
+- Create a schedule document for daily measurements and weekly cleaning check offs  
+- Start treatment after ~ 2-week recovery period  
+- Order coral food  
 
 # 26 September 2022  
 
