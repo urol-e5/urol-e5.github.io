@@ -25,15 +25,51 @@ Ariana Huffmyer
 Pierrick Harnay  
 Danielle Becker-Polinski  
 
+# 28 September 2022
+
+### *Chlorophyll preparation - September 2022 gametogenesis project*  
+
+### *Pocillopora spawning*  
+
 # 27 September 2022  
 
 ### *Pocillopora spawning*  
 
 Danielle and Pierrick snorkeled to observe *Pocillopora* spp. coral spawning at Manava from 0530-0730. No spawning was observed.  
 
-### *Histology time series* 
+### *A. pulchra high frequency sampling - 20220927*  
 
-The team sampled the high frequency histology time series corals today from 1200-1300. We sampled n=20 colonies. Danielle and Pierrick processed these samples as described in previous day entries.  
+Completed the second timepoint for the high frequency project for *A. pulchra* on the samples below.
+
+Metadata:
+
+| Species    | Site   | OrderbyPatch | Original.Tag.Num | Patch | Latitude.S | Longitude.W | GPS.Point.Name | Timestamp |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|------------|--------|--------------|------------------|-------|------------|-------------|----------------|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A. pulchra | Mahana | P1.3         |              414 | P1    | 17°29.234' | 149°53.264' | P1             |  12:59 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.5         |              416 | P2    | 17°29.232' | 149°53.253' | P2             |   1:11 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.4         |              424 | P3    | 17°29.223' | 149°53.249' | P3             |   1:17 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.1         |              426 | P5    | 17°29.220' | 149°53.236' | P5             |   1:49 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.1         |              429 | P2    | 17°29.232' | 149°53.253' | P2             |   1:05 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.4         |              430 | P2    | 17°29.232' | 149°53.253' | P2             |   1:10 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.9         |              431 | P4    | 17°29.231' | 149°53.242' | P4             |   1:46 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P1.5         |              433 | P1    | 17°29.234' | 149°53.264' | P1             |   1:02 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P1.4         |              434 | P1    | 17°29.234' | 149°53.264' | P1             |   1:00 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.10        |              436 | P3    | 17°29.223' | 149°53.249' | P3             |   1:29 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.2         |              437 | P5    | 17°29.220' | 149°53.236' | P5             |   1:50 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.10        |              439 | P4    | 17°29.231' | 149°53.242' | P4             |   1:47 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.1         |              448 | P4    | 17°29.231' | 149°53.242' | P4             |   1:35 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.2         |              449 | P2    | 17°29.232' | 149°53.253' | P2             |   1:07 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.8         |              451 | P5    | 17°29.220' | 149°53.236' | P5             |   2:00 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.6         |              458 | P5    | 17°29.220' | 149°53.236' | P5             |   1:56 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.11        |              461 | P3    | 17°29.223' | 149°53.249' | P3             |   1:30 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P1.1         |              462 | P1    | 17°29.234' | 149°53.264' | P1             |  12:56 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.6         |              464 | P4    | 17°29.231' | 149°53.242' | P4             |   1:41 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.6         |              465 | P3    | 17°29.223' | 149°53.249' | P3             |   1:22 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+
+### *A. pulchra high frequency sampling protocol*  
+
+Danielle and Pierrick followed the [same day sample processing protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2021-12-26-Sample_Same_Day_Processing_Protocol.md) for the 20 collected high frequency samples. Danielle also set aside 10 fragments to be dissected and preserved in DNA/RNA shield.
 
 ### *Boating*  
 
@@ -53,8 +89,8 @@ The experimental design has been finalized for this project as is as follows:
 
 This updated design includes a final processing for all fragments that includes the following responses:  
 
-1. All fragments (5 per colony/genotype per tank) undergo CBASS testing at 5 temperatures including 27C, 29C, 31C, 32C, 33C (or something similar). 
-2. We will take molecular samples from all fragments after CBASS. 
+1. All fragments (5 per colony/genotype per tank) undergo CBASS testing at 5 temperatures including 27C, 29C, 31C, 32C, 33C (or something similar).
+2. We will take molecular samples from all fragments after CBASS.
 3. The fragment at the control temperature will then be used for molecular, metabolomic, and physiology responses.  
 
 #### *Feeding treatments*  
@@ -65,17 +101,29 @@ For this experimental design, we need to plan for the type and amount of food to
 
 [Forsman et al. 2012](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/abs/coral-farming-effects-of-light-water-motion-and-artificial-foods/BC8845A6BF25F08A37D398A0137C4AEF): This paper examined the effects of different aritifical foods and dosage of foods on growth in *M. capitata*, *P. acuta*, and *P. compressa*. They tested 1X, 3X, and 10X of manufacturer's dosage of Reef Roids, Reef Chili, and several other brands of food. Specifically, in *M. capitata* (in the Acroporidae family) has positive growth responses to artificial foods. They found that dosage of 1X of manufacturer's instructions of Reef Roids or Reef Chili were best for this species. It is important not to overfeed, as this can reduce growth and cause tank algal overgrowth.  
 
-For feeding in this experiment, Ariana suggests that we purchase either Reef Roids or Reef Chili. We can feed corals 3X per week in treatment tanks. Water can be turned off for 1 h during feeding. Ariana will look into the amount of food that will be required for this feeding. If the amount is too high, we can look into building a feeding tank for all corals to be fed as a group and thereby reduce the amount of food needed. 
+For feeding in this experiment, Ariana suggests that we purchase either Reef Roids or Reef Chili. We can feed corals 3X per week in treatment tanks. Water can be turned off for 1 h during feeding. Ariana will look into the amount of food that will be required for this feeding. If the amount is too high, we can look into building a feeding tank for all corals to be fed as a group and thereby reduce the amount of food needed.
 
 #### *Remaining to-do items for experiment set up*  
 
 - Prepare a tank for 3x week feedings  
-- Remake paper clips to plastic clips 
+- Remake paper clips to plastic clips
 - Create a schedule document for daily measurements and weekly cleaning check offs  
 - Start treatment after ~ 2-week recovery period  
 - Order coral food  
 
 # 26 September 2022  
+
+### *Logistics - boating and liquid nitrogen*
+
+Danielle reserved boat days for the blue boat for returning and collecting colonies for spawning and after spawning. She also arranged for the next round of liquid nitrogen to be ordered and returned by Friday, the 29th.
+
+### *Aliquoting gametogenesis project - September 2022*
+
+Danielle taught Pierrick the [aliquoting protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2020-01-01-Airbrushing.md) for Mo'orea and also aliquoted 40 of the September 2022 monthly sampling *A. pulchra* fragments following the protocol and stored the remaining tissue homogenate and samples in the Molecular -40 freezer in a mesh bag.
+
+### *Surface area gametogenesis project - September 2022*
+
+Danielle taught Pierrick the [coral surface area protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2021-02-17-Surface-Area-Protocol.md) for Mo'orea and also completed the standard curve for surface area and measured surface area 40 of the September 2022 monthly sampling *A. pulchra* fragments following the protocol and stored the wax dipped skeletons in the molecular lab in a zip lock bag.
 
 ### *Pocillopora spawning*  
 
@@ -105,7 +153,7 @@ To fragment, the team made and labeled strings (fishing line) attached to paper 
 Coral fragments (~4-8 cm) were cut using bone clippers from larger colonies. Fragmentation was done in a water table from 1100-1900.    
 
 ![frags](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/frags.jpeg)
- 
+
 All treatment tanks were cleaned and pumps were added into each tank. Hobo pendant loggers are on the bottom center of each tank. Flow is high for these tanks to help corals recover from fragmentation. Note that no treatments have started yet, after fragmentation there will be a recovery period.  
 
 ![tanks 1](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/frags_tank1.jpeg)
@@ -114,7 +162,7 @@ All treatment tanks were cleaned and pumps were added into each tank. Hobo penda
 
 Fragments were then allocated to tanks with tank number recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/metadata/fragments.csv). Each tank has 5-6 fragments per colony and will have equal numbers of fragments.  
 
-A total of 3 genotypes/colonies were fragmented today and the team pre-labelled strings and paperclips for tomorrow. Ariana will finish fragmenting tomorrow and baseline sampling wll take place on Thurs/Friday of this week. 
+A total of 3 genotypes/colonies were fragmented today and the team pre-labelled strings and paperclips for tomorrow. Ariana will finish fragmenting tomorrow and baseline sampling wll take place on Thurs/Friday of this week.
 
 *Fragmented today:*  
 
@@ -130,12 +178,12 @@ Tomorrow we will fragment colonies D, E, F.
 
 The tanks for each fragment are listed below and recorded in GitHub (see link above).  
 
-Tank 1: 
+Tank 1:
 - A1-5
 - B1-5
 - C1-6
 
-Tank 2: 
+Tank 2:
 - A6-11
 - B6-11
 - C7-11
@@ -164,7 +212,7 @@ Tank 6:
 
 Given the amount of space in each tank and the number of fragments we could get per colony, Ariana re calculated our E5 design numbers. The changes are:  
 
-- Removing mid November time point. Since we want to know about how metabolic state influences stress response, it makes the most sense to keep our replication/samples for the time point in which we plan to do CBASS. 
+- Removing mid November time point. Since we want to know about how metabolic state influences stress response, it makes the most sense to keep our replication/samples for the time point in which we plan to do CBASS.
 - Changed treatments to include autotrophy (light, no food), auto/hetero (light, added food), and heterotrophy (shaded, no food) as suggested by R. Cunning. This will provide nutritional treatments to shift metabolic state. Given our current design, we can do n=2 tanks per treatment.  
 - tanks will now include 5-6 fragments per colony. This will provide enough samples to take baseline samples this week as well as have 1 fragment for physiology and molecular and 3-4 fragments for CBASS. We can destructively sample following CBASS. The temperatures for CBASS will be chosen to represent a control, moderate heating, and high heating tempratures.  
 - Colony number has been reduced from 10 down to 6. There is not enough room in the tanks for all 10 colonies.  
@@ -206,7 +254,7 @@ This fragmentation will be followed by baseline sampling at the start of the tre
 
 ### *Airbrushing gametogenesis project - September 2022*
 
-Danielle taught Pierrick the [airbrushing protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2020-01-01-Airbrushing.md) for Mo'orea and also airbrushed 40 of the September 2022 monthly sampling *A. pulchra* fragments following the protocol and stored the tissue homogenate in the Molecular -40 freezer in a mesh bag. 
+Danielle taught Pierrick the [airbrushing protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2020-01-01-Airbrushing.md) for Mo'orea and also airbrushed 40 of the September 2022 monthly sampling *A. pulchra* fragments following the protocol and stored the tissue homogenate in the Molecular -40 freezer in a mesh bag.
 
 ### *Logger calibration*  
 
