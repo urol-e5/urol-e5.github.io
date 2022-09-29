@@ -27,7 +27,13 @@ Danielle Becker-Polinski
 
 # 28 September 2022
 
-### *Chlorophyll preparation - September 2022 gametogenesis project*  
+### *Chlorophyll preparation - September 2022 gametogenesis project*
+
+Danielle taught Pierrick the first step in the [chlorophyll protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2020-01-01-Chlorophyll-Protocol.md) and prepped the 40 September 2022 gametogenesis timeseries samples with acetone. All samples put in dark fridge in molecular at 09:05.
+
+### *Tissue biomass preparation - September 2022 gametogenesis project*  
+
+Danielle taught Pierrick the first step in the [tissue biomass protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2020-01-01-Ash-Free-Dry-Weight-Protocol.md) and labeled and prepped 80 aluminum pans labeled 1-80 for the two host and symbiont portions of each of the September 2022 gametogenesis timeseries samples (n=40). She also put the aluminum pans in the muffle furnace for the pre-burning step in the protocol.
 
 ### *Pocillopora spawning*  
 
@@ -51,7 +57,7 @@ New genotypes for A and C fragments and for F fragments were fragmented at 1600-
 
 The final list of tank fragment locations is available on [GitHub](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv) and listed below.   
 
-Tank 1: 
+Tank 1:
 
 - A1-A5
 - B1-B5
@@ -60,7 +66,7 @@ Tank 1:
 - E1-E6
 - F1-F6
 
-Tank 2: 
+Tank 2:
 
 - A6-A11
 - B6-B11
@@ -69,7 +75,7 @@ Tank 2:
 - E7-E12
 - F7-F12
 
-Tank 3: 
+Tank 3:
 
 - A12-A17
 - B12-B17
@@ -78,7 +84,7 @@ Tank 3:
 - E13-E17
 - F13-F18
 
-Tank 4: 
+Tank 4:
 
 - A18-A23
 - B18-B23
@@ -87,7 +93,7 @@ Tank 4:
 - E18-E23
 - F19-F24
 
-Tank 5: 
+Tank 5:
 
 - A24-A29
 - B24-B29
@@ -96,7 +102,7 @@ Tank 5:
 - E24-E29
 - F24-F29
 
-Tank 6: 
+Tank 6:
 
 - A30-A35
 - B30-B35
@@ -115,11 +121,11 @@ Ariana cleaned all treatment tanks by removing fragments and placing them in the
 
 Ariana made notches in the hanging wires to prevent clips from moving around and the corals from getting too close to each other. These have worked well today.   
 
-In the next week, we will switch the paper clips to plastic clips to prevent rusting. 
+In the next week, we will switch the paper clips to plastic clips to prevent rusting.
 
 ![finalfrags](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/finalfrags1.jpeg)  
 
-![finalfrags](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/finalfrags2.jpeg) 
+![finalfrags](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/finalfrags2.jpeg)
 
 #### *Feeding treatments*  
 
