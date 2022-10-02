@@ -31,10 +31,13 @@ Danielle Becker-Polinski
 
 Danielle continued her methods for dissecting gametes from live *A. pulchra* fragments.   
 
-Danielle used a bone saw to cut ~10 individual <1 cm pieces from each individual fragment and submerged in a microscope dish under a microscope light to identify if any gonads were present in the fragment piece. She then used fine tipped tweezers to hold the fragment place and used a 1mL pipette to lightly dislodge the gonads. She then used a glass pipette to apply pressure and suction to the gonad until it finally released from the tissue. She then preserved the gonads she was able to collect from 5 separate fragments into 250 uL of DNA/RNA shield in a sterile o-ring micro-centrifuge tube. She was also able to identify gonads from other parts of tissue as they float when dislodged.
+Danielle used a bone saw to cut ~10 individual <1 cm pieces from each individual fragment and submerged them into a microscope dish under a microscope light to identify if any gonads were present. She then used fine tipped tweezers to hold the fragment place and used a 1mL pipette to lightly dislodge the gonads. She then used a glass pipette to apply pressure and suction to the gonad until it finally released from the tissue. She then preserved the gonads she was able to collect from 5 separate fragments into 250 uL of DNA/RNA shield in a sterile o-ring micro-centrifuge tube. She was also able to identify gonads from other parts of tissue as they float when dislodged.
 
+![gonad123](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/gonads_test1.jpeg)
 
+![gonad23](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/gonads_test2.jpeg)
 
+![gonad32](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/gonads_test3.jpeg)
 
 ### *E5 adult coral metabolism project*  
 
@@ -582,7 +585,7 @@ The team met with collaborators in the Padilla-Gamino lab from the University of
 
 Danielle trialed methods for dissecting gametes from live *A. pulchra* fragments. During our field expedition today, we noticed that gametes were visible in *A. pulchra* fragments and Danielle dissected and sampled these gametes.  
 
-Danielle first cut extra fragments that were taken from sampling with bon cutters into a ~0.5 inch piece and submerged in a microscope dish under a microscope light to identify if any gonads were present in the fragment piece. She then used fine tipped tweezers to hold the fragment piece and used a fine pointed dissecting tool to gently dislodge any of the gonads from the underlying tissues. She then used a glass pipette to apply pressure and suction to the gonad until it finally released from the tissue. She then preserved the 9 gonads she was able to collect from 5 separate fragments into 250 uL of DNA/RNA shield in a sterile o-ring micro-centrifuge tube. This process will be modified next sampling period to try a fragment saw and needle syringe to improve the number of gonads extracted from samples. The below images show clear gonads (small white circular material in the skeleton)located in the polyp pockets of the fragment pieces.
+Danielle first cut extra fragments that were taken from sampling with bone cutters into a ~0.5 inch piece and submerged in a microscope dish under a microscope light to identify if any gonads were present in the fragment piece. She then used fine tipped tweezers to hold the fragment piece and used a fine pointed dissecting tool to gently dislodge any of the gonads from the underlying tissues. She then used a glass pipette to apply pressure and suction to the gonad until it finally released from the tissue. She then preserved the 9 gonads she was able to collect from 5 separate fragments into 250 uL of DNA/RNA shield in a sterile o-ring micro-centrifuge tube. This process will be modified next sampling period to try a fragment saw and needle syringe to improve the number of gonads extracted from samples. The below images show clear gonads (small white circular material in the skeleton)located in the polyp pockets of the fragment pieces.
 
 ![image1](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/gonad_dissection.jpeg)
 
