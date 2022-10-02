@@ -25,7 +25,16 @@ Ariana Huffmyer
 Pierrick Harnay  
 Danielle Becker-Polinski  
 
-# 30 September 2022 
+# 30 September 2022
+
+### *Gamete dissection*  
+
+Danielle continued her methods for dissecting gametes from live *A. pulchra* fragments.   
+
+Danielle used a bone saw to cut ~10 individual <1 cm pieces from each individual fragment and submerged in a microscope dish under a microscope light to identify if any gonads were present in the fragment piece. She then used fine tipped tweezers to hold the fragment place and used a 1mL pipette to lightly dislodge the gonads. She then used a glass pipette to apply pressure and suction to the gonad until it finally released from the tissue. She then preserved the gonads she was able to collect from 5 separate fragments into 250 uL of DNA/RNA shield in a sterile o-ring micro-centrifuge tube. She was also able to identify gonads from other parts of tissue as they float when dislodged.
+
+
+
 
 ### *E5 adult coral metabolism project*  
 
@@ -39,9 +48,9 @@ Daily measurements for today were recorded in [GitHub here](https://github.com/u
 
 In the next couple of days Ariana will sample n=4 randomly selected fragments of each genotype to characterize baseline values of our responses of interest including DNA methylation and chromatin structure, gene expression, metabolomics, microbial communities, and physiology. Fragments were selected by randomly selecting n=4 per genotype such that each fragment was from a different tank and sampling from each tank was balanced to keep fragment density consistent.   
 
-Today, Ariana identified the fragments to be sampled and prepared and labeled all tubes, whirlpacks, and equipment that will be used. 
+Today, Ariana identified the fragments to be sampled and prepared and labeled all tubes, whirlpacks, and equipment that will be used.
 
-Baseline sampling will be conducted following the protocol written by Ariana today. The [baseline sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Baseline-Sampling-Protocol.md) details procedures taking photographs of selected fragments for gene expression, microbial communities (16S and ITS2), chromatin structure and DNA methylation, metabolomics, and physiology. 
+Baseline sampling will be conducted following the protocol written by Ariana today. The [baseline sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Baseline-Sampling-Protocol.md) details procedures taking photographs of selected fragments for gene expression, microbial communities (16S and ITS2), chromatin structure and DNA methylation, metabolomics, and physiology.
 
 **The fragments that will be sampled are:**  
 A7, 16, 20, 31  
@@ -55,7 +64,7 @@ F2, 9, 17, 22
 
 2 mL screw cap cryo tubes were labeled in preparation for sampling as nubmers 1-96. The number was written on the top cap of each tube as well as on the side. "E5 Metab. 2022" was also added on the side of each tube to identify the project. To see details on organization and labeling for baseline sampling, [see the detailed protocol here](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Baseline-Sampling-Protocol.md).  
 
-Tubes #1-48 were filled with 1 mL of RNA DNA Shield. All tube ID's and associated fragment and method of preservation were planned and recorded in the [sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sample.id.csv). 
+Tubes #1-48 were filled with 1 mL of RNA DNA Shield. All tube ID's and associated fragment and method of preservation were planned and recorded in the [sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sample.id.csv).
 
 Ariana also created a [fragment tracking datasheet](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv) and  [baseline sampling checklist](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/baseline_sampling_checklist.csv) that will be used to track sampling and metadata for this project.  
 
@@ -73,7 +82,15 @@ Documents referenced in this post are all found below:
 
 [Baseline sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Baseline-Sampling-Protocol.md)
 
-# 29 September 2022 
+# 29 September 2022
+
+### *Chlorophyll - September 2022 gametogenesis project*
+
+Danielle taught Pierrick the final steps in the [chlorophyll protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2020-01-01-Chlorophyll-Protocol.md) and completed the 40 September 2022 gametogenesis timeseries samples chlorophyll analysis.
+
+### *Tissue biomass preparation - September 2022 gametogenesis project*  
+
+Danielle taught Pierrick the second step in the [tissue biomass protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2020-01-01-Ash-Free-Dry-Weight-Protocol.md) and weighed the pre-burned pans and filled the host and symbiont portions of each of the September 2022 gametogenesis timeseries samples (n=40) with 4 mL for host and 1 mL for symbionts in the pans. They put the aluminum pans in the drying overn for >24 hours.
 
 ### *E5 adult coral metabolism project*  
 
