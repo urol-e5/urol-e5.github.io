@@ -32,7 +32,7 @@ The following protocols and links to data will be used regularly by the field te
 
 **Daily measurements:**  
 [Daily measurements protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-24-Moorea-Daily-Measurement-Protocol.md)  
-[Daily measurement data sheets](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements)  
+[Daily measurement data sheet](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements)  
 [Schedule daily checklist](https://github.com/urol-e5/apulchra_metabolism/blob/main/schedule.xlsx)  
 
 **Weekly maintenance:**  
@@ -50,6 +50,16 @@ The following protocols and links to data will be used regularly by the field te
 
 **Logger files:**   
 [Logger files folder](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/loggers)
+
+# 1 October 2022 
+
+The team took the day off today for some fun snorkeling at Temae!   
+
+### *E5 adult coral metabolism project*  
+
+#### Daily measurements  
+
+Ariana took daily measurements of all tanks at 1630-1645. Sunlight was limited today and it was cloudy/rainy. Light measurements were all low during measurements (<25 PAR). Recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). Flow was even across tanks (325-375 mL per 5 sec) in each tank and did not need to be adjusted. Ariana will check the outflows tomorrow and flush the lines to prevent lines clogging after sampling the adult baseline fragments. 
 
 # 30 September 2022  
 
