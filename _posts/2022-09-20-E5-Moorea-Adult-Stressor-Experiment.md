@@ -51,13 +51,37 @@ The following protocols and links to data will be used regularly by the field te
 **Logger files:**   
 [Logger files folder](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/loggers)
 
+# 2 October 2022     
+
+### *Daily measurements*    
+
+Ariana took daily measurements at 1200-1230 in all E5 tanks. Recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). Flow was even across tanks (350-375 mL per 5 sec) in each tank and did not need to be adjusted. Tomorrow the team will clean and rearrange all tanks according to the [weekly maintainance protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Weekly-Maintenance-Protocol.md).     
+
+### *Baseline adult sampling*    
+
+Ariana sampled adult fragments for baseline measurements as described in the baseline measurement preparation post on 30 September 2022. Sampling followed the [baseline measurement protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Baseline-Sampling-Protocol.md).  
+
+First, the selected fragments (N=24, n=4 per genotype) were removed from the tanks and imaged using a color standard and ruler for reference.  
+
+![adult picture](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/frag_example_photo.jpeg)  
+
+Fragments were then transported to the molecular lab for processing. As described in the protocol, each fragment was sampled for biopsies that were flash frozen (n=2 per frag) and stored in RNA DNA shield (n=2 per frag) with the remaining fragment frozen for physiology. Between samples, equipment was sterilized with 10% bleach followed by 70% ethanol. Gloves and counter were sterilized between each fragment. Sterilization was critical since these samples may be used for bacterial community characterization.  
+
+For each fragment, pre-labeled tubes and bags were used as described on 30 September 2022 post. Using bone cutters, 4 biopsies (scraping 5-10 polyp area) were taken and added to tubes. Flash frozen tubes were immediately frozen in liquid nitrogen. Tubes with RNA DNA shield were stored in the -40C freezer. The remaining fragment was stored at -40C. After all samplinig was completed, all tubes were then stored in the Gump molecular lab freezer at 40C. 
+
+Sampling of all fragments took 1.5-2 hours. Sampling of fragments was conducted in random order to avoid any time effects on genotype differences.   
+
+[Checklists for sampling](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/baseline_sampling_checklist.csv) and [sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sample.id.csv) are available on GitHub.   
+
+### *Downloading loggers*   
+
+HOBO Pendant loggers from the six E5 tanks were downloaded at 1220. Loggers were kept logging in the tanks. Black HOBO loggers from the wildtype parent tanks (n=2) were removed from tanks, stopped, and downloaded at 1030. Logger files can be [found here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/loggers/E5_tanks/20221002).     
+
 # 1 October 2022 
 
 The team took the day off today for some fun snorkeling at Temae!   
 
-### *E5 adult coral metabolism project*  
-
-#### Daily measurements  
+### *Daily measurements*  
 
 Ariana took daily measurements of all tanks at 1630-1645. Sunlight was limited today and it was cloudy/rainy. Light measurements were all low during measurements (<25 PAR). Recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). Flow was even across tanks (325-375 mL per 5 sec) in each tank and did not need to be adjusted. Ariana will check the outflows tomorrow and flush the lines to prevent lines clogging after sampling the adult baseline fragments. 
 
