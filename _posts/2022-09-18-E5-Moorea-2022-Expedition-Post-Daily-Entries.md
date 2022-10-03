@@ -44,7 +44,7 @@ First, the selected fragments (N=24, n=4 per genotype) were removed from the tan
 
 Fragments were then transported to the molecular lab for processing. As described in the protocol, each fragment was sampled for biopsies that were flash frozen (n=2 per frag) and stored in RNA DNA shield (n=2 per frag) with the remaining fragment frozen for physiology. Between samples, equipment was sterilized with 10% bleach followed by 70% ethanol. Gloves and counter were sterilized between each fragment. Sterilization was critical since these samples may be used for bacterial community characterization.  
 
-For each fragment, pre-labeled tubes and bags were used as described on 30 September 2022 post. Using bone cutters, 4 biopsies (scraping 5-10 polyp area) were taken and added to tubes. Flash frozen tubes were immediately frozen in liquid nitrogen. Tubes with RNA DNA shield were stored in the -40C freezer. The remaining fragment was stored at -40C. After all samplinig was completed, all tubes were then stored in the Gump molecular lab freezer at 40C. 
+For each fragment, pre-labeled tubes and bags were used as described on 30 September 2022 post. Using bone cutters, 4 biopsies (scraping 5-10 polyp area) were taken and added to tubes. Flash frozen tubes were immediately frozen in liquid nitrogen. Tubes with RNA DNA shield were stored in the -40C freezer. The remaining fragment was stored at -40C. After all samplinig was completed, all tubes were then stored in the Gump molecular lab freezer at 40C.
 
 Sampling of all fragments took 1.5-2 hours. Sampling of fragments was conducted in random order to avoid any time effects on genotype differences.   
 
@@ -54,11 +54,45 @@ Sampling of all fragments took 1.5-2 hours. Sampling of fragments was conducted 
 
 HOBO Pendant loggers from the six E5 tanks were downloaded at 1220. Loggers were kept logging in the tanks. Black HOBO loggers from the wildtype parent tanks (n=2) were removed from tanks, stopped, and downloaded at 1030. Logger files can be [found here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/loggers/E5_tanks/20221002).    
 
-### *Histology time series*    
+### *A. pulchra high frequency sampling - 20220927*  
 
-The team conducted sampling of n=20 high frequency *A. pulchra* tagged colonies at Mahana.  
+Completed the third timepoint for the high frequency project for *A. pulchra* on the samples below. Went in the field at 09:00 to collect 20 fragments from the five patches.
 
-# 1 October 2022 
+Metadata:
+
+| Species    | Site   | OrderbyPatch | Original.Tag.Num | Patch | Latitude.S | Longitude.W | GPS.Point.Name | Timestamp |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|------------|--------|--------------|------------------|-------|------------|-------------|----------------|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A. pulchra | Mahana | P1.3         |              414 | P1    | 17°29.234' | 149°53.264' | P1             |  12:59 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.5         |              416 | P2    | 17°29.232' | 149°53.253' | P2             |   1:11 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.4         |              424 | P3    | 17°29.223' | 149°53.249' | P3             |   1:17 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.1         |              426 | P5    | 17°29.220' | 149°53.236' | P5             |   1:49 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.1         |              429 | P2    | 17°29.232' | 149°53.253' | P2             |   1:05 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.4         |              430 | P2    | 17°29.232' | 149°53.253' | P2             |   1:10 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.9         |              431 | P4    | 17°29.231' | 149°53.242' | P4             |   1:46 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P1.5         |              433 | P1    | 17°29.234' | 149°53.264' | P1             |   1:02 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P1.4         |              434 | P1    | 17°29.234' | 149°53.264' | P1             |   1:00 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.10        |              436 | P3    | 17°29.223' | 149°53.249' | P3             |   1:29 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.2         |              437 | P5    | 17°29.220' | 149°53.236' | P5             |   1:50 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.10        |              439 | P4    | 17°29.231' | 149°53.242' | P4             |   1:47 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.1         |              448 | P4    | 17°29.231' | 149°53.242' | P4             |   1:35 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.2         |              449 | P2    | 17°29.232' | 149°53.253' | P2             |   1:07 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.8         |              451 | P5    | 17°29.220' | 149°53.236' | P5             |   2:00 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.6         |              458 | P5    | 17°29.220' | 149°53.236' | P5             |   1:56 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.11        |              461 | P3    | 17°29.223' | 149°53.249' | P3             |   1:30 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P1.1         |              462 | P1    | 17°29.234' | 149°53.264' | P1             |  12:56 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.6         |              464 | P4    | 17°29.231' | 149°53.242' | P4             |   1:41 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.6         |              465 | P3    | 17°29.223' | 149°53.249' | P3             |   1:22 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+
+### *A. pulchra high frequency sampling protocol*  
+
+Danielle followed the [same day sample processing protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2021-12-26-Sample_Same_Day_Processing_Protocol.md) for the 20 collected high frequency samples. Danielle also set aside 10 fragments to be dissected and preserved in DNA/RNA shield.  
+
+### *Tissue biomass completion - September 2022 gametogenesis project*  
+
+Danielle taught Pierrick the final step in the [tissue biomass protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2020-01-01-Ash-Free-Dry-Weight-Protocol.md) and weighed the ash pans of the host and symbiont portions of each of the September 2022 gametogenesis timeseries samples (n=40) with 4 mL for host and 1 mL for symbionts in the pans.
+
+# 1 October 2022
 
 The team took the day off today for some fun snorkeling at Temae!   
 
@@ -66,7 +100,7 @@ The team took the day off today for some fun snorkeling at Temae!
 
 #### Daily measurements  
 
-Ariana took daily measurements of all tanks at 1630-1645. Sunlight was limited today and it was cloudy/rainy. Light measurements were all low during measurements (<25 PAR). Recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). Flow was even across tanks (325-375 mL per 5 sec) in each tank and did not need to be adjusted. Ariana will check the outflows tomorrow and flush the lines to prevent lines clogging after sampling the adult baseline fragments. 
+Ariana took daily measurements of all tanks at 1630-1645. Sunlight was limited today and it was cloudy/rainy. Light measurements were all low during measurements (<25 PAR). Recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). Flow was even across tanks (325-375 mL per 5 sec) in each tank and did not need to be adjusted. Ariana will check the outflows tomorrow and flush the lines to prevent lines clogging after sampling the adult baseline fragments.
 
 # 30 September 2022
 
