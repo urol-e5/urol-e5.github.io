@@ -54,6 +54,10 @@ Sampling of all fragments took 1.5-2 hours. Sampling of fragments was conducted 
 
 HOBO Pendant loggers from the six E5 tanks were downloaded at 1220. Loggers were kept logging in the tanks. Black HOBO loggers from the wildtype parent tanks (n=2) were removed from tanks, stopped, and downloaded at 1030. Logger files can be [found here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/loggers/E5_tanks/20221002).    
 
+### *Histological decalcification*  
+
+Following the [histological processing protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2022-04-16-Histological-Processing.md) Danielle taught Pierrick how to preserve and decalcify his *Pocillopora* spp. samples and she began the decalcification process for the September 2022 samples. They were put into the pre-labeled March and June cups. s
+
 ### *A. pulchra high frequency sampling - 20220927*  
 
 Completed the third timepoint for the high frequency project for *A. pulchra* on the samples below. Went in the field at 09:00 to collect 20 fragments from the five patches.
@@ -86,7 +90,11 @@ Metadata:
 
 ### *A. pulchra high frequency sampling protocol*  
 
-Danielle followed the [same day sample processing protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2021-12-26-Sample_Same_Day_Processing_Protocol.md) for the 20 collected high frequency samples. Danielle also set aside 10 fragments to be dissected and preserved in DNA/RNA shield.  
+Danielle followed the [same day sample processing protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2021-12-26-Sample_Same_Day_Processing_Protocol.md) for the 20 collected high frequency samples. Danielle also set aside 10 fragments to be dissected and preserved in DNA/RNA shield.
+
+### *Dissections*   
+
+Danielle continued processing the *A. pulchra* samples from the second high frequency sampling for dissections. Danielle and Pierrick began to work on the *Pocillopora* spp. dissections and found where the eggs/gonads should be in the *Pocillopora* spp. tissue (right below the polyps). Since they are so small (~60um) they began the fixing and decalcification process for a subset of samples to see if any reproductive tissue can be seen in a scope after decalcification.
 
 ### *Tissue biomass completion - September 2022 gametogenesis project*  
 
