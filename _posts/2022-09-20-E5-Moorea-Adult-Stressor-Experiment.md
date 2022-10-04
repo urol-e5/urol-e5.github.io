@@ -51,6 +51,24 @@ The following protocols and links to data will be used regularly by the field te
 **Logger files:**   
 [Logger files folder](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/loggers)
 
+# 3 October 2022  
+
+### *Tank cleaning* 
+
+Ariana cleaned the E5 tanks today between 1100-1400. Tanks were cleaned by first removing the wire lines with frags attached from 1-2 tanks at a time and placing in the water table. The tanks were then removed and wiped with microfiber towels and rinsed with fresh water. 
+
+Fishing line of each fragment was cleaned and algae removed. Tanks were refilled and frags were added back in along with loggers and pumps. Ariana also cleaned the water lines. 
+
+During cleaning, tank position within each water table was rearranged. All tanks are in a new location. Frags were also returned such that each wire was put back in a different position to shuffle the fragments. 
+
+No mortality was observed in fragments. Water flow was adjusted to return to previous levels (350-400 mL per 5 sec).  
+
+![clean tanks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/clean_tanks.jpeg)  
+
+### *Daily measurements*  
+
+Daily measurements were taken between 1400 and 1500 and recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). Conditions were cloudy and rainy today so light levels were low (<200 PAR).  
+
 # 2 October 2022     
 
 ### *Daily measurements*    
