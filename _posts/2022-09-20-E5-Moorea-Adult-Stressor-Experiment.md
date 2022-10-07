@@ -51,6 +51,12 @@ The following protocols and links to data will be used regularly by the field te
 **Logger files:**   
 [Logger files folder](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/loggers)
 
+# 6 October 2022   
+
+### *Daily measurements*    
+
+Ariana and Danielle took daily measurements of E5 tanks between 1000 and 1030. No mortality was observed. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).       
+
 # 5 October 2022  
 
 ### *Daily measurements*    
