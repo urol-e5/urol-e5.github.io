@@ -51,6 +51,16 @@ The following protocols and links to data will be used regularly by the field te
 **Logger files:**   
 [Logger files folder](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/loggers)
 
+# 9 October 2022  
+
+### *Daily measurements*    
+
+Ariana took daily measurements of E5 tanks between 1600 and 1630. No mortality was observed. Light values were low in the afternoon due to cloud cover. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).  
+
+### *New coral tags*  
+
+Ariana started replacing paper clips with coated wire tags. These will be replaced over the course of the next week. 
+
 # 7 October 2022  
 
 ### *Daily measurements*  
