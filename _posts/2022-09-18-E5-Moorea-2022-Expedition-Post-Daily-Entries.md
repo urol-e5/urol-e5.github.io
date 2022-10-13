@@ -1,3 +1,4 @@
+
 ---
 layout: post
 title: Moorea 2022 Coral Spawning and Field Expedition Daily Entries  
@@ -28,7 +29,7 @@ Hollie Putnam
 
 # 12 October 2022  
 
-### *Collecting parent colonies* 
+### *Collecting parent colonies*
 
 Danielle and Ariana spent the day collecting parent colonies in preparation for spawning. The following coral colonies were collected:  
 
@@ -40,9 +41,41 @@ Wildtype colonies were sampled using a hammer and chisel. *A. hyacinthus* coloni
 
 Colonies were placed in n=2 tanks for Danielle's colonies with n=1 tank for each wildtype species. Water flow was kept very high with n=3 recirculating pumps in each tank.  
 
-### *High frequency histology time series sampling*  
 
-Ariana and Danielle collected samples for the high frequency *A. pulchra* time series from Mahana from 1500-1600. Danielle processed the fragments in the lab for sampling.  
+### *A. pulchra high frequency sampling - 20221012*  
+
+Completed the sixth timepoint for the high frequency project for *A. pulchra* on the samples below. Went in the field at 15:00 to collect 20 fragments from the five patches.
+
+Metadata:
+
+| Species    | Site   | OrderbyPatch | Original.Tag.Num | Patch | Latitude.S | Longitude.W | GPS.Point.Name | Timestamp |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+|------------|--------|--------------|------------------|-------|------------|-------------|----------------|-----------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| A. pulchra | Mahana | P1.3         |              414 | P1    | 17°29.234' | 149°53.264' | P1             |  12:59 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.5         |              416 | P2    | 17°29.232' | 149°53.253' | P2             |   1:11 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.4         |              424 | P3    | 17°29.223' | 149°53.249' | P3             |   1:17 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.1         |              426 | P5    | 17°29.220' | 149°53.236' | P5             |   1:49 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.1         |              429 | P2    | 17°29.232' | 149°53.253' | P2             |   1:05 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.4         |              430 | P2    | 17°29.232' | 149°53.253' | P2             |   1:10 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.9         |              431 | P4    | 17°29.231' | 149°53.242' | P4             |   1:46 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P1.5         |              433 | P1    | 17°29.234' | 149°53.264' | P1             |   1:02 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P1.4         |              434 | P1    | 17°29.234' | 149°53.264' | P1             |   1:00 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.10        |              436 | P3    | 17°29.223' | 149°53.249' | P3             |   1:29 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.2         |              437 | P5    | 17°29.220' | 149°53.236' | P5             |   1:50 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.10        |              439 | P4    | 17°29.231' | 149°53.242' | P4             |   1:47 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.1         |              448 | P4    | 17°29.231' | 149°53.242' | P4             |   1:35 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P2.2         |              449 | P2    | 17°29.232' | 149°53.253' | P2             |   1:07 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.8         |              451 | P5    | 17°29.220' | 149°53.236' | P5             |   2:00 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P5.6         |              458 | P5    | 17°29.220' | 149°53.236' | P5             |   1:56 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.11        |              461 | P3    | 17°29.223' | 149°53.249' | P3             |   1:30 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P1.1         |              462 | P1    | 17°29.234' | 149°53.264' | P1             |  12:56 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P4.6         |              464 | P4    | 17°29.231' | 149°53.242' | P4             |   1:41 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| A. pulchra | Mahana | P3.6         |              465 | P3    | 17°29.223' | 149°53.249' | P3             |   1:22 PM |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+
+
+### *A. pulchra high frequency sampling protocol*  
+
+Danielle followed the [same day sample processing protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2021-12-26-Sample_Same_Day_Processing_Protocol.md) for the 20 collected high frequency samples. Danielle also set aside 10 fragments to be dissected and preserved in DNA/RNA shield.
+
 
 ### *Spawning preparations*  
 
@@ -50,7 +83,7 @@ Danielle prepared all the spawning supplies required for her project using the s
 
 Ariana set up all squaricals, coolers, and Apex systems as described for the September spawning. All systems ran smoothly today with sufficient water flow.  
 
-The Putnam Lab and Correa Lab teams met together to talk about coral spawning and do an orientation to the current workflows and tank set up. 
+The Putnam Lab and Correa Lab teams met together to talk about coral spawning and do an orientation to the current workflows and tank set up.
 
 Ariana repaired mesh on plastic tupperware containers that will be extra containers to rear larvae if we have an excess of spawning material.  
 
@@ -58,9 +91,9 @@ Ariana repaired mesh on plastic tupperware containers that will be extra contain
 
 Ariana launched Hobo at 0900, logging every 10 min in the parent tanks prior to colony collection:  
 
-- Wildtype parent 2 SSN 20719656 
-- DBP Parent 2 SSN 20444040 
-- DBP Parent 1 SSN 20946644 
+- Wildtype parent 2 SSN 20719656
+- DBP Parent 2 SSN 20444040
+- DBP Parent 1 SSN 20946644
 - Wildtype parent 1 SSN 20444033
 
 Hobo pendants for the larval containers were also launched at 2100 logging every 10 min. Loggers were launched for A1-3, B1-3, C1-3, and D1-3 tanks with the same SSN assignments as on September 16 2022.  
@@ -85,7 +118,7 @@ Ariana continued replacing coral tags for the E5 tanks. All tags were replaced.
 
 Ariana and Danielle cleaned all E5 tanks and all corals. Tanks 1, 2, and 3 were moved to a water table further under the shade structure. In the mornings, tanks 1, 2, and 3 have been getting intense morning light at sunrise. Moving the tanks further under the building will make the light more even.   
 
-![clean tanks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/clean_tanks_oct11.jpeg) 
+![clean tanks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/clean_tanks_oct11.jpeg)
 
 #### Loggers  
 
@@ -99,13 +132,13 @@ Ariana will continue to trouble shoot some of the logger data. Specifically, the
 
 We also plotted the temperatures from the heatwave and wildtype *A. pulchra* parent colonies.  
 
-![parent loggers](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/parent_temp.png) 
+![parent loggers](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/parent_temp.png)
 
 ### *Spawning preparations*  
 
 Ariana and Danielle cleaned and set up the coolers and squaricals in preparation for another round of spawning in the next week. We also filled and cleaned the large blue tanks in preparation for collecting adult colonies tomorrow from the field.  
 
-![set up tanks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/coolers_setup.jpeg) 
+![set up tanks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/coolers_setup.jpeg)
 
 # 10 October 2022  
 
@@ -135,6 +168,10 @@ Ariana and Terava aliquoted coral tissue slurries for future analysis of symbion
 
 The sample tracking sheet can be [found here with information on aliquoting sample locations](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/baseline_sampling_checklist.csv).  
 
+### *A. pulchra high frequency sampling dissections*   
+
+Danielle finished processing the *A. pulchra* samples from the fifth high frequency sampling (20221007) for dissections. The fragments from this timepoint had many more distinct gonads.
+
 # 9 October 2022  
 
 ### *E5 adult coral metabolism project*  
@@ -145,15 +182,15 @@ Ariana took daily measurements of E5 tanks between 1600 and 1630. No mortality w
 
 #### New coral tags
 
-Ariana started replacing paper clips with coated wire tags. These will be replaced over the course of the next week. 
+Ariana started replacing paper clips with coated wire tags. These will be replaced over the course of the next week.
 
-### *Pocillopora spawning observation* 
+### *Pocillopora spawning observation*
 
-The team snorkeled at Manava (Ariana and Pierrick) and Hilton (Danielle and Noam) from 0800-1000. Another researcher potentially observed Pocillopora spawning at around 9am at the Hilton site. We decided to snorkel at this later time to see if spawning would occur. We did not see evidence of spawning today. 
+The team snorkeled at Manava (Ariana and Pierrick) and Hilton (Danielle and Noam) from 0800-1000. Another researcher potentially observed Pocillopora spawning at around 9am at the Hilton site. We decided to snorkel at this later time to see if spawning would occur. We did not see evidence of spawning today.
 
 ### *Histology time series sampling*  
 
-Danielle and the team sampled a subset of the high frequency time series *A. pulchra* colonies today for Danielle to do gamete dissections. 
+Danielle and the team sampled a subset of the high frequency time series *A. pulchra* colonies today for Danielle to do gamete dissections.
 
 # 7 October 2022  
 
@@ -202,7 +239,7 @@ Ariana took daily measurements of E5 tanks between 1400 and 1430. No mortality w
 
 Ariana measured surface area using the wax dipping method on all E5 baseline fragments. All airbrushed fragments from 5 October 2022 were dried in a drying oven at 80°C for 6 hours. The fragments were then weighed on a Mettler Toledo Excellence Plus SP203S scale to 0.001 g. This was recorded as the fragment dry weight. Fragments were then dipped once in melted wax and allowed to dry. Fragments were then re-weighed on the scale and recorded as wax dipped weight.  
 
-We will use the standard curve for this wax batch from the one generated by Danielle during this field trip. The [data for the curve is here](https://github.com/daniellembecker/Gametogenesis/blob/main/gametogenesis_timeseries/September_2022/data/10_surface_area/10_surface_area_data.csv) and the [script for processing is here](https://github.com/daniellembecker/Gametogenesis/blob/main/gametogenesis_timeseries/September_2022/scripts/10_surface_area.Rmd). 
+We will use the standard curve for this wax batch from the one generated by Danielle during this field trip. The [data for the curve is here](https://github.com/daniellembecker/Gametogenesis/blob/main/gametogenesis_timeseries/September_2022/data/10_surface_area/10_surface_area_data.csv) and the [script for processing is here](https://github.com/daniellembecker/Gametogenesis/blob/main/gametogenesis_timeseries/September_2022/scripts/10_surface_area.Rmd).
 
 Ariana will next work on the scripts to process surface area data. Symbiont cell density and total protein will be the next steps in processing fragments.  
 
@@ -210,7 +247,7 @@ Surface area data was [recorded in GitHub](https://github.com/urol-e5/apulchra_m
 
 ### *Pocillopora population transects*  
 
-Today the team completed the last (7 out of 7 completed) transect at the Manava site for Pierrick Harnay's PhD project on the genetic population of Pocillopora spp. corals in Mo'orea. More information can be [found in his notebook here](https://pierrickharnay.github.io/PierrickHarnay_Notebook/). 
+Today the team completed the last (7 out of 7 completed) transect at the Manava site for Pierrick Harnay's PhD project on the genetic population of Pocillopora spp. corals in Mo'orea. More information can be [found in his notebook here](https://pierrickharnay.github.io/PierrickHarnay_Notebook/).
 
 ### *Pocillopora spawning observation*  
 
@@ -242,7 +279,7 @@ Fragments that were airbrushed yesterday were removed from 10% bleach cups. Skel
 
 ### *Pocillopora population transects*  
 
-Today the team completed transects at the Manava site for Pierrick Harnay's PhD project on the genetic population of Pocillopora spp. corals in Mo'orea. More information can be [found in his notebook here](https://pierrickharnay.github.io/PierrickHarnay_Notebook/). 
+Today the team completed transects at the Manava site for Pierrick Harnay's PhD project on the genetic population of Pocillopora spp. corals in Mo'orea. More information can be [found in his notebook here](https://pierrickharnay.github.io/PierrickHarnay_Notebook/).
 
 # 4 October 2022  
 
@@ -274,10 +311,10 @@ Ariana took daily measurements of E5 tanks between 1230 and 1300. Conditions wer
 All fragments sampled during the baseline sampling on 2 October 2022 were airbrushed today between 1630 and 1830. Ariana airbrushed with the following proceedure:  
 
 1. Remove 4 frags at a time from the freezer and store them in a cooler on frozen beads. Label 50 mL falcon tubes for each fragment. Falcon tubes were labeled with "E5 Apul Metabolism; Oct 2022 Baseline; Airbrushed; Putnam; Frag ID".   
-2. Each fragment was airbrushed with chilled PBS buffer into a zip bag. The tissue slurry in the bag was then poured into the respective falcon tube. The homogenate volume was recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/homog_vols.xlsx) and written on the falcon tube. 
-3. The homogenate was placed on ice until all 4 frags were completed. 
-4. After airbrushing, the homogenate was put in the -40C freezer. 
-5. The process was repeated for all 24 fragments. 
+2. Each fragment was airbrushed with chilled PBS buffer into a zip bag. The tissue slurry in the bag was then poured into the respective falcon tube. The homogenate volume was recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/homog_vols.xlsx) and written on the falcon tube.
+3. The homogenate was placed on ice until all 4 frags were completed.
+4. After airbrushing, the homogenate was put in the -40C freezer.
+5. The process was repeated for all 24 fragments.
 6. After airbrushing, all equipment was cleaned with DI water and alcohol wipes.  
 7. Airbrushed skeletons were placed in plastic cups with 10% bleach overnight to clean the skeletons. These will be kept at room temperature until wax dipping to determine surface area.  
 
@@ -301,13 +338,13 @@ Danielle finished processing the *A. pulchra* samples from the fourth high frequ
 
 ### *E5 adult coral metabolism project*  
 
-#### Tank cleaning 
+#### Tank cleaning
 
-Ariana cleaned the E5 tanks today between 1100-1400. Tanks were cleaned by first removing the wire lines with frags attached from 1-2 tanks at a time and placing in the water table. The tanks were then removed and wiped with microfiber towels and rinsed with fresh water. 
+Ariana cleaned the E5 tanks today between 1100-1400. Tanks were cleaned by first removing the wire lines with frags attached from 1-2 tanks at a time and placing in the water table. The tanks were then removed and wiped with microfiber towels and rinsed with fresh water.
 
-Fishing line of each fragment was cleaned and algae removed. Tanks were refilled and frags were added back in along with loggers and pumps. Ariana also cleaned the water lines. 
+Fishing line of each fragment was cleaned and algae removed. Tanks were refilled and frags were added back in along with loggers and pumps. Ariana also cleaned the water lines.
 
-During cleaning, tank position within each water table was rearranged. All tanks are in a new location. Frags were also returned such that each wire was put back in a different position to shuffle the fragments. 
+During cleaning, tank position within each water table was rearranged. All tanks are in a new location. Frags were also returned such that each wire was put back in a different position to shuffle the fragments.
 
 No mortality was observed in fragments. Water flow was adjusted to return to previous levels (350-400 mL per 5 sec).  
 
@@ -319,21 +356,21 @@ Daily measurements were taken between 1400 and 1500 and recorded in [GitHub here
 
 ### *Preparing for coral spawning - symbiont integration project*   
 
-#### Symbiont density and innoculation trials 
+#### Symbiont density and innoculation trials
 
-Ariana conducted symbiont isolation and counting trials to estimate how many fragments will be needed to innoculate and dose larvae with symbionts to allow for symbiont acquisition. 
+Ariana conducted symbiont isolation and counting trials to estimate how many fragments will be needed to innoculate and dose larvae with symbionts to allow for symbiont acquisition.
 
 Ariana followed this procedure:  
 
-1. Colelcted 3 test fragments from water table. 
+1. Colelcted 3 test fragments from water table.
 2. Airbrushed coral fragment using PBS to remove tissue and pour into 50 mL falcon tube. Volumes were 10-15 mL of slurry after airbrushing.   
-3. Homogenize - today this was done with pipetting and shaking the tube. In the full protocol use the microtip homogenizer for full homogenization. 
+3. Homogenize - today this was done with pipetting and shaking the tube. In the full protocol use the microtip homogenizer for full homogenization.
 4. Spin to generate a symbiont pellet. Spun today in a 50 mL centrifuge (accuSpin 3R). For future protocols, convert or set in g force. Spun at 3500 rpm for 3 min.  
-5. Pour out the supernatant and add 10 mL of PBS. Shake and homogenize. In innoculations, use filtered seawater rather than PBS. 
-6. Spin again. 
-7. Pour out supernatant and add 10-15 mL of PBS. Homogenize to resuspend symbionts. The symbiont slurry is now ready for counting cell density. 
+5. Pour out the supernatant and add 10 mL of PBS. Shake and homogenize. In innoculations, use filtered seawater rather than PBS.
+6. Spin again.
+7. Pour out supernatant and add 10-15 mL of PBS. Homogenize to resuspend symbionts. The symbiont slurry is now ready for counting cell density.
 8. Note total volume in each tube.  
-9. Take 8 uL samples and load onto the hemocytometer. Today, four replicates were counted for each sample. 
+9. Take 8 uL samples and load onto the hemocytometer. Today, four replicates were counted for each sample.
 10. Imaged hemocytometer at 10X and counted cells until reaching 100 cells. Only 1 square needed to be counted. The counts for each sample are shown below.  
 
 | Date     | Time | Colony  | Total Volume mL  | Squares Counted | Count1 | Count2 | Count3 | Count4 | Mean Count | Cells per mL | Cells total  |
@@ -348,7 +385,7 @@ Ariana followed this procedure:
 |----------|----------------|------------------------|---------------------|-----------------------|------------------|----------------------|----------------|---------------|
 | 20221003 | Test - frag 1  |               19275000 |               30000 |            28.0155642 |            18000 | NA                   | NA             | Test density  |
 | 20221003 | Test - frag 2  |               16200000 |               30000 |           33.33333333 |            18000 | NA                   | NA             | Test density  |
-| 20221003 | Test - frag 3  |               11400000 |               30000 |           47.36842105 |            18000 | NA                   | NA             | Test density  | 
+| 20221003 | Test - frag 3  |               11400000 |               30000 |           47.36842105 |            18000 | NA                   | NA             | Test density  |
 
 From these calculations, we will need more than 1 fragment if fragments are the same size as today per squarical. We have 12 squaricals to innoculate. In the experiment, we will therefore use larger fragments and use 1-1.5 fragments per squarical for innoculation at the target density. The innoculation period will be 3 days with once daily innoculations, so we will need 36-52 total fragments from our parent population of approx. 20-30 colonies.    
 
@@ -420,7 +457,7 @@ HOBO Pendant loggers from the six E5 tanks were downloaded at 1220. Loggers were
 
 ### *Histological decalcification*  
 
-Following the [histological processing protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2022-04-16-Histological-Processing.md) Danielle taught Pierrick how to preserve and decalcify his *Pocillopora* spp. samples and she began the decalcification process for the September 2022 samples. They were put into the pre-labeled March and June cups. 
+Following the [histological processing protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2022-04-16-Histological-Processing.md) Danielle taught Pierrick how to preserve and decalcify his *Pocillopora* spp. samples and she began the decalcification process for the September 2022 samples. They were put into the pre-labeled March and June cups.
 
 ### *A. pulchra high frequency sampling - 20220927*  
 
