@@ -226,7 +226,7 @@ Ariana downloaded all Hobo pendant loggers and conducted a preliminary analysis 
 
 ![light loggers](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/pendants_light.png)  
 
-Ariana will continue to trouble shoot some of the logger data. Specifically, the calibration of light values from the pendant loggers (lux) to the Odyssey PAR loggers results in higher than expected PAR values. We may need to re-do the light logger calibration. For now, we will display the light values in lux to monitor tank by tank variation.  
+Light from the Odyssey logger is reading in Integrated PAR, which will be higher than instantaneous PAR recorded by the Apogee sensor for daily measurements.  
 
 We also plotted the temperatures from the heatwave and wildtype *A. pulchra* parent colonies.  
 
@@ -420,7 +420,7 @@ All fragments sampled during the baseline sampling on 2 October 2022 were airbru
 
 ### *Logger calibration*  
 
-Ariana wrote a script to read the light and temperature logger calibration files from 25 September 2022. [The script can be found here on GitHub](https://github.com/urol-e5/apulchra_metabolism/blob/main/scripts/logger_calibrations.Rmd). This script reads in files in a loop and then conducts a linear model for each logger to the standard. For temperature, we used the standard as the average of all black Hobo loggers. These loggers are higher resolution than the Hobo pendants. By using the average value of these loggers we can calibrate any offset between loggers as well as calibrate the pendant loggers to a standard. For light, the Hobo pendant loggers (measuring light in Lux) are calibrated to the Odyssey light logger (measuring light in PAR) to allow us to convert Lux to PAR for analysis.  
+Ariana wrote a script to read the light and temperature logger calibration files from 25 September 2022. [The script can be found here on GitHub](https://github.com/urol-e5/apulchra_metabolism/blob/main/scripts/logger_calibrations.Rmd). This script reads in files in a loop and then conducts a linear model for each logger to the standard. For temperature, we used the standard as the average of all black Hobo loggers. These loggers are higher resolution than the Hobo pendants. By using the average value of these loggers we can calibrate any offset between loggers as well as calibrate the pendant loggers to a standard. For light, the Hobo pendant loggers (measuring light in Lux) are calibrated to the Odyssey light logger (measuring light in Integrated PAR) to allow us to convert Lux to Integrated PAR for analysis.  
 
 This script [outputs files](https://github.com/urol-e5/apulchra_metabolism/tree/main/output/environmental) with the logger serial number, coefficient, and intercept values. These files can then be read in when analyzing light and temperature data to conduct calibrations in later analyses.  
 
