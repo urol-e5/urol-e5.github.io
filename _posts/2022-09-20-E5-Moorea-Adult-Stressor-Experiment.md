@@ -51,6 +51,28 @@ The following protocols and links to data will be used regularly by the field te
 **Logger files:**   
 [Logger files folder](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/loggers)
 
+# 15 October 2022  
+
+### *Daily measurements*   
+
+Ariana took daily measurements in the E5 experimental tanks as well as the tanks holding adult colonies between 1400 and 1430. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).  
+
+### *E5 experiment - symbiont counts* 
+
+Ariana counted symbiont density in more samples today. [The proceedure followed the protocol for E5 processing with no modifications](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md). [Data is recorded in GitHub](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sym_counts/sym_counts.xlsx).  
+
+Ariana also [wrote scripts](https://github.com/urol-e5/apulchra_metabolism/blob/main/scripts/baseline/sym_density.Rmd) to analyze data as we go based on the [E5 timeseries project scripts](https://github.com/urol-e5/timeseries).  
+
+Preliminary data shows that symbiont densities (~1e+06) are in the range seen in the E5 timeseries project. 
+
+![symcounts](https://raw.githubusercontent.com/urol-e5/apulchra_metabolism/main/figures/baseline/symbiont_density.png)  
+
+The remaining samples will be processed over the next few days.  
+
+### *Tank cleaning*  
+
+We flushed all water lines to improve water flow at 2100.  
+
 # 14 October 2022  
 
 ### *Daily measurements*   
