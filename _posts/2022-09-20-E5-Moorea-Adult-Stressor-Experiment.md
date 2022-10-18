@@ -51,6 +51,97 @@ The following protocols and links to data will be used regularly by the field te
 **Logger files:**   
 [Logger files folder](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/loggers)
 
+**Feeding protocol:**  
+[Feeding protocol](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md)
+
+# 17 October 2022   
+
+### *Daily measurements*   
+
+Ariana and Terava took daily measurements today between 12:45 and 13:15. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). Tanks will be cleaned tomorrow.     
+
+### *E5 experiment - symbiont counts* 
+
+Ariana and Terava finished the symbiont density measurements today. [The proceedure followed the protocol for E5 processing](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md) with no modifications. [Data is recorded in GitHub](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sym_counts/sym_counts.xlsx).  
+
+Ariana also [ran the data using R scripts](https://github.com/urol-e5/apulchra_metabolism/blob/main/scripts/baseline/sym_density.Rmd) to analyze data as we go based on the [E5 timeseries project scripts](https://github.com/urol-e5/timeseries).  
+
+The symbiont cell density data by colony/genotype looks like this:  
+
+![symcounts](https://raw.githubusercontent.com/urol-e5/apulchra_metabolism/main/figures/baseline/symbiont_density.png)  
+
+There is a significant difference in symbiont density between colonies.  
+
+`lmer(cells.cm2~colony + (1|tank), data=.)`  
+
+p<0.001  
+
+### *E5 experiment - starting treatment*  
+
+Today we are starting treatments in our E5 *A. pulchra* metabolism experiment. The treatments for each tank are as follows:  
+
+| Tank | Light Treatment | Food Treament |
+|------|-----------------|---------------|
+| 1    | Full light      | Added food    |
+| 2    | Full light      | No food       |
+| 3    | Shaded          | Added food    |
+| 4    | Full light      | Added food    |
+| 5    | Shaded          | Added food    |
+| 6    | Full light      | No food       |
+
+#### **Calculating the amount of food needed**   
+
+For [Coral Max food](https://www.maxoutaquatics.com/product/coral-max/), the manufacturers instructions suggest 1/2 teaspoon per 50 gallons of tank water. Our tanks are 19.3 gallons (29 cm x 60 cm x 42 cm). Therefore, we would need 0.368 of a 1/2 teaspoon dose (19.3 / 50 gallons). 
+
+The mass of 1/2 teaspoon (converted to volume of 2.464 mL) dose is 1.148 g. 1.148 g * 0.368 = 0.422 g. 0.422 g is the amount we need for the size of our tanks. We will round up. For each tank, we will add 0.5 g of food at each feeding.  
+
+If we feed 3 times per week in each of 4 tanks (those that have food in the treatment), then we will use 6 g per week. If we run the experiment for 8 weeks, we will need a total of 48 g.  We have >200 g, so we have plenty for this experiment.  
+
+We then weighed 0.5g into a 5 mL tube and marked the level that the food was at. 0.5g of food is exactly at the 1 mL mark on the white cap 5mL tubes.  
+
+We labeled 4 5mL tubes with the tank number for all tanks that recieve food (1, 3, 4, and 5) and marked with a sharpie the 1mL mark to fill food. At each feeding, the person feeding will fill tube to this mark and then add to the tank. See the feeding section below for a protocol on feeding.   
+
+![coral food](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/coralmax.jpeg)  
+
+#### **E5 experiment - adding shade**  
+
+We added shade cloth to tanks 3 and 5 at 13:09 with one layer of shade cloth. We recorded light in the tanks after shade cloth was added. Daily measurements were taken before shade cloth was added. The values of light are included below that show the comparison of light before and after shading in each tank.  
+
+*Light before adding shade:*   
+
+| Tank | Time | Center | Q1  | Q2  | Q3  | Q4  |
+|------|------|--------|-----|-----|-----|-----|
+| 3    | 1249 | 96     | 120 | 118 | 116 | 115 |
+| 5    | 1252 | 116    | 103 | 102 | 83  | 90  |
+
+*Light after adding shade:*   
+
+| Tank | Time | Center | Q1 | Q2 | Q3 | Q4 |
+|------|------|--------|----|----|----|----|
+| 3    | 1309 | 59     | 65 | 56 | 65 | 53 |
+| 5    | 1310 | 38     | 36 | 31 | 38 | 32 |
+
+Light is reduced by approx. 35-55% after adding shade.   
+
+![coral shade](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/treatments_start.jpeg)  
+
+#### **E5 experiment - feeding**    
+
+The process for feeding is as follows and is described in the [E5 A. pulchra metabolism feeding protocol here](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md). The overview of the steps are as follows:  
+
+1. Measure out food as described above into labeled 5 mL tubes to the marked 1 mL mark with Coral Max. 
+2. Turn off water on the main line to all tanks.  
+3. Use the nalgene bottle or a tri pour to take ~ 1 L water out of the tanks to ensure the food doesn't overflow.  
+4. Add the food to each respective tank (tanks 1, 3, 4, 5) and stir and break up the chunks with a transfer pipette.  
+5. Start a timer for 1 h. 
+6. After 1 h, turn the water flow back on.  
+
+Repeat this process 3 times per week (e.g., Mon, Wed, Fri).  
+
+Record the timing and notes about feeding in the [schedule tracking document here](https://github.com/urol-e5/apulchra_metabolism/blob/main/schedule.xlsx).  
+
+Today coral feeding started at 13:53 and water was turned on at 14:55.  
+
 # 16 October 2022  
 
 Hollie arrived today and joined our field team!  
