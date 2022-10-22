@@ -33,7 +33,7 @@ Hollie Putnam
 
 Ariana and Terava took daily measurements today between 12:45 and 13:15. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). Tanks will be cleaned tomorrow.     
 
-### *E5 experiment - symbiont counts* 
+### *E5 experiment - symbiont counts*
 
 Ariana and Terava finished the symbiont density measurements today. [The proceedure followed the protocol for E5 processing](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md) with no modifications. [Data is recorded in GitHub](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sym_counts/sym_counts.xlsx).  
 
@@ -64,7 +64,7 @@ Today we are starting treatments in our E5 *A. pulchra* metabolism experiment. T
 
 #### **Calculating the amount of food needed**   
 
-For [Coral Max food](https://www.maxoutaquatics.com/product/coral-max/), the manufacturers instructions suggest 1/2 teaspoon per 50 gallons of tank water. Our tanks are 19.3 gallons (29 cm x 60 cm x 42 cm). Therefore, we would need 0.368 of a 1/2 teaspoon dose (19.3 / 50 gallons). 
+For [Coral Max food](https://www.maxoutaquatics.com/product/coral-max/), the manufacturers instructions suggest 1/2 teaspoon per 50 gallons of tank water. Our tanks are 19.3 gallons (29 cm x 60 cm x 42 cm). Therefore, we would need 0.368 of a 1/2 teaspoon dose (19.3 / 50 gallons).
 
 The mass of 1/2 teaspoon (converted to volume of 2.464 mL) dose is 1.148 g. 1.148 g * 0.368 = 0.422 g. 0.422 g is the amount we need for the size of our tanks. We will round up. For each tank, we will add 0.5 g of food at each feeding.  
 
@@ -102,11 +102,11 @@ Light is reduced by approx. 35-55% after adding shade.
 
 The process for feeding is as follows and is described in the [E5 A. pulchra metabolism feeding protocol here](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md). The overview of the steps are as follows:  
 
-1. Measure out food as described above into labeled 5 mL tubes to the marked 1 mL mark with Coral Max. 
+1. Measure out food as described above into labeled 5 mL tubes to the marked 1 mL mark with Coral Max.
 2. Turn off water on the main line to all tanks.  
 3. Use the nalgene bottle or a tri pour to take ~ 1 L water out of the tanks to ensure the food doesn't overflow.  
 4. Add the food to each respective tank (tanks 1, 3, 4, 5) and stir and break up the chunks with a transfer pipette.  
-5. Start a timer for 1 h. 
+5. Start a timer for 1 h.
 6. After 1 h, turn the water flow back on.  
 
 Repeat this process 3 times per week (e.g., Mon, Wed, Fri).  
@@ -115,23 +115,27 @@ Record the timing and notes about feeding in the [schedule tracking document her
 
 Today coral feeding started at 13:53 and water was turned on at 14:55.  
 
-### *Spawning* 
+### *Spawning*
 
-We watched for spawning in *A. hyacinthus* and *A. pulchra*. We observed several of our *A. pulchra* colonies spawning tonight (3-4 wildtype and 5-6 of Danielle's heatwave colonies). Spawning started at 21:10. Bundles broke apart very quickly - we did not observe many bundles in the wildtype collection, they rapidly broke apart and we collected eggs from the tank. We did not notice any obvious setting in the colonies before hand. 
+We watched for spawning in *A. hyacinthus* and *A. pulchra*. We observed several of our *A. pulchra* colonies spawning tonight (3-4 wildtype and 5-6 of Danielle's heatwave colonies). Spawning started at 21:10. Bundles broke apart very quickly - we did not observe many bundles in the wildtype collection, they rapidly broke apart and we collected eggs from the tank. We did not notice any obvious setting in the colonies before hand.
 
-Interestingly, several fragments from the E5 tank experiment showed setting and spawning! 
+Interestingly, several fragments from the E5 tank experiment showed setting and spawning!
 
-We added ~1-2 mL of bundles/eggs to n=6 falcon tubes. We had a limited amount of material. Gametes were scooped from the water using gravy separators. The separators were then allowed to sit for 1-2 min to allow the bundles to come up to the surface. Water was then drained from the bottom and the gametes were mixed together in a 5 gallon bucket for the pooled wildtype fertilization. 
+We added ~1-2 mL of bundles/eggs to n=6 falcon tubes. We had a limited amount of material. Gametes were scooped from the water using gravy separators. The separators were then allowed to sit for 1-2 min to allow the bundles to come up to the surface. Water was then drained from the bottom and the gametes were mixed together in a 5 gallon bucket for the pooled wildtype fertilization.
 
-Gametes were finished being added to falcon tubes at 00:30. This took longer than we would have liked as the amount of material was low and it took a long time to individually pipette embryos to try to get as much material as possible. 
+Gametes were finished being added to falcon tubes at 00:30. This took longer than we would have liked as the amount of material was low and it took a long time to individually pipette embryos to try to get as much material as possible.
 
 During this time in the large tank, the embryos fertilized. At 13:00 we observed 2-cell and 4-cell stages under the microscope. After this, Ariana added one of each of the falcon tubes to n=6 squaricals. These were added to the squarials at 02:00. These are low density and we will check on them regularly.   
 
-![spawning](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/bucket.jpeg) 
+![spawning](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/bucket.jpeg)
 
-![embryos](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/embryos.jpeg) 
+![embryos](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/embryos.jpeg)
 
-![squarical](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/embryos_squarical.jpeg) 
+![squarical](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/embryos_squarical.jpeg)
+
+Danielles colonies:
+
+
 
 # 16 October 2022  
 
@@ -145,7 +149,7 @@ Ariana and Danielle took daily measurements in the E5 experimental tanks as well
 
 All coolers and squaricals were cleaned and rinsed with fresh water today. The system was restarted before we prepared for spawning tonight.   
 
-### *Spawning* 
+### *Spawning*
 
 We watched for spawning in *A. hyacinthus* and *A. pulchra* from 2000-2330. No spawning was observed.  
 
@@ -155,23 +159,30 @@ We watched for spawning in *A. hyacinthus* and *A. pulchra* from 2000-2330. No s
 
 Ariana took daily measurements in the E5 experimental tanks as well as the tanks holding adult colonies between 1400 and 1430. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).  
 
-### *Histology monthly timepoint sampling*  
+### *October 2022 Field Day Sampling - Backreef Acropora and Pocillopora*
 
-Ariana and Danielle collected n=40 *A. pulchra* and n=10 *Pocillopora* from the Mahana site for the monthly sampling time point.  
+Danielle, Ariana, and Pierrick conducted monthly timepoint sampling at the Mahana field site (17°29'12.5"S 149°53'16.1"W). Following the [Field Sampling Protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2021-12-26-Field-Sampling-Protocol.md), we collected 40 ~5 inch *Acropora pulchra* fragments from the five patches located on the site.  Additionally, 10 4-5 inch fragments of *Pocillopora* were collected and brought back to Gump Station as well for same day processing. For all sampling locations, a close up photo with the tag was taken. Additionally, a bleaching score photo was taken at each sampling location. If a tag was not found, we sampled from the same colony that the tag should have been located on.
 
-### *E5 experiment - symbiont counts* 
+After collecting the samples, Danielle followed the [Same Day Sample Processing Protocol](https://github.com/daniellembecker/Gametogenesis/blob/main/protocols/2021-12-26-Sample_Same_Day_Processing_Protocol.md) to prepare samples for histological analysis, molecular and physiological downstream processing.
+
+All bleaching score photos were downloaded off of the Putnam Lab [Canon G7X ](https://www.fnac.com/Compact-Canon-PowerShot-G7X-Mark-II/a9570061/w-4) camera number 2 and uploaded to [Pocillopora_Sampling_Colony_Photos](https://drive.google.com/drive/u/0/folders/1203vZyktuA_R3KwnG9uSV3JXkkiTA-um) and [Acropora_Sampling_Colony_Photos](https://drive.google.com/drive/u/0/folders/19YCW-KpNBIq2hraZCzva5vsIAdVH9cLC) for the October 2022 timepoint.
+
+All timepoint and tracking data sheets for the October 2022 timepoint for both [*Pocillopora*](https://drive.google.com/drive/u/0/folders/1w3KdwBZaaAFh8UdbOXM3KZCofldOC53i) and [*Acropora*](https://drive.google.com/drive/u/0/folders/1YSVr335RNhZXcJyI0TOSr_edmDsTy4zw) were updated.  
+
+
+### *E5 experiment - symbiont counts*
 
 Ariana counted symbiont density in more samples today. [The proceedure followed the protocol for E5 processing](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md) with no modifications. [Data is recorded in GitHub](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sym_counts/sym_counts.xlsx).  
 
 Ariana also [wrote scripts](https://github.com/urol-e5/apulchra_metabolism/blob/main/scripts/baseline/sym_density.Rmd) to analyze data as we go based on the [E5 timeseries project scripts](https://github.com/urol-e5/timeseries).  
 
-Preliminary data shows that symbiont densities (~1e+06) are in the range seen in the E5 timeseries project. 
+Preliminary data shows that symbiont densities (~1e+06) are in the range seen in the E5 timeseries project.
 
 ![symcounts](https://raw.githubusercontent.com/urol-e5/apulchra_metabolism/main/figures/baseline/symbiont_density.png)  
 
 The remaining samples will be processed over the next few days.  
 
-### *Spawning* 
+### *Spawning*
 
 We watched for spawning in *A. hyacinthus* and *A. pulchra* from 2000-2330. No spawning was observed.  
 
@@ -183,11 +194,11 @@ We cleaned all larval coolers and flushed all water lines to improve water flow 
 
 ### *Daily measurements*   
 
-Ariana and Teravatook daily measurements in the E5 experimental tanks as well as the tanks holding adult colonies between 1000 and 1100. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). 
+Ariana and Teravatook daily measurements in the E5 experimental tanks as well as the tanks holding adult colonies between 1000 and 1100. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).
 
 ### *E5 experiment - symbiont counts*  
 
-Ariana and Terava started symbiont cell density measurements on the symbiont fraction of samples that were separated yesterday. [The proceedure followed the protocol for E5 processing with no modifications](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md). 
+Ariana and Terava started symbiont cell density measurements on the symbiont fraction of samples that were separated yesterday. [The proceedure followed the protocol for E5 processing with no modifications](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md).
 
 [Data is recorded in GitHub](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sym_counts/sym_counts.xlsx). Five samples were analyzed today. The remaining samples will be processed over the next few days.   
 
@@ -202,7 +213,7 @@ Protein measurements from yesterday were briefly analyzed. These are the protein
 A linear mixed model testing differences in protein by genotype show a significant difference in both host and holobiont protein by genotype.  
 
 `lmer(protein_ug.cm2~colony + (1|tank), data=protein)`  
- 
+
 ### *Labeling adult colonies*    
 
 Adult colonies were labeled with orange cattle tags attached with zip ties. *A. pulchra* tags were no. 061-080. *A. hyacinthus* tags were no. 081-096.    
@@ -217,7 +228,7 @@ No spawning was observed in either species tonight.
 
 ### *Daily measurements*   
 
-Ariana took daily measurements in the E5 experimental tanks as well as the tanks holding adult colonies between 1030 and 1100. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). 
+Ariana took daily measurements in the E5 experimental tanks as well as the tanks holding adult colonies between 1030 and 1100. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).
 
 ### *E5 experiment - total protein*  
 
@@ -225,26 +236,26 @@ Ariana, Danielle, and Terava conducted total soluble protein assays (Pierce BCA 
 
 The summary of the protocol process for Ariana's samples was as follows. Danielle and Ariana followed the same protocol with an added step for host-symbiont fraction separation for Ariana's samples. 2 plates were run for host samples and 2 plates were run for holobiont samples in total.    
 
-1. Thaw two 1mL tube samples for each E5 fragment. 
-2. For one of the tubes, we separated host and symbiont fraction. The second tube will have the holobiont fraction. 
+1. Thaw two 1mL tube samples for each E5 fragment.
+2. For one of the tubes, we separated host and symbiont fraction. The second tube will have the holobiont fraction.
 3. One tube per fragment was thawed and centrifuged at 3500 rpm for 3 min using the Fisher centrifuge as used during symbiont isolation trials on 3 Oct 2022.  
-4. The supernatant (host fraction) was transfered to a new tube labeled with the fragment ID and "H" for "host". The tube with the symbiont pellet was labeled with an "S" for "symbiont". 
-5. For each sample, this resulted in one tube with holobiont tissue, one tube with host tissue, and one tube with symbiont pellet. 
-6. The symbiont fraction was returned to the freezer at -40C for symbiont counting tomorrow. 
-7. Standards and working solution were generated as described in the total protein protocol. 
+4. The supernatant (host fraction) was transfered to a new tube labeled with the fragment ID and "H" for "host". The tube with the symbiont pellet was labeled with an "S" for "symbiont".
+5. For each sample, this resulted in one tube with holobiont tissue, one tube with host tissue, and one tube with symbiont pellet.
+6. The symbiont fraction was returned to the freezer at -40C for symbiont counting tomorrow.
+7. Standards and working solution were generated as described in the total protein protocol.
 8. First, host fraction samples were run by loading 25 uL of each sample in duplicates in a 96 well plate along with duplicates of each standard. The plate map for host samples is below.  
-9. The plate was gently rocked by hand to mix for 30 sec and then incubated at 37°C for 30 minutes. 
-10. After incubation, the plate was allowed to cool at room temperature for 6 min. 
-11. The absorbance of the plate was read on the microplate spectophotometer reader at 562 nm and saved. 
+9. The plate was gently rocked by hand to mix for 30 sec and then incubated at 37°C for 30 minutes.
+10. After incubation, the plate was allowed to cool at room temperature for 6 min.
+11. The absorbance of the plate was read on the microplate spectophotometer reader at 562 nm and saved.
 12. In the next plate, holobiont samples were added in duplicates with 25 uL of each sample and each standard. The plate map is included below.  
-13. The plate was incubated and read in the same way as described above. 
+13. The plate was incubated and read in the same way as described above.
 14. All plates and supplies were cleaned following plate reading.  
 
-Host samples were added to the incubator at 1313 and read at 1351. Holobiont samples were added to the incubator at 1356 and read at 1430. 
+Host samples were added to the incubator at 1313 and read at 1351. Holobiont samples were added to the incubator at 1356 and read at 1430.
 
 A host and holobiont plate was run prior to these samples by Danielle for the gametogenesis time series.  
 
-The data was saved and added to [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/baseline_sampling/protein). 
+The data was saved and added to [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/baseline_sampling/protein).
 
 #### Plate Map Host (E5 samples):  
 
