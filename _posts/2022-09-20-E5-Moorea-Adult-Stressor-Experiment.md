@@ -54,6 +54,50 @@ The following protocols and links to data will be used regularly by the field te
 **Feeding protocol:**  
 [Feeding protocol](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md)
 
+# 21 October 2022   
+
+### *Daily measurements and feeding* 
+
+Daily measurements were taken in E5 tanks, parent tanks, and larval tanks today between 1530-1630. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). We fed the E5 corals today following the [E5 A. pulchra metabolism feeding protocol here](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md). Feeding occurred from 1545-1645. 
+
+# 20 October 2022   
+
+### *Daily measurements* 
+
+Daily measurements were taken in E5 tanks, parent tanks, and larval tanks today between 1600 and 1700. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).  
+
+# 19 October 2022   
+
+### *Embryo rearing* 
+
+Embryos from 10/18 spawning were checked and stirred every 2-3 hours today. We also frequently check the fill level of the coolers. Due to high water flow and limitaitons in rate of filtering in the filter line, the coolers will sometimes drain which risks damaging the pump and stopping water flow. We closely monitor the level of the coolers every 2-3 hours. 50 um in line filters were rinsed and cleaned every 4-7 hours. The coolers were also cleaned today. 
+
+Overall, embryos from 10/17 and 10/18 spawning are doing well with minimal mortality. 
+
+![squarical](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/squarical.jpeg) 
+
+### *Feeding* 
+
+We fed the E5 corals today following the [E5 A. pulchra metabolism feeding protocol here](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md). Feeding occurred from 16:35-17:35.  
+
+### *Daily measurements* 
+
+Daily measurements were taken in E5 tanks, parent tanks, and larval tanks today between 1430 and 1500. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).  
+
+In Tank 6, C31 is showing high partial mortality (~90%) with algal overgrowth. 
+
+# 18 October 2022    
+
+### *Cleaning tanks*   
+
+We cleaned all tanks for the E5 experiment today. All fragments look healthy and no mortality was observed.  
+
+### *Loggers*  
+
+All E5 loggers were downloaded between 1200 and 1400. The logger data was ran using the [logger R script in the GitHub repo](https://github.com/urol-e5/apulchra_metabolism/blob/main/scripts/environmental_analysis.Rmd). Our environmental data looks like this:  
+
+![loggers](https://raw.githubusercontent.com/urol-e5/apulchra_metabolism/main/figures/environmental/loggers.png) 
+
 # 17 October 2022   
 
 ### *Daily measurements*   
