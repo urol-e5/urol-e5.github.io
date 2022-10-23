@@ -1,11 +1,11 @@
-
 ---
 layout: post
 title: Moorea 2022 Coral Spawning and Field Expedition Daily Entries  
-date: '2022-09-18'
+date: '2022-10-22'
 categories: Moorea_Coral_Spawning_2022
 tags: Fieldwork Gametogenesis Sampling Physiology Reproduction Spawning
 ---
+
 
 This post includes the daily entry notebook for Sept-Oct 2022 *Acropora* coral spawning and field expedition in Moorea, French Polynesia. These notebook posts are updated in order of most recent to oldest.  
 
