@@ -54,6 +54,20 @@ The following protocols and links to data will be used regularly by the field te
 **Feeding protocol:**  
 [Feeding protocol](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md)
 
+# 23 October 2022 
+
+### *Daily measurements* 
+
+Danielle and Hollie took daily measurements today of the E5 tanks and the squaricals between 1500 and 1700.  
+
+# 22 October 2022 
+
+### *Daily measurements* 
+
+Hollie and Danielle completed daily measurements and cleaned the strings for all of the fragments. During spawning we are also taking daily measurements of squaricals and buckets for reference.  
+
+Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements)
+
 # 21 October 2022   
 
 ### *Daily measurements and feeding* 
