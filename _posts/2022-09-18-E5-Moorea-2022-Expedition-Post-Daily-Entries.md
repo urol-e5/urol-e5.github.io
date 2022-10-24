@@ -1,8 +1,7 @@
-
 ---
 layout: post
 title: Moorea 2022 Coral Spawning and Field Expedition Daily Entries  
-date: '2022-09-18'
+date: '2022-10-23'
 categories: Moorea_Coral_Spawning_2022
 tags: Fieldwork Gametogenesis Sampling Physiology Reproduction Spawning
 ---
