@@ -469,7 +469,11 @@ We watched for spawning in *A. hyacinthus* and *A. pulchra* from 2000-2330. No s
 
 We cleaned all larval coolers and flushed all water lines to improve water flow at 2100.  
 
-# 14 October 2022  
+# 14 October 2022 
+
+### *A. pulchra high frequency sampling dissections*   
+
+Danielle finished processing the *A. pulchra* samples from the sixth high frequency sampling (20221012) for dissections. The fragments from this timepoint had many more distinct gonads.
 
 ### *Daily measurements*   
 
@@ -534,7 +538,209 @@ Host samples were added to the incubator at 1313 and read at 1351. Holobiont sam
 
 A host and holobiont plate was run prior to these samples by Danielle for the gametogenesis time series.  
 
-The data was saved and added to [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/baseline_sampling/protein).
+The data was saved and added to [E5 GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/baseline_sampling/protein) and the [Gametogenesis Github here](https://github.com/daniellembecker/Gametogenesis/tree/main/gametogenesis_timeseries).
+
+#### Plate Map Host (September Gametogenesis 2022)
+
+| well | colony_id |   |   |   |
+|------|-----------|---|---|---|
+| A1   | StandardA |   |   |   |
+| A2   | StandardA |   |   |   |
+| A3   | StandardB |   |   |   |
+| A4   | StandardB |   |   |   |
+| A5   | StandardC |   |   |   |
+| A6   | StandardC |   |   |   |
+| A7   | StandardD |   |   |   |
+| A8   | StandardD |   |   |   |
+| A9   | StandardE |   |   |   |
+| A10  | StandardE |   |   |   |
+| A11  | StandardF |   |   |   |
+| A12  | StandardF |   |   |   |
+| B1   | StandardG |   |   |   |
+| B2   | StandardG |   |   |   |
+| B3   | StandardH |   |   |   |
+| B4   | StandardH |   |   |   |
+| B5   | StandardI |   |   |   |
+| B6   | StandardI |   |   |   |
+| B7   | ACR-414   |   |   |   |
+| B8   | ACR-414   |   |   |   |
+| B9   | ACR-415   |   |   |   |
+| B10  | ACR-415   |   |   |   |
+| B11  | ACR-416   |   |   |   |
+| B12  | ACR-416   |   |   |   |
+| C1   | ACR-417   |   |   |   |
+| C2   | ACR-417   |   |   |   |
+| C3   | ACR-418   |   |   |   |
+| C4   | ACR-418   |   |   |   |
+| C5   | ACR-420   |   |   |   |
+| C6   | ACR-420   |   |   |   |
+| C7   | ACR-421   |   |   |   |
+| C8   | ACR-421   |   |   |   |
+| C9   | ACR-422   |   |   |   |
+| C10  | ACR-422   |   |   |   |
+| C11  | ACR-423   |   |   |   |
+| C12  | ACR-423   |   |   |   |
+| D1   | ACR-424   |   |   |   |
+| D2   | ACR-424   |   |   |   |
+| D3   | ACR-425   |   |   |   |
+| D4   | ACR-425   |   |   |   |
+| D5   | ACR-426   |   |   |   |
+| D6   | ACR-426   |   |   |   |
+| D7   | ACR-427   |   |   |   |
+| D8   | ACR-427   |   |   |   |
+| D9   | ACR-428   |   |   |   |
+| D10  | ACR-428   |   |   |   |
+| D11  | ACR-429   |   |   |   |
+| D12  | ACR-429   |   |   |   |
+| E1   | ACR-430   |   |   |   |
+| E2   | ACR-430   |   |   |   |
+| E3   | ACR-431   |   |   |   |
+| E4   | ACR-431   |   |   |   |
+| E5   | ACR-432   |   |   |   |
+| E6   | ACR-432   |   |   |   |
+| E7   | ACR-433   |   |   |   |
+| E8   | ACR-433   |   |   |   |
+| E9   | ACR-434   |   |   |   |
+| E10  | ACR-434   |   |   |   |
+| E11  | ACR-435   |   |   |   |
+| E12  | ACR-435   |   |   |   |
+| F1   | ACR-436   |   |   |   |
+| F2   | ACR-436   |   |   |   |
+| F3   | ACR-437   |   |   |   |
+| F4   | ACR-437   |   |   |   |
+| F5   | ACR-438   |   |   |   |
+| F6   | ACR-438   |   |   |   |
+| F7   | ACR-439   |   |   |   |
+| F8   | ACR-439   |   |   |   |
+| F9   | ACR-446   |   |   |   |
+| F10  | ACR-446   |   |   |   |
+| F11  | ACR-447   |   |   |   |
+| F12  | ACR-447   |   |   |   |
+| G1   | ACR-448   |   |   |   |
+| G2   | ACR-448   |   |   |   |
+| G3   | ACR-449   |   |   |   |
+| G4   | ACR-449   |   |   |   |
+| G5   | ACR-451   |   |   |   |
+| G6   | ACR-451   |   |   |   |
+| G7   | ACR-456   |   |   |   |
+| G8   | ACR-456   |   |   |   |
+| G9   | ACR-457   |   |   |   |
+| G10  | ACR-457   |   |   |   |
+| G11  | ACR-458   |   |   |   |
+| G12  | ACR-458   |   |   |   |
+| H1   | ACR-459   |   |   |   |
+| H2   | ACR-459   |   |   |   |
+| H3   | ACR-460   |   |   |   |
+| H4   | ACR-460   |   |   |   |
+| H5   | ACR-461   |   |   |   |
+| H6   | ACR-461   |   |   |   |
+| H7   | ACR-462   |   |   |   |
+| H8   | ACR-462   |   |   |   |
+| H9   | ACR-463   |   |   |   |
+| H10  | ACR-463   |   |   |   |
+| H11  | ACR-464   |   |   |   |
+| H12  | ACR-464   |   |   |   |
+
+#### Plate Map Holobiont (September Gametogenesis 2022):
+
+| well | colony_id |   |   |   |
+|------|-----------|---|---|---|
+| A1   | StandardA |   |   |   |
+| A2   | StandardA |   |   |   |
+| A3   | StandardB |   |   |   |
+| A4   | StandardB |   |   |   |
+| A5   | StandardC |   |   |   |
+| A6   | StandardC |   |   |   |
+| A7   | StandardD |   |   |   |
+| A8   | StandardD |   |   |   |
+| A9   | StandardE |   |   |   |
+| A10  | StandardE |   |   |   |
+| A11  | StandardF |   |   |   |
+| A12  | StandardF |   |   |   |
+| B1   | StandardG |   |   |   |
+| B2   | StandardG |   |   |   |
+| B3   | StandardH |   |   |   |
+| B4   | StandardH |   |   |   |
+| B5   | StandardI |   |   |   |
+| B6   | StandardI |   |   |   |
+| B7   | ACR-414   |   |   |   |
+| B8   | ACR-414   |   |   |   |
+| B9   | ACR-415   |   |   |   |
+| B10  | ACR-415   |   |   |   |
+| B11  | ACR-416   |   |   |   |
+| B12  | ACR-416   |   |   |   |
+| C1   | ACR-417   |   |   |   |
+| C2   | ACR-417   |   |   |   |
+| C3   | ACR-418   |   |   |   |
+| C4   | ACR-418   |   |   |   |
+| C5   | ACR-420   |   |   |   |
+| C6   | ACR-420   |   |   |   |
+| C7   | ACR-421   |   |   |   |
+| C8   | ACR-421   |   |   |   |
+| C9   | ACR-422   |   |   |   |
+| C10  | ACR-422   |   |   |   |
+| C11  | ACR-423   |   |   |   |
+| C12  | ACR-423   |   |   |   |
+| D1   | ACR-424   |   |   |   |
+| D2   | ACR-424   |   |   |   |
+| D3   | ACR-425   |   |   |   |
+| D4   | ACR-425   |   |   |   |
+| D5   | ACR-426   |   |   |   |
+| D6   | ACR-426   |   |   |   |
+| D7   | ACR-427   |   |   |   |
+| D8   | ACR-427   |   |   |   |
+| D9   | ACR-428   |   |   |   |
+| D10  | ACR-428   |   |   |   |
+| D11  | ACR-429   |   |   |   |
+| D12  | ACR-429   |   |   |   |
+| E1   | ACR-430   |   |   |   |
+| E2   | ACR-430   |   |   |   |
+| E3   | ACR-431   |   |   |   |
+| E4   | ACR-431   |   |   |   |
+| E5   | ACR-432   |   |   |   |
+| E6   | ACR-432   |   |   |   |
+| E7   | ACR-433   |   |   |   |
+| E8   | ACR-433   |   |   |   |
+| E9   | ACR-434   |   |   |   |
+| E10  | ACR-434   |   |   |   |
+| E11  | ACR-435   |   |   |   |
+| E12  | ACR-435   |   |   |   |
+| F1   | ACR-436   |   |   |   |
+| F2   | ACR-436   |   |   |   |
+| F3   | ACR-437   |   |   |   |
+| F4   | ACR-437   |   |   |   |
+| F5   | ACR-438   |   |   |   |
+| F6   | ACR-438   |   |   |   |
+| F7   | ACR-439   |   |   |   |
+| F8   | ACR-439   |   |   |   |
+| F9   | ACR-446   |   |   |   |
+| F10  | ACR-446   |   |   |   |
+| F11  | ACR-447   |   |   |   |
+| F12  | ACR-447   |   |   |   |
+| G1   | ACR-448   |   |   |   |
+| G2   | ACR-448   |   |   |   |
+| G3   | ACR-449   |   |   |   |
+| G4   | ACR-449   |   |   |   |
+| G5   | ACR-451   |   |   |   |
+| G6   | ACR-451   |   |   |   |
+| G7   | ACR-456   |   |   |   |
+| G8   | ACR-456   |   |   |   |
+| G9   | ACR-457   |   |   |   |
+| G10  | ACR-457   |   |   |   |
+| G11  | ACR-458   |   |   |   |
+| G12  | ACR-458   |   |   |   |
+| H1   | ACR-459   |   |   |   |
+| H2   | ACR-459   |   |   |   |
+| H3   | ACR-460   |   |   |   |
+| H4   | ACR-460   |   |   |   |
+| H5   | ACR-461   |   |   |   |
+| H6   | ACR-461   |   |   |   |
+| H7   | ACR-462   |   |   |   |
+| H8   | ACR-462   |   |   |   |
+| H9   | ACR-463   |   |   |   |
+| H10  | ACR-463   |   |   |   |
+| H11  | ACR-464   |   |   |   |
+| H12  | ACR-464   |   |   |   |
 
 #### Plate Map Host (E5 samples):  
 
@@ -806,6 +1012,10 @@ Ariana and Danielle took daily measurements of E5 tanks between 1000 and 1030. N
 Today the team completed 3 more (6 out of 7 completed) transects at the Manava site for Pierrick Harnay's PhD project on the genetic population of Pocillopora spp. corals in Mo'orea. More information can be [found in his notebook here](https://pierrickharnay.github.io/PierrickHarnay_Notebook/). The last transect will be completed tomorrow morning during early morning observation for *Pocillopora* spawning.  
 
 # 5 October 2022  
+
+### *A. pulchra high frequency sampling dissections*   
+
+Danielle finished processing the *A. pulchra* samples from the fifth high frequency sampling (20221009) for dissections. The fragments from this timepoint had many more distinct gonads.
 
 ### *E5 adult coral metabolism project*  
 

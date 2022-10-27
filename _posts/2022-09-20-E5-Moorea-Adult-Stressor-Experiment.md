@@ -3,9 +3,9 @@ layout: post
 title: Moorea 2022 Adult Coral Stressor Experiment
 date: '2022-10-21'
 categories: Moorea_Adult_Stressor_2022
-tags: Fieldwork Gametogenesis Sampling Physiology Apulchra Light 
+tags: Fieldwork Gametogenesis Sampling Physiology Apulchra Light
 ---
- 
+
 This post includes the full notebook for Sept-Dec 2022 *Acropora pulchra* adult coral experiment Moorea, French Polynesia. These notebook posts are updated in order of most recent to oldest.
 
 # Project Overview  
@@ -43,7 +43,7 @@ The following protocols and links to data will be used regularly by the field te
 [Fragment tracking datasheet](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv)  
 [Sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sample.id.csv)   
 
-**Baseline sampling:** 
+**Baseline sampling:**
 [Baseline sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Baseline-Sampling-Protocol.md)  
 [Baseline sampling checklist](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/baseline_sampling_checklist.csv)  
 [Sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sample.id.csv)  
@@ -54,15 +54,15 @@ The following protocols and links to data will be used regularly by the field te
 **Feeding protocol:**  
 [Feeding protocol](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md)
 
-# 23 October 2022 
+# 23 October 2022
 
 ### *Daily measurements* 
 
 Danielle and Hollie took daily measurements today of the E5 tanks and the squaricals between 1500 and 1700.  
 
-# 22 October 2022 
+# 22 October 2022
 
-### *Daily measurements* 
+### *Daily measurements*
 
 Hollie and Danielle completed daily measurements and cleaned the strings for all of the fragments. During spawning we are also taking daily measurements of squaricals and buckets for reference.  
 
@@ -70,35 +70,35 @@ Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apul
 
 # 21 October 2022   
 
-### *Daily measurements and feeding* 
+### *Daily measurements and feeding*
 
-Daily measurements were taken in E5 tanks, parent tanks, and larval tanks today between 1530-1630. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). We fed the E5 corals today following the [E5 A. pulchra metabolism feeding protocol here](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md). Feeding occurred from 1545-1645. 
+Daily measurements were taken in E5 tanks, parent tanks, and larval tanks today between 1530-1630. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). We fed the E5 corals today following the [E5 A. pulchra metabolism feeding protocol here](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md). Feeding occurred from 1545-1645.
 
 # 20 October 2022   
 
-### *Daily measurements* 
+### *Daily measurements*
 
 Daily measurements were taken in E5 tanks, parent tanks, and larval tanks today between 1600 and 1700. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).  
 
 # 19 October 2022   
 
-### *Embryo rearing* 
+### *Embryo rearing*
 
-Embryos from 10/18 spawning were checked and stirred every 2-3 hours today. We also frequently check the fill level of the coolers. Due to high water flow and limitaitons in rate of filtering in the filter line, the coolers will sometimes drain which risks damaging the pump and stopping water flow. We closely monitor the level of the coolers every 2-3 hours. 50 um in line filters were rinsed and cleaned every 4-7 hours. The coolers were also cleaned today. 
+Embryos from 10/18 spawning were checked and stirred every 2-3 hours today. We also frequently check the fill level of the coolers. Due to high water flow and limitations in rate of filtering in the filter line, the coolers will sometimes drain which risks damaging the pump and stopping water flow. We closely monitor the level of the coolers every 2-3 hours. 50 um in line filters were rinsed and cleaned every 4-7 hours. The coolers were also cleaned today.
 
-Overall, embryos from 10/17 and 10/18 spawning are doing well with minimal mortality. 
+Overall, embryos from 10/17 and 10/18 spawning are doing well with minimal mortality.
 
-![squarical](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/squarical.jpeg) 
+![squarical](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/squarical.jpeg)
 
-### *Feeding* 
+### *Feeding*
 
 We fed the E5 corals today following the [E5 A. pulchra metabolism feeding protocol here](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md). Feeding occurred from 16:35-17:35.  
 
-### *Daily measurements* 
+### *Daily measurements*
 
 Daily measurements were taken in E5 tanks, parent tanks, and larval tanks today between 1430 and 1500. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).  
 
-In Tank 6, C31 is showing high partial mortality (~90%) with algal overgrowth. 
+In Tank 6, C31 is showing high partial mortality (~90%) with algal overgrowth.
 
 # 18 October 2022    
 
@@ -110,7 +110,7 @@ We cleaned all tanks for the E5 experiment today. All fragments look healthy and
 
 All E5 loggers were downloaded between 1200 and 1400. The logger data was ran using the [logger R script in the GitHub repo](https://github.com/urol-e5/apulchra_metabolism/blob/main/scripts/environmental_analysis.Rmd). Our environmental data looks like this:  
 
-![loggers](https://raw.githubusercontent.com/urol-e5/apulchra_metabolism/main/figures/environmental/loggers.png) 
+![loggers](https://raw.githubusercontent.com/urol-e5/apulchra_metabolism/main/figures/environmental/loggers.png)
 
 # 17 October 2022   
 
@@ -118,7 +118,7 @@ All E5 loggers were downloaded between 1200 and 1400. The logger data was ran us
 
 Ariana and Terava took daily measurements today between 12:45 and 13:15. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). Tanks will be cleaned tomorrow.     
 
-### *E5 experiment - symbiont counts* 
+### *E5 experiment - symbiont counts*
 
 Ariana and Terava finished the symbiont density measurements today. [The proceedure followed the protocol for E5 processing](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md) with no modifications. [Data is recorded in GitHub](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sym_counts/sym_counts.xlsx).  
 
@@ -149,7 +149,7 @@ Today we are starting treatments in our E5 *A. pulchra* metabolism experiment. T
 
 #### **Calculating the amount of food needed**   
 
-For [Coral Max food](https://www.maxoutaquatics.com/product/coral-max/), the manufacturers instructions suggest 1/2 teaspoon per 50 gallons of tank water. Our tanks are 19.3 gallons (29 cm x 60 cm x 42 cm). Therefore, we would need 0.368 of a 1/2 teaspoon dose (19.3 / 50 gallons). 
+For [Coral Max food](https://www.maxoutaquatics.com/product/coral-max/), the manufacturers instructions suggest 1/2 teaspoon per 50 gallons of tank water. Our tanks are 19.3 gallons (29 cm x 60 cm x 42 cm). Therefore, we would need 0.368 of a 1/2 teaspoon dose (19.3 / 50 gallons).
 
 The mass of 1/2 teaspoon (converted to volume of 2.464 mL) dose is 1.148 g. 1.148 g * 0.368 = 0.422 g. 0.422 g is the amount we need for the size of our tanks. We will round up. For each tank, we will add 0.5 g of food at each feeding.  
 
@@ -187,11 +187,11 @@ Light is reduced by approx. 35-55% after adding shade.
 
 The process for feeding is as follows and is described in the [E5 A. pulchra metabolism feeding protocol here](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md). The overview of the steps are as follows:  
 
-1. Measure out food as described above into labeled 5 mL tubes to the marked 1 mL mark with Coral Max. 
+1. Measure out food as described above into labeled 5 mL tubes to the marked 1 mL mark with Coral Max.
 2. Turn off water on the main line to all tanks.  
 3. Use the nalgene bottle or a tri pour to take ~ 1 L water out of the tanks to ensure the food doesn't overflow.  
 4. Add the food to each respective tank (tanks 1, 3, 4, 5) and stir and break up the chunks with a transfer pipette.  
-5. Start a timer for 1 h. 
+5. Start a timer for 1 h.
 6. After 1 h, turn the water flow back on.  
 
 Repeat this process 3 times per week (e.g., Mon, Wed, Fri).  
@@ -214,13 +214,13 @@ Ariana and Danielle took daily measurements in the E5 experimental tanks as well
 
 Ariana took daily measurements in the E5 experimental tanks as well as the tanks holding adult colonies between 1400 and 1430. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).  
 
-### *E5 experiment - symbiont counts* 
+### *E5 experiment - symbiont counts*
 
 Ariana counted symbiont density in more samples today. [The proceedure followed the protocol for E5 processing with no modifications](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md). [Data is recorded in GitHub](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sym_counts/sym_counts.xlsx).  
 
 Ariana also [wrote scripts](https://github.com/urol-e5/apulchra_metabolism/blob/main/scripts/baseline/sym_density.Rmd) to analyze data as we go based on the [E5 timeseries project scripts](https://github.com/urol-e5/timeseries).  
 
-Preliminary data shows that symbiont densities (~1e+06) are in the range seen in the E5 timeseries project. 
+Preliminary data shows that symbiont densities (~1e+06) are in the range seen in the E5 timeseries project.
 
 ![symcounts](https://raw.githubusercontent.com/urol-e5/apulchra_metabolism/main/figures/baseline/symbiont_density.png)  
 
@@ -234,11 +234,11 @@ We flushed all water lines to improve water flow at 2100.
 
 ### *Daily measurements*   
 
-Ariana and Teravatook daily measurements in the E5 experimental tanks as well as the tanks holding adult colonies between 1000 and 1100. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). 
+Ariana and Teravatook daily measurements in the E5 experimental tanks as well as the tanks holding adult colonies between 1000 and 1100. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).
 
 ### *Symbiont counts*  
 
-Ariana and Terava started symbiont cell density measurements on the symbiont fraction of samples that were separated yesterday. [The proceedure followed the protocol for E5 processing with no modifications](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md). 
+Ariana and Terava started symbiont cell density measurements on the symbiont fraction of samples that were separated yesterday. [The proceedure followed the protocol for E5 processing with no modifications](https://github.com/urol-e5/protocols/blob/master/2020-01-07-Cell_Density-Protocol.md).
 
 [Data is recorded in GitHub](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sym_counts/sym_counts.xlsx). Five samples were analyzed today. The remaining samples will be processed over the next few days.   
 
@@ -258,7 +258,7 @@ A linear mixed model testing differences in protein by genotype show a significa
 
 ### *Daily measurements*   
 
-Ariana took daily measurements in the E5 experimental tanks as well as the tanks holding adult colonies between 1030 and 1100. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). 
+Ariana took daily measurements in the E5 experimental tanks as well as the tanks holding adult colonies between 1030 and 1100. Daily measurements are recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements).
 
 ### *Baseline samples - total protein*  
 
@@ -266,26 +266,26 @@ Ariana, Danielle, and Terava conducted total soluble protein assays (Pierce BCA 
 
 The summary of the protocol process for Ariana's samples was as follows. Danielle and Ariana followed the same protocol with an added step for host-symbiont fraction separation for Ariana's samples. 2 plates were run for host samples and 2 plates were run for holobiont samples in total.    
 
-1. Thaw two 1mL tube samples for each E5 fragment. 
-2. For one of the tubes, we separated host and symbiont fraction. The second tube will have the holobiont fraction. 
+1. Thaw two 1mL tube samples for each E5 fragment.
+2. For one of the tubes, we separated host and symbiont fraction. The second tube will have the holobiont fraction.
 3. One tube per fragment was thawed and centrifuged at 3500 rpm for 3 min using the Fisher centrifuge as used during symbiont isolation trials on 3 Oct 2022.  
-4. The supernatant (host fraction) was transfered to a new tube labeled with the fragment ID and "H" for "host". The tube with the symbiont pellet was labeled with an "S" for "symbiont". 
-5. For each sample, this resulted in one tube with holobiont tissue, one tube with host tissue, and one tube with symbiont pellet. 
-6. The symbiont fraction was returned to the freezer at -40C for symbiont counting tomorrow. 
-7. Standards and working solution were generated as described in the total protein protocol. 
+4. The supernatant (host fraction) was transfered to a new tube labeled with the fragment ID and "H" for "host". The tube with the symbiont pellet was labeled with an "S" for "symbiont".
+5. For each sample, this resulted in one tube with holobiont tissue, one tube with host tissue, and one tube with symbiont pellet.
+6. The symbiont fraction was returned to the freezer at -40C for symbiont counting tomorrow.
+7. Standards and working solution were generated as described in the total protein protocol.
 8. First, host fraction samples were run by loading 25 uL of each sample in duplicates in a 96 well plate along with duplicates of each standard. The plate map for host samples is below.  
-9. The plate was gently rocked by hand to mix for 30 sec and then incubated at 37°C for 30 minutes. 
-10. After incubation, the plate was allowed to cool at room temperature for 6 min. 
-11. The absorbance of the plate was read on the microplate spectophotometer reader at 562 nm and saved. 
+9. The plate was gently rocked by hand to mix for 30 sec and then incubated at 37°C for 30 minutes.
+10. After incubation, the plate was allowed to cool at room temperature for 6 min.
+11. The absorbance of the plate was read on the microplate spectophotometer reader at 562 nm and saved.
 12. In the next plate, holobiont samples were added in duplicates with 25 uL of each sample and each standard. The plate map is included below.  
-13. The plate was incubated and read in the same way as described above. 
+13. The plate was incubated and read in the same way as described above.
 14. All plates and supplies were cleaned following plate reading.  
 
-Host samples were added to the incubator at 1313 and read at 1351. Holobiont samples were added to the incubator at 1356 and read at 1430. 
+Host samples were added to the incubator at 1313 and read at 1351. Holobiont samples were added to the incubator at 1356 and read at 1430.
 
 A host and holobiont plate was run prior to these samples by Danielle for the gametogenesis time series.  
 
-The data was saved and added to [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/baseline_sampling/protein). 
+The data was saved and added to [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/baseline_sampling/protein).
 
 #### Plate Map Host (E5 samples):  
 
@@ -312,7 +312,7 @@ The data was saved and added to [GitHub here](https://github.com/urol-e5/apulchr
 | F   | F9     | F9     | F17    | F17    | F22    | F22    | ACR465 | ACR465 | -      | -      | -      | -      |
 | G   | -      | -      | -      | -      | -      | -      | -      | -      | -      | -      | -      | -      |
 | H   | -      | -      | -      | -      | -      | -      | -      | -      | -      | -      | -      | -      |
- 
+
 
 # 11 October 2022    
 
@@ -332,7 +332,7 @@ Ariana continued replacing coral tags for the E5 tanks. All tags were replaced.
 
 Ariana and Danielle cleaned all E5 tanks and all corals. Tanks 1, 2, and 3 were moved to a water table further under the shade structure. In the mornings, tanks 1, 2, and 3 have been getting intense morning light at sunrise. Moving the tanks further under the building will make the light more even.   
 
-![clean tanks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/clean_tanks_oct11.jpeg) 
+![clean tanks](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/clean_tanks_oct11.jpeg)
 
 ### *Loggers*  
 
@@ -346,7 +346,7 @@ The light measured by the Odyssey loggers is in Integrated PAR, which will be hi
 
 We also plotted the temperatures from the wildtype *A. pulchra* parent colonies prior to fragmentation.  
 
-![parent loggers](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/parent_temp.png) 
+![parent loggers](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/parent_temp.png)
 
 # 10 October 2022  
 
@@ -382,7 +382,7 @@ Ariana took daily measurements of E5 tanks between 1600 and 1630. No mortality w
 
 ### *New coral tags*  
 
-Ariana started replacing paper clips with coated wire tags. These will be replaced over the course of the next week. 
+Ariana started replacing paper clips with coated wire tags. These will be replaced over the course of the next week.
 
 # 7 October 2022  
 
@@ -394,7 +394,7 @@ Ariana took daily measurements of E5 tanks between 1400 and 1430. No mortality w
 
 Ariana measured surface area using the wax dipping method on all E5 baseline fragments. All airbrushed fragments from 5 October 2022 were dried in a drying oven at 80°C for 6 hours. The fragments were then weighed on a Mettler Toledo Excellence Plus SP203S scale to 0.001 g. This was recorded as the fragment dry weight. Fragments were then dipped once in melted wax and allowed to dry. Fragments were then re-weighed on the scale and recorded as wax dipped weight.  
 
-We will use the standard curve for this wax batch from the one generated by Danielle during this field trip. The [data for the curve is here](https://github.com/daniellembecker/Gametogenesis/blob/main/gametogenesis_timeseries/September_2022/data/10_surface_area/10_surface_area_data.csv) and the [script for processing is here](https://github.com/daniellembecker/Gametogenesis/blob/main/gametogenesis_timeseries/September_2022/scripts/10_surface_area.Rmd). 
+We will use the standard curve for this wax batch from the one generated by Danielle during this field trip. The [data for the curve is here](https://github.com/daniellembecker/Gametogenesis/blob/main/gametogenesis_timeseries/September_2022/data/10_surface_area/10_surface_area_data.csv) and the [script for processing is here](https://github.com/daniellembecker/Gametogenesis/blob/main/gametogenesis_timeseries/September_2022/scripts/10_surface_area.Rmd).
 
 Ariana will next work on the scripts to process surface area data. Symbiont cell density and total protein will be the next steps in processing fragments.  
 
@@ -427,10 +427,10 @@ Ariana took daily measurements of E5 tanks between 1230 and 1300. Conditions wer
 All fragments sampled during the baseline sampling on 2 October 2022 were airbrushed today between 1630 and 1830. Ariana airbrushed with the following proceedure:  
 
 1. Remove 4 frags at a time from the freezer and store them in a cooler on frozen beads. Label 50 mL falcon tubes for each fragment. Falcon tubes were labeled with "E5 Apul Metabolism; Oct 2022 Baseline; Airbrushed; Putnam; Frag ID".   
-2. Each fragment was airbrushed with chilled PBS buffer into a zip bag. The tissue slurry in the bag was then poured into the respective falcon tube. The homogenate volume was recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/homog_vols.xlsx) and written on the falcon tube. 
-3. The homogenate was placed on ice until all 4 frags were completed. 
-4. After airbrushing, the homogenate was put in the -40C freezer. 
-5. The process was repeated for all 24 fragments. 
+2. Each fragment was airbrushed with chilled PBS buffer into a zip bag. The tissue slurry in the bag was then poured into the respective falcon tube. The homogenate volume was recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/homog_vols.xlsx) and written on the falcon tube.
+3. The homogenate was placed on ice until all 4 frags were completed.
+4. After airbrushing, the homogenate was put in the -40C freezer.
+5. The process was repeated for all 24 fragments.
 6. After airbrushing, all equipment was cleaned with DI water and alcohol wipes.  
 7. Airbrushed skeletons were placed in plastic cups with 10% bleach overnight to clean the skeletons. These will be kept at room temperature until wax dipping to determine surface area.  
 
@@ -444,13 +444,13 @@ This script [outputs files](https://github.com/urol-e5/apulchra_metabolism/tree/
 
 # 3 October 2022  
 
-### *Tank cleaning* 
+### *Tank cleaning*
 
-Ariana cleaned the E5 tanks today between 1100-1400. Tanks were cleaned by first removing the wire lines with frags attached from 1-2 tanks at a time and placing in the water table. The tanks were then removed and wiped with microfiber towels and rinsed with fresh water. 
+Ariana cleaned the E5 tanks today between 1100-1400. Tanks were cleaned by first removing the wire lines with frags attached from 1-2 tanks at a time and placing in the water table. The tanks were then removed and wiped with microfiber towels and rinsed with fresh water.
 
-Fishing line of each fragment was cleaned and algae removed. Tanks were refilled and frags were added back in along with loggers and pumps. Ariana also cleaned the water lines. 
+Fishing line of each fragment was cleaned and algae removed. Tanks were refilled and frags were added back in along with loggers and pumps. Ariana also cleaned the water lines.
 
-During cleaning, tank position within each water table was rearranged. All tanks are in a new location. Frags were also returned such that each wire was put back in a different position to shuffle the fragments. 
+During cleaning, tank position within each water table was rearranged. All tanks are in a new location. Frags were also returned such that each wire was put back in a different position to shuffle the fragments.
 
 No mortality was observed in fragments. Water flow was adjusted to return to previous levels (350-400 mL per 5 sec).  
 
@@ -476,7 +476,7 @@ First, the selected fragments (N=24, n=4 per genotype) were removed from the tan
 
 Fragments were then transported to the molecular lab for processing. As described in the protocol, each fragment was sampled for biopsies that were flash frozen (n=2 per frag) and stored in RNA DNA shield (n=2 per frag) with the remaining fragment frozen for physiology. Between samples, equipment was sterilized with 10% bleach followed by 70% ethanol. Gloves and counter were sterilized between each fragment. Sterilization was critical since these samples may be used for bacterial community characterization.  
 
-For each fragment, pre-labeled tubes and bags were used as described on 30 September 2022 post. Using bone cutters, 4 biopsies (scraping 5-10 polyp area) were taken and added to tubes. Flash frozen tubes were immediately frozen in liquid nitrogen. Tubes with RNA DNA shield were stored in the -40C freezer. The remaining fragment was stored at -40C. After all samplinig was completed, all tubes were then stored in the Gump molecular lab freezer at 40C. 
+For each fragment, pre-labeled tubes and bags were used as described on 30 September 2022 post. Using bone cutters, 4 biopsies (scraping 5-10 polyp area) were taken and added to tubes. Flash frozen tubes were immediately frozen in liquid nitrogen. Tubes with RNA DNA shield were stored in the -40C freezer. The remaining fragment was stored at -40C. After all samplinig was completed, all tubes were then stored in the Gump molecular lab freezer at 40C.
 
 Sampling of all fragments took 1.5-2 hours. Sampling of fragments was conducted in random order to avoid any time effects on genotype differences.   
 
@@ -486,13 +486,13 @@ Sampling of all fragments took 1.5-2 hours. Sampling of fragments was conducted 
 
 HOBO Pendant loggers from the six E5 tanks were downloaded at 1220. Loggers were kept logging in the tanks. Black HOBO loggers from the wildtype parent tanks (n=2) were removed from tanks, stopped, and downloaded at 1030. Logger files can be [found here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/loggers/E5_tanks/20221002).     
 
-# 1 October 2022 
+# 1 October 2022
 
 The team took the day off today for some fun snorkeling at Temae!   
 
 ### *Daily measurements*  
 
-Ariana took daily measurements of all tanks at 1630-1645. Sunlight was limited today and it was cloudy/rainy. Light measurements were all low during measurements (<25 PAR). Recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). Flow was even across tanks (325-375 mL per 5 sec) in each tank and did not need to be adjusted. Ariana will check the outflows tomorrow and flush the lines to prevent lines clogging after sampling the adult baseline fragments. 
+Ariana took daily measurements of all tanks at 1630-1645. Sunlight was limited today and it was cloudy/rainy. Light measurements were all low during measurements (<25 PAR). Recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/tree/main/data/environmental/daily_measurements). Flow was even across tanks (325-375 mL per 5 sec) in each tank and did not need to be adjusted. Ariana will check the outflows tomorrow and flush the lines to prevent lines clogging after sampling the adult baseline fragments.
 
 # 30 September 2022  
 
@@ -506,9 +506,9 @@ Daily measurements for today were recorded in [GitHub here](https://github.com/u
 
 In the next couple of days Ariana will sample n=4 randomly selected fragments of each genotype to characterize baseline values of our responses of interest including DNA methylation and chromatin structure, gene expression, metabolomics, microbial communities, and physiology. Fragments were selected by randomly selecting n=4 per genotype such that each fragment was from a different tank and sampling from each tank was balanced to keep fragment density consistent.   
 
-Today, Ariana identified the fragments to be sampled and prepared and labeled all tubes, whirlpacks, and equipment that will be used. 
+Today, Ariana identified the fragments to be sampled and prepared and labeled all tubes, whirlpacks, and equipment that will be used.
 
-Baseline sampling will be conducted following the protocol written by Ariana today. The [baseline sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Baseline-Sampling-Protocol.md) details procedures taking photographs of selected fragments for gene expression, microbial communities (16S and ITS2), chromatin structure and DNA methylation, metabolomics, and physiology. 
+Baseline sampling will be conducted following the protocol written by Ariana today. The [baseline sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Baseline-Sampling-Protocol.md) details procedures taking photographs of selected fragments for gene expression, microbial communities (16S and ITS2), chromatin structure and DNA methylation, metabolomics, and physiology.
 
 **The fragments that will be sampled are:**  
 A7, 16, 20, 31  
@@ -522,7 +522,7 @@ F2, 9, 17, 22
 
 2 mL screw cap cryo tubes were labeled in preparation for sampling as nubmers 1-96. The number was written on the top cap of each tube as well as on the side. "E5 Metab. 2022" was also added on the side of each tube to identify the project. To see details on organization and labeling for baseline sampling, [see the detailed protocol here](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Baseline-Sampling-Protocol.md).  
 
-Tubes #1-48 were filled with 1 mL of RNA DNA Shield. All tube ID's and associated fragment and method of preservation were planned and recorded in the [sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sample.id.csv). 
+Tubes #1-48 were filled with 1 mL of RNA DNA Shield. All tube ID's and associated fragment and method of preservation were planned and recorded in the [sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sample.id.csv).
 
 Ariana also created a [fragment tracking datasheet](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv) and  [baseline sampling checklist](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/baseline_sampling_checklist.csv) that will be used to track sampling and metadata for this project.  
 
@@ -540,7 +540,7 @@ Documents referenced in this post are all found below:
 
 [Baseline sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Baseline-Sampling-Protocol.md)
 
-# 29 September 2022 
+# 29 September 2022
 
 ### *Daily measurements*  
 
@@ -558,7 +558,7 @@ Daily measurements for today were recorded in [GitHub here](https://github.com/u
 
 All tanks and fragments looked good today and no mortality was observed. Ariana is going to start making materials to replace the paperclips with coated wire. After about 1 week they will be rusting.   
 
-# 28 September 2022 
+# 28 September 2022
 
 ### *Cleaning tanks*  
 
@@ -578,7 +578,7 @@ New genotypes for A and C fragments and for F fragments were fragmented at 1600-
 
 The final list of tank fragment locations is available on [GitHub](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv) and listed below.   
 
-Tank 1: 
+Tank 1:
 
 - A1-A5
 - B1-B5
@@ -587,7 +587,7 @@ Tank 1:
 - E1-E6
 - F1-F6
 
-Tank 2: 
+Tank 2:
 
 - A6-A11
 - B6-B11
@@ -596,7 +596,7 @@ Tank 2:
 - E7-E12
 - F7-F12
 
-Tank 3: 
+Tank 3:
 
 - A12-A17
 - B12-B17
@@ -605,7 +605,7 @@ Tank 3:
 - E13-E17
 - F13-F18
 
-Tank 4: 
+Tank 4:
 
 - A18-A23
 - B18-B23
@@ -614,7 +614,7 @@ Tank 4:
 - E18-E23
 - F19-F24
 
-Tank 5: 
+Tank 5:
 
 - A24-A29
 - B24-B29
@@ -623,7 +623,7 @@ Tank 5:
 - E24-E29
 - F24-F29
 
-Tank 6: 
+Tank 6:
 
 - A30-A35
 - B30-B35
@@ -642,11 +642,11 @@ Ariana cleaned all treatment tanks by removing fragments and placing them in the
 
 Ariana made notches in the hanging wires to prevent clips from moving around and the corals from getting too close to each other. These have worked well today.   
 
-In the next week, we will switch the paper clips to plastic clips to prevent rusting. 
+In the next week, we will switch the paper clips to plastic clips to prevent rusting.
 
 ![finalfrags](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/finalfrags1.jpeg)  
 
-![finalfrags](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/finalfrags2.jpeg) 
+![finalfrags](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/finalfrags2.jpeg)
 
 #### *Feeding treatments*  
 
@@ -662,7 +662,7 @@ In 27 September 2022 post, Ariana described potential feeding treatments using a
 
 Ariana fragmented two more genotypes for use in the E5 adult experiment as described on 26 September 2022. Genotypes fragmented today were labeled D1-D35 and E1-E35. Fragments from colony A were showing mortality. These were removed from the tanks and will be replaced with a different genotype tomorrow. Fragmentation was completed from 0700-0900. Ariana and Danielle created labels in preparation for the final fragmentation tomorrow.  
 
-Fragments were then allocated to tanks with tank number recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/metadata/fragments.csv). 
+Fragments were then allocated to tanks with tank number recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/metadata/fragments.csv).
 
 Fragments from yesterday appear to be healthy and the tank system is working well. In about a week we will need to change the paperclips to plastic coated paperclips to avoid rusting.  
 
@@ -672,10 +672,10 @@ The experimental design has been finalized for this project as is as follows:
 
 ![e5design](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/e5design4.png)
 
-This updated design includes a final processing for all fragments that includes the following responses: 
- 
-1. All fragments (5 per colony/genotype per tank) undergo CBASS testing at 5 temperatures including 27C, 29C, 31C, 32C, 33C (or something similar). 
-2. We will take molecular samples from all fragments after CBASS. 
+This updated design includes a final processing for all fragments that includes the following responses:
+
+1. All fragments (5 per colony/genotype per tank) undergo CBASS testing at 5 temperatures including 27C, 29C, 31C, 32C, 33C (or something similar).
+2. We will take molecular samples from all fragments after CBASS.
 3. The fragment at the control temperature will then be used for molecular, metabolomic, and physiology responses.  
 
 #### *Feeding treatments*  
@@ -686,12 +686,12 @@ For this experimental design, we need to plan for the type and amount of food to
 
 [Forsman et al. 2012](https://www.cambridge.org/core/journals/journal-of-the-marine-biological-association-of-the-united-kingdom/article/abs/coral-farming-effects-of-light-water-motion-and-artificial-foods/BC8845A6BF25F08A37D398A0137C4AEF): This paper examined the effects of different aritifical foods and dosage of foods on growth in *M. capitata*, *P. acuta*, and *P. compressa*. They tested 1X, 3X, and 10X of manufacturer's dosage of Reef Roids, Reef Chili, and several other brands of food. Specifically, in *M. capitata* (in the Acroporidae family) has positive growth responses to artificial foods. They found that dosage of 1X of manufacturer's instructions of Reef Roids or Reef Chili were best for this species. It is important not to overfeed, as this can reduce growth and cause tank algal overgrowth.  
 
-For feeding in this experiment, Ariana suggests that we purchase either Reef Roids or Reef Chili. We can feed corals 3X per week in treatment tanks. Water can be turned off for 1 h during feeding. Ariana will look into the amount of food that will be required for this feeding. If the amount is too high, we can look into building a feeding tank for all corals to be fed as a group and thereby reduce the amount of food needed. 
+For feeding in this experiment, Ariana suggests that we purchase either Reef Roids or Reef Chili. We can feed corals 3X per week in treatment tanks. Water can be turned off for 1 h during feeding. Ariana will look into the amount of food that will be required for this feeding. If the amount is too high, we can look into building a feeding tank for all corals to be fed as a group and thereby reduce the amount of food needed.
 
 #### *Remaining to-do items for experiment set up*  
 
 - Prepare a tank for 3x week feedings  
-- Remake paper clips to plastic clips 
+- Remake paper clips to plastic clips
 - Create a schedule document for daily measurements and weekly cleaning check offs  
 - Start treatment after ~ 2-week recovery period  
 - Order coral food  
@@ -722,7 +722,7 @@ To fragment, the team made and labeled strings (fishing line) attached to paper 
 Coral fragments (~4-8 cm) were cut using bone clippers from larger colonies. Fragmentation was done in a water table from 1100-1900.    
 
 ![frags](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/frags.jpeg)
- 
+
 All treatment tanks were cleaned and pumps were added into each tank. Hobo pendant loggers are on the bottom center of each tank. Flow is high for these tanks to help corals recover from fragmentation. Note that no treatments have started yet, after fragmentation there will be a recovery period.  
 
 ![tanks 1](https://ahuffmyer.github.io/ASH_Putnam_Lab_Notebook/images/NotebookImages/Moorea2022/frags_tank1.jpeg)
@@ -731,7 +731,7 @@ All treatment tanks were cleaned and pumps were added into each tank. Hobo penda
 
 Fragments were then allocated to tanks with tank number recorded in [GitHub here](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/metadata/fragments.csv). Each tank has 5-6 fragments per colony and will have equal numbers of fragments.  
 
-A total of 3 genotypes/colonies were fragmented today and the team pre-labelled strings and paperclips for tomorrow. Ariana will finish fragmenting tomorrow and baseline sampling wll take place on Thurs/Friday of this week. 
+A total of 3 genotypes/colonies were fragmented today and the team pre-labelled strings and paperclips for tomorrow. Ariana will finish fragmenting tomorrow and baseline sampling wll take place on Thurs/Friday of this week.
 
 *Fragmented today:*  
 
@@ -747,12 +747,12 @@ Tomorrow we will fragment colonies D, E, F.
 
 The tanks for each fragment are listed below and recorded in GitHub (see link above).  
 
-Tank 1: 
+Tank 1:
 - A1-5
 - B1-5
 - C1-6
 
-Tank 2: 
+Tank 2:
 - A6-11
 - B6-11
 - C7-11
@@ -781,7 +781,7 @@ Tank 6:
 
 Given the amount of space in each tank and the number of fragments we could get per colony, Ariana re calculated our E5 design numbers. The changes are:  
 
-- Removing mid November time point. Since we want to know about how metabolic state influences stress response, it makes the most sense to keep our replication/samples for the time point in which we plan to do CBASS. 
+- Removing mid November time point. Since we want to know about how metabolic state influences stress response, it makes the most sense to keep our replication/samples for the time point in which we plan to do CBASS.
 - Changed treatments to include autotrophy (light, no food), auto/hetero (light, added food), and heterotrophy (shaded, no food) as suggested by R. Cunning. This will provide nutritional treatments to shift metabolic state. Given our current design, we can do n=2 tanks per treatment.  
 - tanks will now include 5-6 fragments per colony. This will provide enough samples to take baseline samples this week as well as have 1 fragment for physiology and molecular and 3-4 fragments for CBASS. We can destructively sample following CBASS. The temperatures for CBASS will be chosen to represent a control, moderate heating, and high heating tempratures.  
 - Colony number has been reduced from 10 down to 6. There is not enough room in the tanks for all 10 colonies.  
@@ -884,7 +884,7 @@ Ariana started a [GitHub repo for this project here](https://github.com/urol-e5/
 
 ### *Logger offload and calibration*  
 
-Loggers were read off for the wildtype parent tanks and Danielle's parent tanks. Files were labeled with SSN and date and saved in the Apulchra_metabolism E5  GitHub repository. Loggers read off were: 
+Loggers were read off for the wildtype parent tanks and Danielle's parent tanks. Files were labeled with SSN and date and saved in the Apulchra_metabolism E5  GitHub repository. Loggers read off were:
 
 20719656 (Wildtype Tank 2)  
 20946644 (Danielle Tank 1)    
@@ -942,7 +942,7 @@ Tomorrow, Ariana will add water flow to these tanks and prepare materials for sa
 
 Ariana discussed experimental design with the E5 team and we have revised the experimental approach as pictured below.  
 
-![E5 project2](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/E5project2.png) 
+![E5 project2](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/E5project2.png)
 
 This revision includes these updates:  
 
@@ -955,7 +955,7 @@ We will continue to talk with the E5 team to finalize the design prior to fragme
 
 ### *Project set up*    
 
-Ariana, Pierrick, and Danielle sourced materials for the E5 adult project including buying tank bins, finding shade cloth, and cleaning water tables. We have black shade cloth with rebar on either side that fit on our tank systems. We purchased 6 plastic bins that will be used as tanks. We cleaned water tables to prepare space for these tanks. 
+Ariana, Pierrick, and Danielle sourced materials for the E5 adult project including buying tank bins, finding shade cloth, and cleaning water tables. We have black shade cloth with rebar on either side that fit on our tank systems. We purchased 6 plastic bins that will be used as tanks. We cleaned water tables to prepare space for these tanks.
 
 Ariana measured light levels under ambient conditions (under covered tank area with no shade cloth) and under two low light conditions (1 layer of shade cloth and 2 layers of shade cloth). Light levels in the high light treatment will be 500-700 PAR peaking during the day. Under one layer of shade cloth, light was reduced by 65% to approx. 100-300 PAR. Under two layers of shade cloth, light was reduced 80% to <100 PAR. We will use one layer of shade cloth for this experiment to provide sufficient light for coral growth in both treatments.  
 
@@ -971,11 +971,11 @@ Danielle gave the team an orientation to driving the LTER boat (509) at Gump. Ar
 
 ### *Project planning*  
 
-Ariana developed a draft experimental design for the adult coral E5 repeat stressor experiment. Ariana conducted planning and sourcing materials for this project today. 
+Ariana developed a draft experimental design for the adult coral E5 repeat stressor experiment. Ariana conducted planning and sourcing materials for this project today.
 
 Overall, this project will expose coral colonies to ambient (450-600 PAR) and reduced (100-200 PAR) light conditions. A draft design is included below. This experiment will run until December. Monthly, fragments will be sampled for molecular, metabolomic, and physiological metrics. In December, S. Matsuda and R. Cunning will measure thermal phenotypes using the CBASS system.  
 
-![E5 project](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/E5project.png) 
+![E5 project](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/E5project.png)
 
 The parent colony collection and maintenance is described in our [daily entry notebook](). Parent colonies were collected from the Mahana site on Moorea's north shore (17°29'12.5"S 149°53'16.1"W) on 16 September 2022.
 
@@ -988,9 +988,3 @@ Ariana and Danielle used a hammer and chisel to remove large fragments (15-30cm 
 ![parents tank](https://raw.githubusercontent.com/urol-e5/urol-e5.github.io/master/images/Moorea2022/colonies_tank.jpeg)
 
 These colonies were monitored for spawning in September but did not spawn.  
-
-
-
-
-
-
