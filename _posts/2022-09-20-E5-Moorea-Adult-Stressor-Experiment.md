@@ -86,6 +86,23 @@ Apogee light meter got moisture inside and is drying. Hollie replaced the batter
 ### *Daily measurements* 
 Tanks and coral strings were all cleaned between 14:00 and 16:00. Putnam and Harnay completed daily measurements between 16:16 and 16:30. Corals were fed 16:35 - 17:05.
 
+### Tank1
+![Tank1](https://github.com/urol-e5/urol-e5.github.io/blob/master/images/Moorea2022/tank1.jpg?raw=true)
+
+### Tank2
+![Tank2](https://github.com/urol-e5/urol-e5.github.io/blob/master/images/Moorea2022/tank2.jpg?raw=true)
+
+### Tank3
+![Tank3](https://github.com/urol-e5/urol-e5.github.io/blob/master/images/Moorea2022/tank3.jpg?raw=true)
+
+### Tank4
+![Tank4](https://github.com/urol-e5/urol-e5.github.io/blob/master/images/Moorea2022/tank4.jpg?raw=true)
+
+### Tank5
+![Tank5](https://github.com/urol-e5/urol-e5.github.io/blob/master/images/Moorea2022/tank5.jpg?raw=true)
+
+### Tank6
+![Tank6](https://github.com/urol-e5/urol-e5.github.io/blob/master/images/Moorea2022/tank6.jpg?raw=true)
 
 # 03 November 2022
 
