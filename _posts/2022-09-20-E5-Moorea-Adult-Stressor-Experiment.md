@@ -54,6 +54,88 @@ The following protocols and links to data will be used regularly by the field te
 **Feeding protocol:**  
 [Feeding protocol](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md)
 
+# 06 November 2022
+
+### *Daily measurements* 
+
+Hollie and Pierrick took daily measurements between 17:45 - 18:00. The heaviest of rains have ended, but cloud cover is still high and salinity is decreasing. 
+
+Hollie entered data, updated daily measurment plots and pushed to github. 
+
+The plots of daily measurements by date and tank.
+![daily measurements by date and tank](https://github.com/urol-e5/apulchra_metabolism/blob/main/figures/environmental/daily_measurements.png?raw=true)
+
+The plots of environmental variables by treatment.
+![environmental variables by treatment](https://github.com/urol-e5/apulchra_metabolism/blob/main/figures/environmental/treatment_daily_measurements.png?raw=true)
+
+####ANOVA of light from the exposure period 
+####Light```summary(aov(par.center~treatment, data=daily_calc_exposure))
+```
+|||||||
+|---|---|---|---|---|---|| |Df| Sum Sq| Mean Sq| F value | Pr(>F)   |treatment   | 2| 217323 | 108662 | 7.249 |0.00157 |Residuals  | 57 |854426|   14990 |       |         |   
+
+# 05 November 2022
+
+### *Daily measurements* 
+Hollie and Pierrick took daily measurements between 16:00 - 16:15. Heavy rains continue. 
+
+Apogee light meter got moisture inside and is drying. Hollie replaced the battery.
+
+# 04 November 2022
+
+### *Daily measurements* 
+Tanks and coral strings were all cleaned between 14:00 and 16:00. Putnam and Harnay completed daily measurements between 16:16 and 16:30. Corals were fed 16:35 - 17:05.
+
+
+# 03 November 2022
+
+No Activity.
+
+# 02 November 2022
+
+### *Daily measurements* 
+C31 was identified as dead and removed from tank 6. Putnam and Harnay completed daily measurements between 17:45 and 18:00. 
+
+# 01 November 2022
+
+### *Daily measurements* 
+Terava completed daily measurements between 13:15 - 13:40. 
+
+# 31 October 2022
+
+### *Daily measurements*
+Terava completed daily measurements between 13:00 - 13:30. 
+
+# 30 October 2022
+
+### *Daily measurements* 
+
+# 29 October 2022
+
+### *Daily measurements* 
+
+# 28 October 2022
+
+### *Daily measurements* 
+
+
+# 27 October 2022
+
+### *Daily measurements* 
+
+# 26 October 2022
+
+### *Daily measurements* 
+
+# 25 October 2022
+
+### *Daily measurements* 
+
+# 24 October 2022
+
+### *Daily measurements* 
+
+
 # 23 October 2022
 
 ### *Daily measurements* 
