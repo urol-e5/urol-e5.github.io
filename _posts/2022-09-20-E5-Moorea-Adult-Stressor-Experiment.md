@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Moorea 2022 Adult Coral Stressor Experiment
-date: '2022-10-21'
+date: '2022-11-06'
 categories: Moorea_Adult_Stressor_2022
 tags: Fieldwork Gametogenesis Sampling Physiology Apulchra Light
 ---
@@ -69,10 +69,15 @@ The plots of environmental variables by treatment.
 ![environmental variables by treatment](https://github.com/urol-e5/apulchra_metabolism/blob/main/figures/environmental/treatment_daily_measurements.png?raw=true)
 
 ####ANOVA of light from the exposure period 
-####Light```summary(aov(par.center~treatment, data=daily_calc_exposure))
+####Light
+```
+summary(aov(par.center~treatment, data=daily_calc_exposure))
 ```
 |||||||
-|---|---|---|---|---|---|| |Df| Sum Sq| Mean Sq| F value | Pr(>F)   |treatment   | 2| 217323 | 108662 | 7.249 |0.00157 |Residuals  | 57 |854426|   14990 |       |         |   
+|---|---|---|---|---|---|
+| |Df| Sum Sq| Mean Sq| F value | Pr(>F)   |
+treatment   | 2| 217323 | 108662 | 7.249 |0.00157 |
+Residuals  | 57 |854426|   14990 |       |         |   
 
 # 05 November 2022
 
