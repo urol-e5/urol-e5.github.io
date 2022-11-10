@@ -130,33 +130,40 @@ Terava completed daily measurements between 13:00 - 13:30.
 
 # 30 October 2022
 
-### *Daily measurements* 
+No activity.  
 
 # 29 October 2022
 
 ### *Daily measurements* 
+Daily measurements were collected by Terava at 14:30 - 14:40.  
 
 # 28 October 2022
 
 ### *Daily measurements* 
-
+Daily measurements were collected at 12:20 - 12:30.  
 
 # 27 October 2022
 
 ### *Daily measurements* 
+Daily measurements were taken at 18:00 - 18:10.  
 
 # 26 October 2022
 
 ### *Daily measurements* 
+Daily measurements were taken at 09:20 - 09:30.  
+
+### *Cleaning tanks*  
+Terava and Danielle cleaned the E5 tanks today from 12:00 - 16:00.  
 
 # 25 October 2022
 
 ### *Daily measurements* 
+Daily measurements were taken at 15:00 - 15:10.  
 
 # 24 October 2022
 
 ### *Daily measurements* 
-
+Daily measurements were taken at 09:15 - 09:20.  
 
 # 23 October 2022
 
