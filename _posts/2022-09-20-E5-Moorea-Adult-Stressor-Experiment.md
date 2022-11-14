@@ -54,6 +54,42 @@ The following protocols and links to data will be used regularly by the field te
 **Feeding protocol:**  
 [Feeding protocol](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md)
 
+
+# 14 November 2022
+
+### *Daily measurements* 
+Hollie and Pierrick took daily measurements between 18:30 - 18:45.
+
+# 13 November 2022
+Putnam cleaned all corals and tanks. 
+
+### *Daily measurements* 
+
+# 12 November 2022
+
+### *Daily measurements* 
+# 11 November 2022
+
+### *Daily measurements* 
+Daily measurements were taken starting at 16:32.
+
+# 10 November 2022
+
+### *Daily measurements* 
+Daily measurements were taken starting at 16:28.
+
+# 09 November 2022
+
+### *Daily measurements* 
+# 08 November 2022
+Daily measurements were taken starting at 13:30.
+
+### *Daily measurements* 
+# 07 November 2022
+
+### *Daily measurements* 
+Daily measurements were taken starting at 13:20.
+
 # 06 November 2022
 
 ### *Daily measurements* 
