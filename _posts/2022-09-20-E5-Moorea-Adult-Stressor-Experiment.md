@@ -43,7 +43,7 @@ The following protocols and links to data will be used regularly by the field te
 [Fragment tracking datasheet](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv)  
 [Sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sample.id.csv)   
 
-**Baseline sampling:**
+**Baseline sampling:**  
 [Baseline sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Baseline-Sampling-Protocol.md)  
 [Baseline sampling checklist](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/baseline_sampling_checklist.csv)  
 [Sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/baseline_sampling/sample.id.csv)  
@@ -53,6 +53,23 @@ The following protocols and links to data will be used regularly by the field te
 
 **Feeding protocol:**  
 [Feeding protocol](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md)
+
+**Final sampling:**  
+[Baseline sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Final-Sampling-Protocol.md)  
+[Baseline sampling checklist](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sampling_checklist.csv)   
+[Sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sample.id.csv)   
+[Fragment tracking datasheet](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv)    
+
+# 22 November 2022  
+
+### *Planning final sampling*  
+
+Hollie, Ariana, Shayle, and Ross started planning the final sampling for this experiment. Ariana drafted sampling checklist and protocols for the team to revise and discuss over the next couple of weeks before sampling.  
+
+[Baseline sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Final-Sampling-Protocol.md)  
+[Baseline sampling checklist](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sampling_checklist.csv)   
+[Sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sample.id.csv)   
+[Fragment tracking datasheet](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv)    
 
 
 # 14 November 2022
