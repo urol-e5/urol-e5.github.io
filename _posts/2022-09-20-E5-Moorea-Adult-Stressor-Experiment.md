@@ -55,8 +55,8 @@ The following protocols and links to data will be used regularly by the field te
 [Feeding protocol](https://github.com/urol-e5/protocols/blob/master/2022-10-17-Moorea-E5-Feeding-Protocol.md)
 
 **Final sampling:**  
-[Baseline sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Final-Sampling-Protocol.md)  
-[Baseline sampling checklist](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sampling_checklist.csv)   
+[Final sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Final-Sampling-Protocol.md)  
+[Final sampling checklist](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sampling_checklist.csv)   
 [Sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sample.id.csv)   
 [Fragment tracking datasheet](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv)    
 
@@ -66,9 +66,9 @@ The following protocols and links to data will be used regularly by the field te
 
 Hollie, Ariana, Shayle, and Ross started planning the final sampling for this experiment. Ariana drafted sampling checklist and protocols for the team to revise and discuss over the next couple of weeks before sampling.  
 
-[Baseline sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Final-Sampling-Protocol.md)  
-[Baseline sampling checklist](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sampling_checklist.csv)   
-[Sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sample.id.csv)   
+[Final sampling protocol](https://github.com/urol-e5/protocols/blob/master/2022-09-30-Moorea-E5-Apulchra-Metabolism-Final-Sampling-Protocol.md)  
+[Final sampling checklist](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sampling_checklist.csv)   
+[Final sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sample.id.csv)   
 [Fragment tracking datasheet](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv)    
 
 
