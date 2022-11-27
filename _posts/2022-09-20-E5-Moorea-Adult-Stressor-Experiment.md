@@ -3,7 +3,7 @@ layout: post
 title: Moorea 2022 Adult Coral Stressor Experiment
 date: '2022-11-06'
 categories: Moorea_Adult_Stressor_2022
-tags: Fieldwork Gametogenesis Sampling Physiology Apulchra Light
+tags: Fieldwork Sampling Physiology Apulchra Light
 ---
 
 This post includes the full notebook for Sept-Dec 2022 *Acropora pulchra* adult coral experiment Moorea, French Polynesia. These notebook posts are updated in order of most recent to oldest.
@@ -60,6 +60,32 @@ The following protocols and links to data will be used regularly by the field te
 [Sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sample.id.csv)   
 [Fragment tracking datasheet](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv)    
 
+# 26 November 2022
+
+### *Daily flow checks* 
+Checked flows throughout the day 3 times.
+
+# 25 November 2022
+
+### *Daily measurements* 
+Cleaned all tanks in the afternoon. Cleaned all tubing lines and flushed the main line to improve flow. Downloaded temp/light loggers. One overgrown coral F16 was removed from tank 4. Fed corals from 18:00- 18:30
+
+#### Light
+![Light](https://github.com/urol-e5/apulchra_metabolism/blob/main/figures/environmental/timeseries_light_smooth.png?raw=true)
+
+![Temperature](https://github.com/urol-e5/apulchra_metabolism/blob/main/figures/environmental/timeseries_temp_smooth.png?raw=true)
+
+![Treatments](https://github.com/urol-e5/apulchra_metabolism/blob/main/figures/environmental/treatment_daily_measurements.png?raw=true)
+
+
+# 24 November 2022
+
+### *Daily flow checks* 
+
+# 23 November 2022
+
+### *Daily flow checks* 
+
 # 22 November 2022  
 
 ### *Planning final sampling*  
@@ -71,6 +97,27 @@ Hollie, Ariana, Shayle, and Ross started planning the final sampling for this ex
 [Final sample inventory](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/final_sampling/final_sample.id.csv)   
 [Fragment tracking datasheet](https://github.com/urol-e5/apulchra_metabolism/blob/main/data/fragments.csv)    
 
+# 21 November 2022
+
+### *Daily measurements* 
+# 20 November 2022
+
+### *Daily measurements* 
+# 19 November 2022
+
+### *Daily measurements* 
+# 18 November 2022
+
+### *Daily measurements* 
+# 17 November 2022
+
+### *Daily measurements* 
+# 16 November 2022
+
+### *Daily measurements* 
+# 15 November 2022
+
+### *Daily measurements* 
 
 # 14 November 2022
 
